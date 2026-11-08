@@ -1,0 +1,586 @@
+{
+  "schema": 1,
+  "source": "reviewed 0110a authoritative destination points; sea height is not a ground placeholder",
+  "places": [
+    {
+      "id": "BOAT_DOCK_0",
+      "name": "花间溪谷码头",
+      "point": [
+        -191.0,
+        2.1,
+        -191.0
+      ],
+      "role": "dock"
+    },
+    {
+      "id": "BOAT_DOCK_1",
+      "name": "潮汐海湾主码头",
+      "point": [
+        298.0,
+        2.6,
+        327.0
+      ],
+      "role": "dock"
+    },
+    {
+      "id": "BOAT_DOCK_2",
+      "name": "星海珊瑚岛迎宾码头",
+      "point": [
+        256.0,
+        -0.3999999999999999,
+        427.0
+      ],
+      "role": "dock"
+    },
+    {
+      "id": "BOAT_DOCK_3",
+      "name": "西岬听涛船点",
+      "point": [
+        -392.0,
+        -1.15,
+        364.600268518519
+      ],
+      "role": "dock"
+    },
+    {
+      "id": "BOAT_DOCK_4",
+      "name": "田园湾自由船点",
+      "point": [
+        -235.0,
+        -1.15,
+        322.12255859375
+      ],
+      "role": "dock"
+    },
+    {
+      "id": "BOAT_DOCK_5",
+      "name": "阳光沙岸船点",
+      "point": [
+        90.0,
+        -1.15,
+        296.515625
+      ],
+      "role": "dock"
+    },
+    {
+      "id": "BOAT_DOCK_6",
+      "name": "东岬海风船点",
+      "point": [
+        408.0,
+        -1.15,
+        347.115950842057
+      ],
+      "role": "dock"
+    },
+    {
+      "id": "BOAT_DOCK_7",
+      "name": "崖湾溪坞船点",
+      "point": [
+        341.0,
+        6.0,
+        84.0
+      ],
+      "role": "dock"
+    },
+    {
+      "id": "FARM",
+      "name": "暖阳农田",
+      "point": [
+        -270.0,
+        3.1,
+        292.5
+      ],
+      "role": "farm"
+    },
+    {
+      "id": "FOREST_MAIL",
+      "name": "树冠邮局",
+      "point": [
+        -30.0,
+        7.799999999999999,
+        487.0
+      ],
+      "role": "mail"
+    },
+    {
+      "id": "FOREST_ONSEN",
+      "name": "岩石温泉",
+      "point": [
+        -91.0,
+        3.0000000000000004,
+        493.0
+      ],
+      "role": "pool"
+    },
+    {
+      "id": "FOREST_PARKING106",
+      "name": "森屿双车架",
+      "point": [
+        -52,
+        0.6000000000000001,
+        464
+      ],
+      "role": "parking"
+    },
+    {
+      "id": "PASTURE",
+      "name": "海湾羊猪牧场",
+      "point": [
+        -316.0,
+        3.1,
+        290.0
+      ],
+      "role": "pasture"
+    },
+    {
+      "id": "POOL",
+      "name": "海岸浅水游乐池",
+      "point": [
+        -294.0,
+        1.4,
+        343.63128125
+      ],
+      "role": "pool"
+    },
+    {
+      "id": "PUBLIC_COAST_0",
+      "name": "西岬沙岸",
+      "point": [
+        -380.0,
+        -3.15,
+        399.153935185185
+      ],
+      "role": "boat"
+    },
+    {
+      "id": "PUBLIC_COAST_1",
+      "name": "田园西岸",
+      "point": [
+        -285.0,
+        -3.15,
+        367.87744140625
+      ],
+      "role": "boat"
+    },
+    {
+      "id": "PUBLIC_COAST_2",
+      "name": "农场海岸",
+      "point": [
+        -180.0,
+        -3.15,
+        336.62962962963
+      ],
+      "role": "boat"
+    },
+    {
+      "id": "PUBLIC_COAST_3",
+      "name": "阳光沙滩",
+      "point": [
+        -60.0,
+        -3.15,
+        319.53125
+      ],
+      "role": "boat"
+    },
+    {
+      "id": "PUBLIC_COAST_4",
+      "name": "海风沙岸",
+      "point": [
+        55.0,
+        -3.15,
+        321.6083984375
+      ],
+      "role": "boat"
+    },
+    {
+      "id": "PUBLIC_COAST_5",
+      "name": "东湾白沙",
+      "point": [
+        165.0,
+        -3.15,
+        335.202093764224
+      ],
+      "role": "boat"
+    },
+    {
+      "id": "PUBLIC_COAST_6",
+      "name": "河口南岸",
+      "point": [
+        302.0,
+        -3.15,
+        361.060548104956
+      ],
+      "role": "boat"
+    },
+    {
+      "id": "PUBLIC_COAST_7",
+      "name": "东岬沙岸",
+      "point": [
+        390.0,
+        -3.15,
+        390.418297678653
+      ],
+      "role": "boat"
+    },
+    {
+      "id": "PUBLIC_FOREST_0",
+      "name": "森屿环岸小船",
+      "point": [
+        -60.0,
+        -3.0,
+        446.0
+      ],
+      "role": "boat"
+    },
+    {
+      "id": "PUBLIC_FOREST_1",
+      "name": "森屿环岸小船",
+      "point": [
+        5.0,
+        -3.0,
+        490.0
+      ],
+      "role": "boat"
+    },
+    {
+      "id": "PUBLIC_FOREST_2",
+      "name": "森屿环岸小船",
+      "point": [
+        -60.0,
+        -3.0,
+        534.0
+      ],
+      "role": "boat"
+    },
+    {
+      "id": "PUBLIC_FOREST_3",
+      "name": "森屿环岸小船",
+      "point": [
+        -125.0,
+        -3.0,
+        490.0
+      ],
+      "role": "boat"
+    },
+    {
+      "id": "SEA_WALK_EAST",
+      "name": "环湾栈道 · 东入口",
+      "point": [
+        390.0,
+        1.25,
+        357.418297678653
+      ],
+      "role": "walk"
+    },
+    {
+      "id": "SEA_WALK_WEST",
+      "name": "环湾栈道 · 西入口",
+      "point": [
+        120.0,
+        1.25,
+        296.0
+      ],
+      "role": "walk"
+    },
+    {
+      "id": "SHALLOWS_MAIN",
+      "name": "阳光涉水沙滩",
+      "point": [
+        -60.0,
+        -1.4,
+        294.53125
+      ],
+      "role": "wade"
+    },
+    {
+      "id": "VEHICLE_MAP_0",
+      "name": "双车停车架 1",
+      "point": [
+        300.0,
+        3.6,
+        246.0
+      ],
+      "role": "parking"
+    },
+    {
+      "id": "VEHICLE_MAP_1",
+      "name": "双车停车架 2",
+      "point": [
+        15.0,
+        1.1,
+        276.0
+      ],
+      "role": "parking"
+    },
+    {
+      "id": "VEHICLE_MAP_2",
+      "name": "双车停车架 3",
+      "point": [
+        -122.0,
+        4.6,
+        215.0
+      ],
+      "role": "parking"
+    },
+    {
+      "id": "VEHICLE_MAP_3",
+      "name": "双车停车架 4",
+      "point": [
+        -48.0,
+        4.1,
+        102.0
+      ],
+      "role": "parking"
+    },
+    {
+      "id": "VEHICLE_MAP_4",
+      "name": "双车停车架 5",
+      "point": [
+        275.0,
+        15.6,
+        -190.0
+      ],
+      "role": "parking"
+    },
+    {
+      "id": "VEHICLE_MAP_5",
+      "name": "双车停车架 6",
+      "point": [
+        -241.0,
+        17.6,
+        -198.0
+      ],
+      "role": "parking"
+    },
+    {
+      "id": "VILLA_WADE_0",
+      "name": "水屋 1 · 亲水木梯",
+      "point": [
+        283.8,
+        -2.8,
+        434.5
+      ],
+      "role": "wade"
+    },
+    {
+      "id": "VILLA_WADE_1",
+      "name": "水屋 2 · 亲水木梯",
+      "point": [
+        287.8,
+        -2.8,
+        449.5
+      ],
+      "role": "wade"
+    },
+    {
+      "id": "VILLA_WADE_2",
+      "name": "水屋 3 · 亲水木梯",
+      "point": [
+        287.8,
+        -2.8,
+        464.5
+      ],
+      "role": "wade"
+    },
+    {
+      "id": "VILLA_WADE_3",
+      "name": "水屋 4 · 亲水木梯",
+      "point": [
+        283.8,
+        -2.8,
+        479.5
+      ],
+      "role": "wade"
+    },
+    {
+      "id": "Z01",
+      "name": "海风站",
+      "point": [
+        292.0,
+        3.6,
+        252.0
+      ],
+      "role": "district"
+    },
+    {
+      "id": "Z02",
+      "name": "潮汐海岸",
+      "point": [
+        0.0,
+        1.0,
+        274.0
+      ],
+      "role": "district"
+    },
+    {
+      "id": "Z03",
+      "name": "花音商店街",
+      "point": [
+        -123.0,
+        4.0,
+        212.0
+      ],
+      "role": "district"
+    },
+    {
+      "id": "Z04",
+      "name": "星光广场",
+      "point": [
+        0.0,
+        4.1,
+        112.0
+      ],
+      "role": "district"
+    },
+    {
+      "id": "Z05",
+      "name": "声音与舞台",
+      "point": [
+        -260.0,
+        9.1,
+        35.0
+      ],
+      "role": "district"
+    },
+    {
+      "id": "Z06",
+      "name": "光影艺文区",
+      "point": [
+        225.0,
+        20.6,
+        -220.0
+      ],
+      "role": "district"
+    },
+    {
+      "id": "Z07",
+      "name": "花间生活",
+      "point": [
+        -242.0,
+        23.6,
+        -226.0
+      ],
+      "role": "district"
+    },
+    {
+      "id": "Z08",
+      "name": "云间山林",
+      "point": [
+        0.0,
+        70.13,
+        -375.0
+      ],
+      "role": "district"
+    },
+    {
+      "id": "Z09",
+      "name": "崖湾嵌岩聚落",
+      "point": [
+        298.0,
+        14.499999999999998,
+        24.0
+      ],
+      "role": "district"
+    },
+    {
+      "id": "Z09_COURT",
+      "name": "崖湾三级石街",
+      "point": [
+        298.0,
+        14.499999999999998,
+        24.0
+      ],
+      "role": "district"
+    },
+    {
+      "id": "FOREST_FIREFLY",
+      "name": "萤火观察庭",
+      "point": [
+        -81.0,
+        3.1999999999999997,
+        486.0
+      ],
+      "role": "firefly"
+    },
+    {
+      "id": "ISLAND",
+      "name": "星海珊瑚岛",
+      "point": [
+        256.0,
+        -0.3999999999999999,
+        427.0
+      ],
+      "role": "district"
+    },
+    {
+      "id": "ISLAND_02",
+      "name": "星夜萤火森屿",
+      "point": [
+        -60.0,
+        0.0,
+        461.0
+      ],
+      "role": "district"
+    },
+    {
+      "id": "PUBLIC_CORAL_0",
+      "name": "珊瑚岛环岸小船",
+      "point": [
+        257.999157294249,
+        -3.0,
+        425.20774663037
+      ],
+      "role": "boat"
+    },
+    {
+      "id": "PUBLIC_CORAL_1",
+      "name": "珊瑚岛环岸小船",
+      "point": [
+        264.804189927453,
+        -3.0,
+        469.971151389289
+      ],
+      "role": "boat"
+    },
+    {
+      "id": "PUBLIC_CORAL_2",
+      "name": "珊瑚岛环岸小船",
+      "point": [
+        195.574944137233,
+        -3.0,
+        476.680381326046
+      ],
+      "role": "boat"
+    },
+    {
+      "id": "PUBLIC_CORAL_3",
+      "name": "珊瑚岛环岸小船",
+      "point": [
+        182.59499841448,
+        -3.0,
+        432.51540735002
+      ],
+      "role": "boat"
+    },
+    {
+      "id": "SEA_WALK_ISLAND",
+      "name": "环湾栈道 · 海岛南岸",
+      "point": [
+        225.0,
+        0.8000000000000003,
+        459.0
+      ],
+      "role": "walk"
+    },
+    {
+      "id": "SHALLOWS_ISLAND",
+      "name": "珊瑚岛涉水沙滩",
+      "point": [
+        190.0,
+        -1.2,
+        440.0
+      ],
+      "role": "wade"
+    }
+  ]
+}

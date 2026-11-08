@@ -1,0 +1,235 @@
+[
+  {
+    "id": "poster_sunset",
+    "runtime_path": "assets/media/bay_life/poster_sunset.jpg",
+    "source_program": "sunset",
+    "source_runtime_path": "assets/media/sunset.ogv",
+    "source_sha256": "d631ed7debe81e670b2c76ea39882fdf242e969d5ea7c9a9f8eee2375f003c5d",
+    "requested_frame_seconds": 2.0,
+    "reported_frame_seconds": 2.033333333333333,
+    "poster_sha256": "dc741c542860efd1a9ea82e9bc6f4ce21318162769565f43318ddb0ef3eacfca",
+    "source_record": {
+      "asset_id": "sunset",
+      "title": "落日未眠",
+      "display_title": "落日未眠 · 工作室公开 MV",
+      "publisher": "鞠婧祎_Official",
+      "post_url": "https://weibo.com/7920554800/Px4Emr83o",
+      "publish_time": "2025-06-18 10:00",
+      "source_path": "D:\\微博图片下载\\鞠婧祎_Official\\video\\20250618_Px4Emr83o.mp4",
+      "source_copy": "source_media\\20250618_Px4Emr83o.mp4",
+      "source_sha256": "ce2466338c8d60300b3c4bf54a191f216cc24bd9973a85f318b13699b42a4151",
+      "video": "assets/media/sunset.ogv",
+      "audio": "assets/media/sunset.ogg",
+      "rights": "unknown; no public redistribution",
+      "verification": "Local archived post and file mapping; actual playback pending",
+      "conversion": "FFmpeg 7.1 libtheora 1280x720 30fps; aspect preserved with padding; libvorbis q5",
+      "source_caption": "#鞠婧祎[超话]# 🎂 #鞠婧祎0618生日快乐# ·#鞠婧祎全新生日单曲MV# 被夕阳渲染的海面，无论昼夜，爱意未眠，希望你们喜欢这份全新的音乐礼物[爱慕] 鞠婧祎_Official的微博视频  ",
+      "program_type": "music_video",
+      "venues": [
+        "B03",
+        "B06",
+        "B08",
+        "B09",
+        "B10",
+        "N09"
+      ],
+      "archive_publish_time": "2025-06-18 10:00",
+      "archive_visual_review": "Existing third-round actual playback; not a new online check",
+      "duration_s": 180.7,
+      "metadata": {
+        "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+        "codec": "h264",
+        "pix_fmt": "yuv420p(tv, bt709, progressive)",
+        "audio_codec": "aac",
+        "fps": 24.0,
+        "source_size": [
+          640,
+          480
+        ],
+        "size": [
+          640,
+          480
+        ],
+        "rotate": 0,
+        "duration": 180.7
+      }
+    },
+    "primary_venue": "B06",
+    "category": "C 本地节目真实帧",
+    "permission": "same unconfirmed local-only source permission; no generated human image"
+  },
+  {
+    "id": "poster_moon_episode8",
+    "runtime_path": "assets/media/bay_life/poster_moon_episode8.jpg",
+    "source_program": "moon_episode8",
+    "source_runtime_path": "assets/media/moon_episode8.ogv",
+    "source_sha256": "2ed81a3df927a42c2e23f3c181b1b4b633971c0df011911fd71d64b38b3a4c54",
+    "requested_frame_seconds": 2.0,
+    "reported_frame_seconds": 2.0,
+    "poster_sha256": "97352f8bd2f22ed86dd36e6480c4257e56be8c74a4cbfcb16d62ea976c17853f",
+    "source_record": {
+      "asset_id": "moon_episode8",
+      "post_id": "QALlcykhg",
+      "title": "月鳞绮纪 · 工作室影像第八回",
+      "venues": [
+        "B06"
+      ],
+      "post_url": "https://weibo.com/7920554800/QALlcykhg",
+      "archive_publish_time": "2026-04-14 14:56",
+      "archive_post_type": "not recorded",
+      "source_caption": "#鞠婧祎[超话]#  ❀ 𝟲𝟱𝟭❀ #月鳞绮纪#《狐妖「衣」闻录·第八回》拼凑的，虚假的，命运骗局里的——“我愿意”三个字，是她自己的。@鞠婧祎 #鞠婧祎露芜衣##鞠婧祎露芜衣狐系图鉴# 鞠婧祎_Official_露芜衣全肯定版的微博视频  ",
+      "source_path": "D:\\微博图片下载\\鞠婧祎_Official\\video\\20260414_QALlcykhg.mp4",
+      "original_media_url": "https://f.video.weibocdn.com/o0/z6PkfST4lx08wR5BH0Ew010412006FxP0E010.mp4?label=mp4_hd&template=852x480.25.0&Expires=1785123951&ssig=DCzL7116ox&KID=unistore,video",
+      "metadata": {
+        "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+        "codec": "h264",
+        "pix_fmt": "yuv420p(tv, bt709, progressive)",
+        "audio_codec": "aac",
+        "fps": 25.0,
+        "source_size": [
+          852,
+          480
+        ],
+        "size": [
+          852,
+          480
+        ],
+        "rotate": 0,
+        "duration": 23.55
+      },
+      "visual_review": "Three original sampled frames reviewed in reports/program_source_contact.jpg; rehearsal, stage performance, drama montage and song excerpt distinguished",
+      "rights": "unknown; private local review, no public redistribution",
+      "display_title": "月鳞绮纪 · 工作室影像第八回",
+      "publisher": "鞠婧祎_Official",
+      "program_type": "drama_edit",
+      "source_copy": "source_media/20260414_QALlcykhg.mp4",
+      "source_sha256": "bdbd60afe69f169bc9d22e6521626eb18aaf36115da54ee898b7a1e20b8968a5",
+      "video": "assets/media/moon_episode8.ogv",
+      "audio": "",
+      "duration_s": 23.55,
+      "acquired_local": "2026-10-11",
+      "live_post_verification": "Direct web access attempted 2026-10-11; inaccessible via tool; archive mapping retained, not claimed live verified",
+      "conversion": "FFmpeg Theora 1280x720/30fps with original aspect ratio preserved and padding; Vorbis q5",
+      "godot_validation": "pending actual playback"
+    },
+    "primary_venue": "B06",
+    "category": "C 本地节目真实帧",
+    "permission": "same unconfirmed local-only source permission; no generated human image"
+  },
+  {
+    "id": "poster_rehearsal",
+    "runtime_path": "assets/media/bay_life/poster_rehearsal.jpg",
+    "source_program": "rehearsal",
+    "source_runtime_path": "assets/media/rehearsal.ogv",
+    "source_sha256": "26f1027e1b4f97b952caa9170b70afd0b894fdc6c868701ca18df7823bf45be7",
+    "requested_frame_seconds": 2.0,
+    "reported_frame_seconds": 2.0,
+    "poster_sha256": "dc60cb20ad57472f3635eddf7181bcd56113dffd8730fa62ef69c87b88e06356",
+    "source_record": {
+      "asset_id": "rehearsal",
+      "post_id": "Qc12mlWCC",
+      "title": "彩排直拍",
+      "venues": [
+        "B08"
+      ],
+      "post_url": "https://weibo.com/7920554800/Qc12mlWCC",
+      "archive_publish_time": "2025-11-02 20:56",
+      "archive_post_type": "not recorded",
+      "source_caption": "#鞠婧祎[超话]# 月华氤氲，伞影流转。以惊鸿之态，唤醒幻舞之魂🍁@鞠婧祎 彩排直拍来咯[偷乐] 鞠婧祎_Official的微博视频  ",
+      "source_path": "D:\\微博图片下载\\鞠婧祎_Official\\video\\20251102_Qc12mlWCC.mp4",
+      "original_media_url": "https://f.video.weibocdn.com/o0/juOiowZflx08sFuIZYE001041200mYBI0E010.mp4?label=mp4_hd&template=540x960.26.0&Expires=1785125114&ssig=I93hA7Y8oQ&KID=unistore,video",
+      "metadata": {
+        "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+        "codec": "h264",
+        "pix_fmt": "yuv420p(tv, bt709, progressive)",
+        "audio_codec": "aac",
+        "fps": 30.0,
+        "source_size": [
+          540,
+          960
+        ],
+        "size": [
+          540,
+          960
+        ],
+        "rotate": 0,
+        "duration": 46.53
+      },
+      "visual_review": "Three original sampled frames reviewed in reports/program_source_contact.jpg; rehearsal, stage performance, drama montage and song excerpt distinguished",
+      "rights": "unknown; private local review, no public redistribution",
+      "display_title": "彩排直拍",
+      "publisher": "鞠婧祎_Official",
+      "program_type": "dance_rehearsal",
+      "source_copy": "source_media/20251102_Qc12mlWCC.mp4",
+      "source_sha256": "d1b41e90ac1b8b0312009dd4727522ccf56ce27f193cb521706b13ecf20c1793",
+      "video": "assets/media/rehearsal.ogv",
+      "audio": "",
+      "duration_s": 46.53,
+      "acquired_local": "2026-10-11",
+      "live_post_verification": "Direct web access attempted 2026-10-11; inaccessible via tool; archive mapping retained, not claimed live verified",
+      "conversion": "FFmpeg Theora 1280x720/30fps with original aspect ratio preserved and padding; Vorbis q5",
+      "godot_validation": "pending actual playback"
+    },
+    "primary_venue": "B08",
+    "category": "C 本地节目真实帧",
+    "permission": "same unconfirmed local-only source permission; no generated human image"
+  },
+  {
+    "id": "poster_wall_stage",
+    "runtime_path": "assets/media/bay_life/poster_wall_stage.jpg",
+    "source_program": "wall_stage",
+    "source_runtime_path": "assets/media/wall_stage.ogv",
+    "source_sha256": "1c999281b386979cb195de7ade84d45b10c186ecb7ae4d781259ed9e3723e387",
+    "requested_frame_seconds": 2.0,
+    "reported_frame_seconds": 2.0,
+    "poster_sha256": "f6bab6f6b405521a1b821e219c3240fa64c1fb8b3f6af83209e48dcd8a34fb68",
+    "source_record": {
+      "asset_id": "wall_stage",
+      "post_id": "PbRSI05ho",
+      "title": "壁上观 · 工作室直拍",
+      "venues": [
+        "B10"
+      ],
+      "post_url": "https://weibo.com/7920554800/PbRSI05ho",
+      "archive_publish_time": "2025-01-29 22:53",
+      "archive_post_type": "not recorded",
+      "source_caption": "#鞠婧祎[超话]# [相爱] #江苏卫视春晚# 直拍速递，浮光跃影照新年！点击回顾《壁上观》的心动乐章@鞠婧祎 鞠婧祎_Official的微博视频  ",
+      "source_path": "D:\\微博图片下载\\鞠婧祎_Official\\video\\20250129_PbRSI05ho.mp4",
+      "original_media_url": "https://f.video.weibocdn.com/o0/gkNWCRl0lx08lxOtCjOM01041201hBTK0E010.mp4?label=mp4_hd&template=540x960.24.0&Expires=1785126017&ssig=TNvYCqpZal&KID=unistore,video",
+      "metadata": {
+        "ffmpeg_version": "7.1-essentials_build-www.gyan.dev built with gcc 14.2.0 (Rev1, Built by MSYS2 project)",
+        "codec": "h264",
+        "pix_fmt": "yuv420p(progressive)",
+        "audio_codec": "aac",
+        "fps": 25.0,
+        "source_size": [
+          540,
+          960
+        ],
+        "size": [
+          540,
+          960
+        ],
+        "rotate": 0,
+        "duration": 194.98
+      },
+      "visual_review": "Three original sampled frames reviewed in reports/program_source_contact.jpg; rehearsal, stage performance, drama montage and song excerpt distinguished",
+      "rights": "unknown; private local review, no public redistribution",
+      "display_title": "壁上观 · 工作室直拍",
+      "publisher": "鞠婧祎_Official",
+      "program_type": "stage_performance",
+      "source_copy": "source_media/20250129_PbRSI05ho.mp4",
+      "source_sha256": "4a272024286665a5beba92ec8f675d155783646bf8d21bd90517e79ea000d635",
+      "video": "assets/media/wall_stage.ogv",
+      "audio": "",
+      "duration_s": 194.98,
+      "acquired_local": "2026-10-11",
+      "live_post_verification": "Direct web access attempted 2026-10-11; inaccessible via tool; archive mapping retained, not claimed live verified",
+      "conversion": "FFmpeg Theora 1280x720/30fps with original aspect ratio preserved and padding; Vorbis q5",
+      "godot_validation": "pending actual playback"
+    },
+    "primary_venue": "B10",
+    "category": "C 本地节目真实帧",
+    "permission": "same unconfirmed local-only source permission; no generated human image"
+  }
+]

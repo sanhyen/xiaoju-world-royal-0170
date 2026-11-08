@@ -1,0 +1,1395 @@
+{
+  "baseline": "0.11.0",
+  "places": [
+    {
+      "id": "Z01",
+      "kind": "zone",
+      "parent": ""
+    },
+    {
+      "id": "Z02",
+      "kind": "zone",
+      "parent": ""
+    },
+    {
+      "id": "Z03",
+      "kind": "zone",
+      "parent": ""
+    },
+    {
+      "id": "Z04",
+      "kind": "zone",
+      "parent": ""
+    },
+    {
+      "id": "Z05",
+      "kind": "zone",
+      "parent": ""
+    },
+    {
+      "id": "Z06",
+      "kind": "zone",
+      "parent": ""
+    },
+    {
+      "id": "Z07",
+      "kind": "zone",
+      "parent": ""
+    },
+    {
+      "id": "Z08",
+      "kind": "zone",
+      "parent": ""
+    },
+    {
+      "id": "Z09",
+      "kind": "zone",
+      "parent": ""
+    },
+    {
+      "id": "B01",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "B02",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "B03",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "B04",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "B05",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "B06",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "B07",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "B08",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "B09",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "B10",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "B11",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "B12",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "B13",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "B01_UPPER",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "B04_UPPER",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "B05_UPPER",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "B06_UPPER",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "B07_UPPER",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "B08_UPPER",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "B09_UPPER",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "B10_UPPER",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "B12_UPPER",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "B13_UPPER",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "H01_UPPER",
+      "kind": "upper",
+      "parent": ""
+    },
+    {
+      "id": "H03_UPPER",
+      "kind": "upper",
+      "parent": ""
+    },
+    {
+      "id": "H05_UPPER",
+      "kind": "upper",
+      "parent": ""
+    },
+    {
+      "id": "H08_UPPER",
+      "kind": "upper",
+      "parent": ""
+    },
+    {
+      "id": "Z09_B1_UPPER",
+      "kind": "upper",
+      "parent": ""
+    },
+    {
+      "id": "Z09_B2_UPPER",
+      "kind": "upper",
+      "parent": ""
+    },
+    {
+      "id": "Z09_B4_UPPER",
+      "kind": "upper",
+      "parent": ""
+    },
+    {
+      "id": "H01",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "H02",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "H03",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "H04",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "H05",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "H06",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "H07",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "H08",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "FARM",
+      "kind": "farm",
+      "parent": ""
+    },
+    {
+      "id": "PASTURE",
+      "kind": "pasture",
+      "parent": ""
+    },
+    {
+      "id": "POOL",
+      "kind": "pool",
+      "parent": ""
+    },
+    {
+      "id": "ISLAND",
+      "kind": "island",
+      "parent": ""
+    },
+    {
+      "id": "H09",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "H10",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "H11",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "H12",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "H13",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "H14",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "CREEK_TEA",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "SEA_WALK_WEST",
+      "kind": "seaside",
+      "parent": ""
+    },
+    {
+      "id": "SEA_WALK_EAST",
+      "kind": "seaside",
+      "parent": ""
+    },
+    {
+      "id": "SEA_WALK_ISLAND",
+      "kind": "seaside",
+      "parent": ""
+    },
+    {
+      "id": "SHALLOWS_MAIN",
+      "kind": "seaside",
+      "parent": ""
+    },
+    {
+      "id": "SHALLOWS_ISLAND",
+      "kind": "seaside",
+      "parent": ""
+    },
+    {
+      "id": "Z09_COURT",
+      "kind": "district",
+      "parent": ""
+    },
+    {
+      "id": "Z09_B1",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "Z09_B2",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "Z09_B3",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "Z09_B4",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "Z09_B5",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "Z09_B6",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "VILLA_WADE_0",
+      "kind": "wading",
+      "parent": ""
+    },
+    {
+      "id": "VILLA_WADE_1",
+      "kind": "wading",
+      "parent": ""
+    },
+    {
+      "id": "VILLA_WADE_2",
+      "kind": "wading",
+      "parent": ""
+    },
+    {
+      "id": "VILLA_WADE_3",
+      "kind": "wading",
+      "parent": ""
+    },
+    {
+      "id": "ISLAND_02",
+      "kind": "island",
+      "parent": ""
+    },
+    {
+      "id": "FOREST_ONSEN",
+      "kind": "rest",
+      "parent": ""
+    },
+    {
+      "id": "FOREST_FIREFLY",
+      "kind": "collection",
+      "parent": ""
+    },
+    {
+      "id": "FOREST_MAIL",
+      "kind": "collection",
+      "parent": ""
+    },
+    {
+      "id": "TREEHOUSE_1",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "TREEHOUSE_2",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "TREEHOUSE_3",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "TREEHOUSE_4",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "FOREST_LODGE",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "FOREST_OBSERVATORY",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "THEME_EVERYDAY",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "THEME_WAITING",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "THEME_POEM",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "THEME_FROST",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "THEME_BLOSSOM",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "THEME_DAILY",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "PUBLIC_COAST_0",
+      "kind": "free_boat",
+      "parent": ""
+    },
+    {
+      "id": "PUBLIC_COAST_1",
+      "kind": "free_boat",
+      "parent": ""
+    },
+    {
+      "id": "PUBLIC_COAST_2",
+      "kind": "free_boat",
+      "parent": ""
+    },
+    {
+      "id": "PUBLIC_COAST_3",
+      "kind": "free_boat",
+      "parent": ""
+    },
+    {
+      "id": "PUBLIC_COAST_4",
+      "kind": "free_boat",
+      "parent": ""
+    },
+    {
+      "id": "PUBLIC_COAST_5",
+      "kind": "free_boat",
+      "parent": ""
+    },
+    {
+      "id": "PUBLIC_COAST_6",
+      "kind": "free_boat",
+      "parent": ""
+    },
+    {
+      "id": "PUBLIC_COAST_7",
+      "kind": "free_boat",
+      "parent": ""
+    },
+    {
+      "id": "PUBLIC_CORAL_0",
+      "kind": "free_boat",
+      "parent": ""
+    },
+    {
+      "id": "PUBLIC_CORAL_1",
+      "kind": "free_boat",
+      "parent": ""
+    },
+    {
+      "id": "PUBLIC_CORAL_2",
+      "kind": "free_boat",
+      "parent": ""
+    },
+    {
+      "id": "PUBLIC_CORAL_3",
+      "kind": "free_boat",
+      "parent": ""
+    },
+    {
+      "id": "PUBLIC_FOREST_0",
+      "kind": "free_boat",
+      "parent": ""
+    },
+    {
+      "id": "PUBLIC_FOREST_1",
+      "kind": "free_boat",
+      "parent": ""
+    },
+    {
+      "id": "PUBLIC_FOREST_2",
+      "kind": "free_boat",
+      "parent": ""
+    },
+    {
+      "id": "PUBLIC_FOREST_3",
+      "kind": "free_boat",
+      "parent": ""
+    },
+    {
+      "id": "BOAT_DOCK_0",
+      "kind": "boat",
+      "parent": ""
+    },
+    {
+      "id": "BOAT_DOCK_1",
+      "kind": "boat",
+      "parent": ""
+    },
+    {
+      "id": "BOAT_DOCK_2",
+      "kind": "boat",
+      "parent": ""
+    },
+    {
+      "id": "BOAT_DOCK_3",
+      "kind": "boat",
+      "parent": ""
+    },
+    {
+      "id": "BOAT_DOCK_4",
+      "kind": "boat",
+      "parent": ""
+    },
+    {
+      "id": "BOAT_DOCK_5",
+      "kind": "boat",
+      "parent": ""
+    },
+    {
+      "id": "BOAT_DOCK_6",
+      "kind": "boat",
+      "parent": ""
+    },
+    {
+      "id": "BOAT_DOCK_7",
+      "kind": "boat",
+      "parent": ""
+    },
+    {
+      "id": "BAKERY",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "LISTENING_WEST",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "LISTENING_EAST",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "CRAFT",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "VILLA_0",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "VILLA_1",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "VILLA_2",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "VILLA_3",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "ISLAND_LOBBY",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "AZURE_VIEW",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "AZURE_LIGHT",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "AZURE_WEAVE",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "AZURE_WATER",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "AZURE_GLASS",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "AZURE_TIDE",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "AZURE_MODEL",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "AZURE_SAIL",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "CASTLE_MAIN",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "CASTLE_PAPER",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "CASTLE_CLOTH",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "CASTLE_MATERIAL",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "CASTLE_DISPLAY",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "CASTLE_TEA",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "CABLE_LOWER",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "CABLE_UPPER",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "SUMMIT_TEA",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "LIGHTHOUSE",
+      "kind": "venue",
+      "parent": ""
+    },
+    {
+      "id": "FOREST_PARKING106",
+      "kind": "vehicle",
+      "parent": ""
+    },
+    {
+      "id": "VEHICLE_MAP_0",
+      "kind": "vehicle",
+      "parent": ""
+    },
+    {
+      "id": "VEHICLE_MAP_1",
+      "kind": "vehicle",
+      "parent": ""
+    },
+    {
+      "id": "VEHICLE_MAP_2",
+      "kind": "vehicle",
+      "parent": ""
+    },
+    {
+      "id": "VEHICLE_MAP_3",
+      "kind": "vehicle",
+      "parent": ""
+    },
+    {
+      "id": "VEHICLE_MAP_4",
+      "kind": "vehicle",
+      "parent": ""
+    },
+    {
+      "id": "VEHICLE_MAP_5",
+      "kind": "vehicle",
+      "parent": ""
+    },
+    {
+      "id": "B01_FLOOR_0",
+      "kind": "upper",
+      "parent": "B01"
+    },
+    {
+      "id": "B02_FLOOR_0",
+      "kind": "upper",
+      "parent": "B02"
+    },
+    {
+      "id": "B02_FLOOR_1",
+      "kind": "upper",
+      "parent": "B02"
+    },
+    {
+      "id": "B03_FLOOR_0",
+      "kind": "upper",
+      "parent": "B03"
+    },
+    {
+      "id": "B03_FLOOR_1",
+      "kind": "upper",
+      "parent": "B03"
+    },
+    {
+      "id": "B03_FLOOR_2",
+      "kind": "upper",
+      "parent": "B03"
+    },
+    {
+      "id": "B04_FLOOR_0",
+      "kind": "upper",
+      "parent": "B04"
+    },
+    {
+      "id": "B05_FLOOR_0",
+      "kind": "upper",
+      "parent": "B05"
+    },
+    {
+      "id": "B06_FLOOR_0",
+      "kind": "upper",
+      "parent": "B06"
+    },
+    {
+      "id": "B07_FLOOR_0",
+      "kind": "upper",
+      "parent": "B07"
+    },
+    {
+      "id": "B07_FLOOR_1",
+      "kind": "upper",
+      "parent": "B07"
+    },
+    {
+      "id": "B08_FLOOR_0",
+      "kind": "upper",
+      "parent": "B08"
+    },
+    {
+      "id": "B08_FLOOR_1",
+      "kind": "upper",
+      "parent": "B08"
+    },
+    {
+      "id": "B09_FLOOR_0",
+      "kind": "upper",
+      "parent": "B09"
+    },
+    {
+      "id": "B10_FLOOR_0",
+      "kind": "upper",
+      "parent": "B10"
+    },
+    {
+      "id": "B11_FLOOR_0",
+      "kind": "upper",
+      "parent": "B11"
+    },
+    {
+      "id": "B11_FLOOR_1",
+      "kind": "upper",
+      "parent": "B11"
+    },
+    {
+      "id": "B12_FLOOR_0",
+      "kind": "upper",
+      "parent": "B12"
+    },
+    {
+      "id": "B13_FLOOR_0",
+      "kind": "upper",
+      "parent": "B13"
+    },
+    {
+      "id": "B01_UPPER_FLOOR_0",
+      "kind": "upper",
+      "parent": "B01_UPPER"
+    },
+    {
+      "id": "B01_UPPER_FLOOR_1",
+      "kind": "upper",
+      "parent": "B01_UPPER"
+    },
+    {
+      "id": "B01_UPPER_FLOOR_2",
+      "kind": "upper",
+      "parent": "B01_UPPER"
+    },
+    {
+      "id": "B04_UPPER_FLOOR_0",
+      "kind": "upper",
+      "parent": "B04_UPPER"
+    },
+    {
+      "id": "B04_UPPER_FLOOR_1",
+      "kind": "upper",
+      "parent": "B04_UPPER"
+    },
+    {
+      "id": "B05_UPPER_FLOOR_0",
+      "kind": "upper",
+      "parent": "B05_UPPER"
+    },
+    {
+      "id": "B05_UPPER_FLOOR_1",
+      "kind": "upper",
+      "parent": "B05_UPPER"
+    },
+    {
+      "id": "B06_UPPER_FLOOR_0",
+      "kind": "upper",
+      "parent": "B06_UPPER"
+    },
+    {
+      "id": "B06_UPPER_FLOOR_1",
+      "kind": "upper",
+      "parent": "B06_UPPER"
+    },
+    {
+      "id": "B07_UPPER_FLOOR_0",
+      "kind": "upper",
+      "parent": "B07_UPPER"
+    },
+    {
+      "id": "B07_UPPER_FLOOR_1",
+      "kind": "upper",
+      "parent": "B07_UPPER"
+    },
+    {
+      "id": "B08_UPPER_FLOOR_0",
+      "kind": "upper",
+      "parent": "B08_UPPER"
+    },
+    {
+      "id": "B08_UPPER_FLOOR_1",
+      "kind": "upper",
+      "parent": "B08_UPPER"
+    },
+    {
+      "id": "B09_UPPER_FLOOR_0",
+      "kind": "upper",
+      "parent": "B09_UPPER"
+    },
+    {
+      "id": "B09_UPPER_FLOOR_1",
+      "kind": "upper",
+      "parent": "B09_UPPER"
+    },
+    {
+      "id": "B10_UPPER_FLOOR_0",
+      "kind": "upper",
+      "parent": "B10_UPPER"
+    },
+    {
+      "id": "B10_UPPER_FLOOR_1",
+      "kind": "upper",
+      "parent": "B10_UPPER"
+    },
+    {
+      "id": "B12_UPPER_FLOOR_0",
+      "kind": "upper",
+      "parent": "B12_UPPER"
+    },
+    {
+      "id": "B12_UPPER_FLOOR_1",
+      "kind": "upper",
+      "parent": "B12_UPPER"
+    },
+    {
+      "id": "B13_UPPER_FLOOR_0",
+      "kind": "upper",
+      "parent": "B13_UPPER"
+    },
+    {
+      "id": "B13_UPPER_FLOOR_1",
+      "kind": "upper",
+      "parent": "B13_UPPER"
+    },
+    {
+      "id": "H01_FLOOR_0",
+      "kind": "upper",
+      "parent": "H01"
+    },
+    {
+      "id": "H01_FLOOR_1",
+      "kind": "upper",
+      "parent": "H01"
+    },
+    {
+      "id": "H02_FLOOR_0",
+      "kind": "upper",
+      "parent": "H02"
+    },
+    {
+      "id": "H03_FLOOR_0",
+      "kind": "upper",
+      "parent": "H03"
+    },
+    {
+      "id": "H03_FLOOR_1",
+      "kind": "upper",
+      "parent": "H03"
+    },
+    {
+      "id": "H04_FLOOR_0",
+      "kind": "upper",
+      "parent": "H04"
+    },
+    {
+      "id": "H05_FLOOR_0",
+      "kind": "upper",
+      "parent": "H05"
+    },
+    {
+      "id": "H05_FLOOR_1",
+      "kind": "upper",
+      "parent": "H05"
+    },
+    {
+      "id": "H06_FLOOR_0",
+      "kind": "upper",
+      "parent": "H06"
+    },
+    {
+      "id": "H07_FLOOR_0",
+      "kind": "upper",
+      "parent": "H07"
+    },
+    {
+      "id": "H08_FLOOR_0",
+      "kind": "upper",
+      "parent": "H08"
+    },
+    {
+      "id": "H08_FLOOR_1",
+      "kind": "upper",
+      "parent": "H08"
+    },
+    {
+      "id": "H09_FLOOR_0",
+      "kind": "upper",
+      "parent": "H09"
+    },
+    {
+      "id": "H10_FLOOR_0",
+      "kind": "upper",
+      "parent": "H10"
+    },
+    {
+      "id": "H11_FLOOR_0",
+      "kind": "upper",
+      "parent": "H11"
+    },
+    {
+      "id": "H12_FLOOR_0",
+      "kind": "upper",
+      "parent": "H12"
+    },
+    {
+      "id": "H13_FLOOR_0",
+      "kind": "upper",
+      "parent": "H13"
+    },
+    {
+      "id": "H14_FLOOR_0",
+      "kind": "upper",
+      "parent": "H14"
+    },
+    {
+      "id": "BAKERY_FLOOR_0",
+      "kind": "upper",
+      "parent": "BAKERY"
+    },
+    {
+      "id": "LISTENING_WEST_FLOOR_0",
+      "kind": "upper",
+      "parent": "LISTENING_WEST"
+    },
+    {
+      "id": "LISTENING_EAST_FLOOR_0",
+      "kind": "upper",
+      "parent": "LISTENING_EAST"
+    },
+    {
+      "id": "CRAFT_FLOOR_0",
+      "kind": "upper",
+      "parent": "CRAFT"
+    },
+    {
+      "id": "Z09_B1_FLOOR_0",
+      "kind": "upper",
+      "parent": "Z09_B1"
+    },
+    {
+      "id": "Z09_B1_FLOOR_1",
+      "kind": "upper",
+      "parent": "Z09_B1"
+    },
+    {
+      "id": "Z09_B2_FLOOR_0",
+      "kind": "upper",
+      "parent": "Z09_B2"
+    },
+    {
+      "id": "Z09_B2_FLOOR_1",
+      "kind": "upper",
+      "parent": "Z09_B2"
+    },
+    {
+      "id": "Z09_B3_FLOOR_0",
+      "kind": "upper",
+      "parent": "Z09_B3"
+    },
+    {
+      "id": "Z09_B4_FLOOR_0",
+      "kind": "upper",
+      "parent": "Z09_B4"
+    },
+    {
+      "id": "Z09_B4_FLOOR_1",
+      "kind": "upper",
+      "parent": "Z09_B4"
+    },
+    {
+      "id": "Z09_B5_FLOOR_0",
+      "kind": "upper",
+      "parent": "Z09_B5"
+    },
+    {
+      "id": "Z09_B5_FLOOR_1",
+      "kind": "upper",
+      "parent": "Z09_B5"
+    },
+    {
+      "id": "Z09_B6_FLOOR_0",
+      "kind": "upper",
+      "parent": "Z09_B6"
+    },
+    {
+      "id": "Z09_B6_FLOOR_1",
+      "kind": "upper",
+      "parent": "Z09_B6"
+    },
+    {
+      "id": "THEME_EVERYDAY_FLOOR_0",
+      "kind": "upper",
+      "parent": "THEME_EVERYDAY"
+    },
+    {
+      "id": "THEME_WAITING_FLOOR_0",
+      "kind": "upper",
+      "parent": "THEME_WAITING"
+    },
+    {
+      "id": "THEME_WAITING_FLOOR_1",
+      "kind": "upper",
+      "parent": "THEME_WAITING"
+    },
+    {
+      "id": "THEME_POEM_FLOOR_0",
+      "kind": "upper",
+      "parent": "THEME_POEM"
+    },
+    {
+      "id": "THEME_POEM_FLOOR_1",
+      "kind": "upper",
+      "parent": "THEME_POEM"
+    },
+    {
+      "id": "THEME_POEM_FLOOR_2",
+      "kind": "upper",
+      "parent": "THEME_POEM"
+    },
+    {
+      "id": "THEME_FROST_FLOOR_0",
+      "kind": "upper",
+      "parent": "THEME_FROST"
+    },
+    {
+      "id": "THEME_FROST_FLOOR_1",
+      "kind": "upper",
+      "parent": "THEME_FROST"
+    },
+    {
+      "id": "THEME_BLOSSOM_FLOOR_0",
+      "kind": "upper",
+      "parent": "THEME_BLOSSOM"
+    },
+    {
+      "id": "THEME_DAILY_FLOOR_0",
+      "kind": "upper",
+      "parent": "THEME_DAILY"
+    },
+    {
+      "id": "THEME_DAILY_FLOOR_1",
+      "kind": "upper",
+      "parent": "THEME_DAILY"
+    },
+    {
+      "id": "VILLA_0_FLOOR_0",
+      "kind": "upper",
+      "parent": "VILLA_0"
+    },
+    {
+      "id": "VILLA_1_FLOOR_0",
+      "kind": "upper",
+      "parent": "VILLA_1"
+    },
+    {
+      "id": "VILLA_2_FLOOR_0",
+      "kind": "upper",
+      "parent": "VILLA_2"
+    },
+    {
+      "id": "VILLA_3_FLOOR_0",
+      "kind": "upper",
+      "parent": "VILLA_3"
+    },
+    {
+      "id": "ISLAND_LOBBY_FLOOR_0",
+      "kind": "upper",
+      "parent": "ISLAND_LOBBY"
+    },
+    {
+      "id": "ISLAND_LOBBY_FLOOR_1",
+      "kind": "upper",
+      "parent": "ISLAND_LOBBY"
+    },
+    {
+      "id": "TREEHOUSE_1_FLOOR_0",
+      "kind": "upper",
+      "parent": "TREEHOUSE_1"
+    },
+    {
+      "id": "TREEHOUSE_2_FLOOR_0",
+      "kind": "upper",
+      "parent": "TREEHOUSE_2"
+    },
+    {
+      "id": "TREEHOUSE_3_FLOOR_0",
+      "kind": "upper",
+      "parent": "TREEHOUSE_3"
+    },
+    {
+      "id": "TREEHOUSE_4_FLOOR_0",
+      "kind": "upper",
+      "parent": "TREEHOUSE_4"
+    },
+    {
+      "id": "FOREST_LODGE_FLOOR_0",
+      "kind": "upper",
+      "parent": "FOREST_LODGE"
+    },
+    {
+      "id": "FOREST_OBSERVATORY_FLOOR_0",
+      "kind": "upper",
+      "parent": "FOREST_OBSERVATORY"
+    },
+    {
+      "id": "AZURE_VIEW_FLOOR_0",
+      "kind": "upper",
+      "parent": "AZURE_VIEW"
+    },
+    {
+      "id": "AZURE_VIEW_FLOOR_1",
+      "kind": "upper",
+      "parent": "AZURE_VIEW"
+    },
+    {
+      "id": "AZURE_LIGHT_FLOOR_0",
+      "kind": "upper",
+      "parent": "AZURE_LIGHT"
+    },
+    {
+      "id": "AZURE_WEAVE_FLOOR_0",
+      "kind": "upper",
+      "parent": "AZURE_WEAVE"
+    },
+    {
+      "id": "AZURE_WEAVE_FLOOR_1",
+      "kind": "upper",
+      "parent": "AZURE_WEAVE"
+    },
+    {
+      "id": "AZURE_WATER_FLOOR_0",
+      "kind": "upper",
+      "parent": "AZURE_WATER"
+    },
+    {
+      "id": "AZURE_GLASS_FLOOR_0",
+      "kind": "upper",
+      "parent": "AZURE_GLASS"
+    },
+    {
+      "id": "AZURE_TIDE_FLOOR_0",
+      "kind": "upper",
+      "parent": "AZURE_TIDE"
+    },
+    {
+      "id": "AZURE_MODEL_FLOOR_0",
+      "kind": "upper",
+      "parent": "AZURE_MODEL"
+    },
+    {
+      "id": "AZURE_SAIL_FLOOR_0",
+      "kind": "upper",
+      "parent": "AZURE_SAIL"
+    },
+    {
+      "id": "CASTLE_MAIN_FLOOR_0",
+      "kind": "upper",
+      "parent": "CASTLE_MAIN"
+    },
+    {
+      "id": "CASTLE_MAIN_FLOOR_1",
+      "kind": "upper",
+      "parent": "CASTLE_MAIN"
+    },
+    {
+      "id": "CASTLE_MAIN_FLOOR_2",
+      "kind": "upper",
+      "parent": "CASTLE_MAIN"
+    },
+    {
+      "id": "CASTLE_MAIN_FLOOR_3",
+      "kind": "upper",
+      "parent": "CASTLE_MAIN"
+    },
+    {
+      "id": "CASTLE_MAIN_FLOOR_4",
+      "kind": "upper",
+      "parent": "CASTLE_MAIN"
+    },
+    {
+      "id": "CASTLE_MAIN_FLOOR_5",
+      "kind": "upper",
+      "parent": "CASTLE_MAIN"
+    },
+    {
+      "id": "CASTLE_MAIN_FLOOR_6",
+      "kind": "upper",
+      "parent": "CASTLE_MAIN"
+    },
+    {
+      "id": "CASTLE_PAPER_FLOOR_0",
+      "kind": "upper",
+      "parent": "CASTLE_PAPER"
+    },
+    {
+      "id": "CASTLE_PAPER_FLOOR_1",
+      "kind": "upper",
+      "parent": "CASTLE_PAPER"
+    },
+    {
+      "id": "CASTLE_PAPER_FLOOR_2",
+      "kind": "upper",
+      "parent": "CASTLE_PAPER"
+    },
+    {
+      "id": "CASTLE_CLOTH_FLOOR_0",
+      "kind": "upper",
+      "parent": "CASTLE_CLOTH"
+    },
+    {
+      "id": "CASTLE_CLOTH_FLOOR_1",
+      "kind": "upper",
+      "parent": "CASTLE_CLOTH"
+    },
+    {
+      "id": "CASTLE_CLOTH_FLOOR_2",
+      "kind": "upper",
+      "parent": "CASTLE_CLOTH"
+    },
+    {
+      "id": "CASTLE_MATERIAL_FLOOR_0",
+      "kind": "upper",
+      "parent": "CASTLE_MATERIAL"
+    },
+    {
+      "id": "CASTLE_MATERIAL_FLOOR_1",
+      "kind": "upper",
+      "parent": "CASTLE_MATERIAL"
+    },
+    {
+      "id": "CASTLE_DISPLAY_FLOOR_0",
+      "kind": "upper",
+      "parent": "CASTLE_DISPLAY"
+    },
+    {
+      "id": "CASTLE_DISPLAY_FLOOR_1",
+      "kind": "upper",
+      "parent": "CASTLE_DISPLAY"
+    },
+    {
+      "id": "CASTLE_TEA_FLOOR_0",
+      "kind": "upper",
+      "parent": "CASTLE_TEA"
+    },
+    {
+      "id": "CABLE_LOWER_FLOOR_0",
+      "kind": "upper",
+      "parent": "CABLE_LOWER"
+    },
+    {
+      "id": "CABLE_UPPER_FLOOR_0",
+      "kind": "upper",
+      "parent": "CABLE_UPPER"
+    },
+    {
+      "id": "SUMMIT_TEA_FLOOR_0",
+      "kind": "upper",
+      "parent": "SUMMIT_TEA"
+    },
+    {
+      "id": "LIGHTHOUSE_FLOOR_0",
+      "kind": "upper",
+      "parent": "LIGHTHOUSE"
+    },
+    {
+      "id": "LIGHTHOUSE_FLOOR_1",
+      "kind": "upper",
+      "parent": "LIGHTHOUSE"
+    },
+    {
+      "id": "CREEK_TEA_FLOOR_0",
+      "kind": "upper",
+      "parent": "CREEK_TEA"
+    }
+  ]
+}

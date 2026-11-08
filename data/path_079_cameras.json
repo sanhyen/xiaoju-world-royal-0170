@@ -1,0 +1,122 @@
+[
+  {
+    "name": "coast_turn",
+    "eye": [
+      255,
+      1.85,
+      232
+    ],
+    "target": [
+      135,
+      1.0,
+      248
+    ],
+    "relative_ground": true,
+    "time": 0
+  },
+  {
+    "name": "street_south",
+    "eye": [
+      -75,
+      2.5,
+      237
+    ],
+    "target": [
+      -86,
+      2.5,
+      184
+    ],
+    "relative_ground": true,
+    "time": 0
+  },
+  {
+    "name": "plaza_link",
+    "eye": [
+      0,
+      2.1,
+      119
+    ],
+    "target": [
+      0,
+      0.6,
+      92
+    ],
+    "relative_ground": true,
+    "time": 0
+  },
+  {
+    "name": "culture_link",
+    "eye": [
+      160,
+      2.1,
+      0
+    ],
+    "target": [
+      190,
+      0.6,
+      -50
+    ],
+    "relative_ground": true,
+    "time": 0
+  },
+  {
+    "name": "west_ascent",
+    "eye": [
+      -100,
+      1.85,
+      -272
+    ],
+    "target": [
+      -75,
+      0.7,
+      -286
+    ],
+    "relative_ground": true,
+    "time": 0
+  },
+  {
+    "name": "home_approach",
+    "eye": [
+      -220,
+      1.85,
+      -150
+    ],
+    "target": [
+      -236,
+      0.8,
+      -168
+    ],
+    "relative_ground": true,
+    "time": 0
+  },
+  {
+    "name": "street_dusk",
+    "eye": [
+      -75,
+      2.5,
+      237
+    ],
+    "target": [
+      -86,
+      2.5,
+      184
+    ],
+    "relative_ground": true,
+    "time": 1
+  },
+  {
+    "name": "plaza_link_night",
+    "eye": [
+      0,
+      2.1,
+      119
+    ],
+    "target": [
+      0,
+      0.6,
+      92
+    ],
+    "relative_ground": true,
+    "time": 2
+  }
+]

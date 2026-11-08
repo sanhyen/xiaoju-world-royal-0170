@@ -1,0 +1,68 @@
+{
+  "basis": "12 primary everyday display locations; full original archives and two A landmarks are counted separately",
+  "B": 6,
+  "C": 3,
+  "D": 3,
+  "displays": [
+    {
+      "venue": "B01",
+      "class": "B",
+      "content": "life_02"
+    },
+    {
+      "venue": "B02",
+      "class": "B",
+      "content": "life_01"
+    },
+    {
+      "venue": "B04",
+      "class": "B",
+      "content": "life_05"
+    },
+    {
+      "venue": "B05",
+      "class": "B",
+      "content": "life_06"
+    },
+    {
+      "venue": "B11",
+      "class": "B",
+      "content": "life_07"
+    },
+    {
+      "venue": "B12",
+      "class": "B",
+      "content": "life_03"
+    },
+    {
+      "venue": "B06",
+      "class": "C",
+      "content": "poster_sunset"
+    },
+    {
+      "venue": "B08",
+      "class": "C",
+      "content": "poster_rehearsal"
+    },
+    {
+      "venue": "B09",
+      "class": "C",
+      "content": "life_04"
+    },
+    {
+      "venue": "B03",
+      "class": "D",
+      "content": "project_sound_cards"
+    },
+    {
+      "venue": "B07",
+      "class": "D",
+      "content": "physical_pb_and_journals"
+    },
+    {
+      "venue": "TEA",
+      "class": "D",
+      "content": "framed_real_landscape"
+    }
+  ]
+}

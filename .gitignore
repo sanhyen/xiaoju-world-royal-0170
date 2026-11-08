@@ -1,0 +1,8 @@
+/.godot/editor/
+/.godot/shader_cache/
+/userdata/
+/UserMedia/
+/build/
+*.pck
+*.exe
+*.log

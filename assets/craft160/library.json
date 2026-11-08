@@ -1,0 +1,233 @@
+{
+  "colliders": [
+    {
+      "kind": "box",
+      "p": [
+        0.0,
+        0.49,
+        0.0
+      ],
+      "size": [
+        2,
+        0.98,
+        1.1
+      ],
+      "yaw": 0.0
+    },
+    {
+      "kind": "box",
+      "p": [
+        0.0,
+        0.24,
+        0.0
+      ],
+      "size": [
+        0.72,
+        0.48,
+        0.68
+      ],
+      "yaw": 0.0
+    },
+    {
+      "kind": "box",
+      "p": [
+        0.0,
+        0.275,
+        0.0
+      ],
+      "size": [
+        2.1,
+        0.55,
+        0.85
+      ],
+      "yaw": 0.0
+    },
+    {
+      "kind": "box",
+      "p": [
+        0.0,
+        0.3,
+        0.0
+      ],
+      "size": [
+        1.6,
+        0.6,
+        2.8
+      ],
+      "yaw": 0.0
+    },
+    {
+      "kind": "box",
+      "p": [
+        0.0,
+        1.25,
+        0.0
+      ],
+      "size": [
+        2.75,
+        2.5,
+        0.28
+      ],
+      "yaw": 0.0
+    }
+  ],
+  "lamps": [
+    {
+      "p": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "range": 7.5,
+      "energy": 1.5
+    }
+  ],
+  "labels": [],
+  "groups": [
+    {
+      "name": "bookcase",
+      "triangles": 2512,
+      "materials": 6
+    },
+    {
+      "name": "cabinet",
+      "triangles": 1336,
+      "materials": 2
+    },
+    {
+      "name": "caisson",
+      "triangles": 56640,
+      "materials": 3
+    },
+    {
+      "name": "carved_panel",
+      "triangles": 39744,
+      "materials": 3
+    },
+    {
+      "name": "chair",
+      "triangles": 6276,
+      "materials": 4
+    },
+    {
+      "name": "coffer",
+      "triangles": 2586,
+      "materials": 2
+    },
+    {
+      "name": "column_base",
+      "triangles": 1100,
+      "materials": 2
+    },
+    {
+      "name": "crane",
+      "triangles": 13264,
+      "materials": 4
+    },
+    {
+      "name": "daybed",
+      "triangles": 7848,
+      "materials": 4
+    },
+    {
+      "name": "dougong",
+      "triangles": 2688,
+      "materials": 3
+    },
+    {
+      "name": "floating_under",
+      "triangles": 6960,
+      "materials": 2
+    },
+    {
+      "name": "halo",
+      "triangles": 9748,
+      "materials": 2
+    },
+    {
+      "name": "lantern",
+      "triangles": 380,
+      "materials": 5
+    },
+    {
+      "name": "lattice_0",
+      "triangles": 13600,
+      "materials": 3
+    },
+    {
+      "name": "lattice_1",
+      "triangles": 12116,
+      "materials": 3
+    },
+    {
+      "name": "lattice_2",
+      "triangles": 13600,
+      "materials": 3
+    },
+    {
+      "name": "paint_beam",
+      "triangles": 5216,
+      "materials": 2
+    },
+    {
+      "name": "rafter",
+      "triangles": 36,
+      "materials": 1
+    },
+    {
+      "name": "roof_finial",
+      "triangles": 620,
+      "materials": 1
+    },
+    {
+      "name": "round_table",
+      "triangles": 1804,
+      "materials": 2
+    },
+    {
+      "name": "screen",
+      "triangles": 29892,
+      "materials": 4
+    },
+    {
+      "name": "settee",
+      "triangles": 6848,
+      "materials": 4
+    },
+    {
+      "name": "table",
+      "triangles": 3920,
+      "materials": 2
+    },
+    {
+      "name": "tile_end",
+      "triangles": 452,
+      "materials": 1
+    },
+    {
+      "name": "tile_strip",
+      "triangles": 172,
+      "materials": 2
+    },
+    {
+      "name": "vase",
+      "triangles": 2364,
+      "materials": 2
+    }
+  ],
+  "triangles": 241722,
+  "materials": 20,
+  "units": "metres",
+  "orientation": "Y up; north is -Z",
+  "spawn": [
+    0,
+    0.05,
+    34
+  ],
+  "artwork": "Original AI landscape painting and painted beam texture; sculpted and openwork geometry authored by the editable Python model",
+  "sources": [
+    "tools/craft160_world_assets.py",
+    "tools/craft160_geometry.py"
+  ],
+  "scope": "Full-world precision component library; no collisions are imported from sample"
+}

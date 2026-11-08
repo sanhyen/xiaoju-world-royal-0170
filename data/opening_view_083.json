@@ -1,0 +1,6 @@
+{
+  "spawn": [255.0, 1.0, 196.0],
+  "look_at": [0.0, 10.5, 39.44],
+  "landmark_id": "L01",
+  "scope": "Default new game at the existing station forecourt. Saved position and heading are restored unchanged."
+}

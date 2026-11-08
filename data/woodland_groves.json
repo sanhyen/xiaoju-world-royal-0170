@@ -1,0 +1,175 @@
+{
+  "seed": 126405,
+  "scope": "Woodland and montane groups around existing paths; keep meadows, buildings and sight corridors",
+  "groves": [
+    {
+      "id": "west_lower_edge",
+      "center": [
+        -335,
+        -241
+      ],
+      "radii": [
+        29,
+        21
+      ],
+      "count": 30,
+      "mix": "broad"
+    },
+    {
+      "id": "west_ridge",
+      "center": [
+        -365,
+        -324
+      ],
+      "radii": [
+        32,
+        27
+      ],
+      "count": 18,
+      "mix": "high"
+    },
+    {
+      "id": "home_back_forest",
+      "center": [
+        -275,
+        -252
+      ],
+      "radii": [
+        26,
+        20
+      ],
+      "count": 29,
+      "mix": "broad"
+    },
+    {
+      "id": "west_inner",
+      "center": [
+        -284,
+        -320
+      ],
+      "radii": [
+        32,
+        24
+      ],
+      "count": 38,
+      "mix": "mixed"
+    },
+    {
+      "id": "west_hollow",
+      "center": [
+        -208,
+        -274
+      ],
+      "radii": [
+        28,
+        20
+      ],
+      "count": 32,
+      "mix": "mixed"
+    },
+    {
+      "id": "west_upper",
+      "center": [
+        -211,
+        -361
+      ],
+      "radii": [
+        32,
+        24
+      ],
+      "count": 18,
+      "mix": "high"
+    },
+    {
+      "id": "western_turn",
+      "center": [
+        -141,
+        -300
+      ],
+      "radii": [
+        28,
+        21
+      ],
+      "count": 32,
+      "mix": "mixed"
+    },
+    {
+      "id": "summit_west_frame",
+      "center": [
+        -91,
+        -369
+      ],
+      "radii": [
+        28,
+        23
+      ],
+      "count": 18,
+      "mix": "high"
+    },
+    {
+      "id": "central_lower_pocket",
+      "center": [
+        -47,
+        -255
+      ],
+      "radii": [
+        27,
+        22
+      ],
+      "count": 31,
+      "mix": "broad"
+    },
+    {
+      "id": "summit_east_frame",
+      "center": [
+        58,
+        -368
+      ],
+      "radii": [
+        29,
+        22
+      ],
+      "count": 18,
+      "mix": "high"
+    },
+    {
+      "id": "eastern_turn",
+      "center": [
+        123,
+        -308
+      ],
+      "radii": [
+        30,
+        24
+      ],
+      "count": 36,
+      "mix": "mixed"
+    },
+    {
+      "id": "culture_back_forest",
+      "center": [
+        221,
+        -247
+      ],
+      "radii": [
+        31,
+        20
+      ],
+      "count": 33,
+      "mix": "broad"
+    },
+    {
+      "id": "east_upper",
+      "center": [
+        209,
+        -358
+      ],
+      "radii": [
+        31,
+        24
+      ],
+      "count": 18,
+      "mix": "high"
+    }
+  ]
+}

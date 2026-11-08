@@ -1,0 +1,110 @@
+{
+  "seed": 126707,
+  "scope": "Authored lowland rooms with scalloped grove edges, open lawns and existing route/sight guards; quantities are targets until bake",
+  "groves": [
+    {
+      "id": "garden_east",
+      "center": [
+        -151,
+        -147
+      ],
+      "radii": [
+        20,
+        24
+      ],
+      "count": 18,
+      "mix": "garden"
+    },
+    {
+      "id": "garden_south",
+      "center": [
+        -218,
+        -101
+      ],
+      "radii": [
+        24,
+        14
+      ],
+      "count": 16,
+      "mix": "garden"
+    },
+    {
+      "id": "music_link",
+      "center": [
+        -276,
+        -94
+      ],
+      "radii": [
+        20,
+        28
+      ],
+      "count": 20,
+      "mix": "broad"
+    },
+    {
+      "id": "west_park",
+      "center": [
+        -137,
+        20
+      ],
+      "radii": [
+        35,
+        32
+      ],
+      "count": 35,
+      "mix": "park"
+    },
+    {
+      "id": "west_north_park",
+      "center": [
+        -101,
+        -93
+      ],
+      "radii": [
+        35,
+        41
+      ],
+      "count": 40,
+      "mix": "broad"
+    },
+    {
+      "id": "east_park",
+      "center": [
+        100,
+        -6
+      ],
+      "radii": [
+        31,
+        35
+      ],
+      "count": 34,
+      "mix": "park"
+    },
+    {
+      "id": "east_north_park",
+      "center": [
+        120,
+        -127
+      ],
+      "radii": [
+        30,
+        34
+      ],
+      "count": 36,
+      "mix": "broad"
+    },
+    {
+      "id": "arrival_park",
+      "center": [
+        179,
+        180
+      ],
+      "radii": [
+        31,
+        27
+      ],
+      "count": 26,
+      "mix": "park"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Original project-generated ambient sound textures. Seed 618. No human speech, no song samples. tools/create_ambience.py. CC0 dedication for these three WAV files only.

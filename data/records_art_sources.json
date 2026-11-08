@@ -1,0 +1,46 @@
+{
+  "created_at": "2026-10-12T00:38:10",
+  "items": [
+    {
+      "asset_id": "sunset",
+      "title": "落日未眠 · 工作室公开 MV",
+      "publisher": "鞠婧祎_Official",
+      "source_copy": "source_media\\20250618_Px4Emr83o.mp4",
+      "source_sha256": "ce2466338c8d60300b3c4bf54a191f216cc24bd9973a85f318b13699b42a4151",
+      "seek_seconds": 95.0,
+      "derived_path": "assets/media/records_sunset_still.png",
+      "derived_sha256": "31fd0496605e32d9eda1b0d0f086c0eb8eae1fce644a58ba495bee6a18eb4ab0",
+      "pixels": [
+        640,
+        480
+      ],
+      "post_url": "https://weibo.com/7920554800/Px4Emr83o",
+      "rights": "unknown; no public redistribution",
+      "use": "Complete-aspect local video still; not an album cover or official merchandise",
+      "method": "FFmpeg seek then first decoded frame; no scaling, cropping, watermark removal or generative edits",
+      "review": "Individually viewed full-resolution: source aspect and content retained, no invented cover or removed marks.",
+      "source_status": "Project archive mapping only; no new live web verification",
+      "selection": "95-second outdoor portrait selected from 32/60/95/145-second local samples; unused frames retained in reports/program_source_review."
+    },
+    {
+      "asset_id": "wall_audio",
+      "title": "壁上观 · 工作室公开音轨片段",
+      "publisher": "鞠婧祎_Official",
+      "source_copy": "source_media/20241023_OCMsLFQ6f.mp4",
+      "source_sha256": "01ebe1db8427230219f0b3973468b3417e2877ec137cc33518b873db94813bc5",
+      "seek_seconds": 12.0,
+      "derived_path": "assets/media/records_wall_still.png",
+      "derived_sha256": "bc34191dda123ca78ac38a0d1ee30b0efa1178b12e4681f5922e2db3fbc044d3",
+      "pixels": [
+        852,
+        480
+      ],
+      "post_url": "https://weibo.com/7920554800/OCMsLFQ6f",
+      "rights": "unknown; private local review, no public redistribution",
+      "use": "Complete-aspect local video still; not an album cover or official merchandise",
+      "method": "FFmpeg seek then first decoded frame; no scaling, cropping, watermark removal or generative edits",
+      "review": "Individually viewed full-resolution: source aspect and content retained, no invented cover or removed marks.",
+      "source_status": "Project archive mapping only; no new live web verification"
+    }
+  ]
+}

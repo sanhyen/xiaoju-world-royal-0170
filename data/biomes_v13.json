@@ -1,0 +1,703 @@
+{
+  "version": "1.3",
+  "bounds": [
+    -672,
+    -752,
+    1344,
+    1504
+  ],
+  "transition_m": 24,
+  "biomes": {
+    "E1": {
+      "name": "海岸沙丘",
+      "ground": "D9C69F",
+      "secondary": "BDAA85",
+      "shade": "9BA27A",
+      "rock": "B8B4A8",
+      "trees": [
+        5,
+        8,
+        7
+      ],
+      "flower": "B07AB8",
+      "water": "7FC0C4",
+      "fog": "CFE3EA",
+      "landform": "dune",
+      "props": "driftwood",
+      "groundcover": "coastal_grass",
+      "tree_weights": [
+        0.6,
+        0.3,
+        0.1
+      ]
+    },
+    "E2": {
+      "name": "礁岩海岬",
+      "ground": "7E8E6A",
+      "secondary": "90988A",
+      "shade": "687D70",
+      "rock": "9B9F94",
+      "trees": [
+        5,
+        7,
+        3
+      ],
+      "flower": "D99AA8",
+      "water": "417B92",
+      "fog": "C6DCE6",
+      "landform": "sea_cliff",
+      "props": "beacon",
+      "groundcover": "sea_pink",
+      "tree_weights": [
+        0.6,
+        0.3,
+        0.1
+      ]
+    },
+    "E3": {
+      "name": "精修街园",
+      "ground": "98A671",
+      "secondary": "C9C0AE",
+      "shade": "7E9166",
+      "rock": "BDB4A3",
+      "trees": [
+        1,
+        4,
+        7
+      ],
+      "flower": "D9A9A3",
+      "water": "8EB6B4",
+      "fog": "DDE5E6",
+      "landform": "formal_terrace",
+      "props": "iron_lamp",
+      "groundcover": "formal_flowerbed",
+      "tree_weights": [
+        0.6,
+        0.3,
+        0.1
+      ]
+    },
+    "E4": {
+      "name": "都市草坪与硬质广场",
+      "ground": "8A9C66",
+      "secondary": "7D7F80",
+      "shade": "748260",
+      "rock": "979995",
+      "trees": [
+        2,
+        7,
+        1
+      ],
+      "flower": "C8B98A",
+      "water": "78989C",
+      "fog": "CFD9DF",
+      "landform": "platform",
+      "props": "steel_lamp",
+      "groundcover": "ornamental_grass",
+      "tree_weights": [
+        0.6,
+        0.3,
+        0.1
+      ]
+    },
+    "E5": {
+      "name": "艺术公园",
+      "ground": "879A62",
+      "secondary": "A45E48",
+      "shade": "71865E",
+      "rock": "4A4C4E",
+      "trees": [
+        2,
+        4,
+        7
+      ],
+      "flower": "C49BA9",
+      "water": "7FA7AC",
+      "fog": "D3DBD5",
+      "landform": "sculpture_mound",
+      "props": "industrial_lamp",
+      "groundcover": "wildflower",
+      "tree_weights": [
+        0.6,
+        0.3,
+        0.1
+      ]
+    },
+    "E6": {
+      "name": "田园花丘",
+      "ground": "8FA35F",
+      "secondary": "8B7153",
+      "shade": "AAB36B",
+      "rock": "A39D90",
+      "trees": [
+        12,
+        1,
+        4
+      ],
+      "flower": "9A86C2",
+      "water": "7AAFA6",
+      "fog": "E8E2D2",
+      "landform": "terrace_field",
+      "props": "wood_lamp",
+      "groundcover": "striped_meadow",
+      "tree_weights": [
+        0.6,
+        0.3,
+        0.1
+      ]
+    },
+    "E7": {
+      "name": "高山针叶林",
+      "ground": "687D57",
+      "secondary": "6E5B44",
+      "shade": "6E8556",
+      "rock": "777F77",
+      "trees": [
+        3,
+        2,
+        7
+      ],
+      "flower": "7E8BC4",
+      "water": "799B9F",
+      "fog": "C9D3CC",
+      "landform": "block_ridge",
+      "props": "alpine_lamp",
+      "groundcover": "fern",
+      "tree_weights": [
+        0.6,
+        0.3,
+        0.1
+      ]
+    },
+    "E8": {
+      "name": "山顶岩原",
+      "ground": "8A9070",
+      "secondary": "A3A69E",
+      "shade": "9A9F8C",
+      "rock": "A3A69E",
+      "trees": [
+        3,
+        7,
+        2
+      ],
+      "flower": "EDEDE6",
+      "water": "A3B9BB",
+      "fog": "DCE3E5",
+      "landform": "wind_rock",
+      "props": "stone_marker",
+      "groundcover": "cushion_grass",
+      "tree_weights": [
+        0.6,
+        0.3,
+        0.1
+      ]
+    },
+    "E9": {
+      "name": "崖壁叠台",
+      "ground": "B9976B",
+      "secondary": "A89A86",
+      "shade": "B39D77",
+      "rock": "B07A52",
+      "trees": [
+        7,
+        9,
+        5
+      ],
+      "flower": "BFA878",
+      "water": "799E91",
+      "fog": "EAD9C4",
+      "landform": "sandstone_terrace",
+      "props": "copper_lamp",
+      "groundcover": "succulent",
+      "tree_weights": [
+        0.6,
+        0.3,
+        0.1
+      ]
+    },
+    "E10": {
+      "name": "城郭园林",
+      "ground": "7A8C60",
+      "secondary": "E6E1D4",
+      "shade": "879875",
+      "rock": "6E7074",
+      "trees": [
+        3,
+        10,
+        13
+      ],
+      "flower": "B8483A",
+      "water": "84A89C",
+      "fog": "DBDCD2",
+      "landform": "granite_terrace",
+      "props": "red_lantern",
+      "groundcover": "moss_bamboo",
+      "tree_weights": [
+        0.6,
+        0.3,
+        0.1
+      ]
+    },
+    "E11": {
+      "name": "热带珊瑚礁",
+      "ground": "EDE3C8",
+      "secondary": "7FD0C8",
+      "shade": "D5DAB2",
+      "rock": "E3B1A2",
+      "trees": [
+        8,
+        6,
+        5
+      ],
+      "flower": "E3BE78",
+      "water": "7FD0C8",
+      "fog": "D1E7E5",
+      "landform": "sandbar",
+      "props": "shell_lamp",
+      "groundcover": "tropical_leaf",
+      "tree_weights": [
+        0.6,
+        0.3,
+        0.1
+      ]
+    },
+    "E12": {
+      "name": "萤火森林",
+      "ground": "4F6A45",
+      "secondary": "7A5E3E",
+      "shade": "5C7652",
+      "rock": "4E5A4E",
+      "trees": [
+        11,
+        6,
+        13
+      ],
+      "flower": "7FE0D0",
+      "water": "759D8A",
+      "fog": "B8C9C2",
+      "landform": "root_valley",
+      "props": "firefly_lantern",
+      "groundcover": "fern_mushroom",
+      "tree_weights": [
+        0.6,
+        0.3,
+        0.1
+      ]
+    }
+  },
+  "regions": [
+    {
+      "id": "Z01",
+      "name": "海风站",
+      "biome": "E1",
+      "x": 292,
+      "z": 226,
+      "rx": 84,
+      "rz": 75,
+      "ground_override": "B8B9A4",
+      "tree_override": [
+        5,
+        7,
+        8
+      ],
+      "rock_override": "A9B3AF",
+      "fog_override": "D2E1E4",
+      "dimensions": {
+        "ground": "rail_gravel",
+        "trees": "[5, 7, 8]",
+        "rock": "A9B3AF",
+        "roof": "A1_roof",
+        "wall": "A1_wall",
+        "base": "raised_station",
+        "props": "iron_signal",
+        "atmosphere": "D2E1E4"
+      }
+    },
+    {
+      "id": "Z02",
+      "name": "潮汐海岸",
+      "biome": "E1",
+      "x": 0,
+      "z": 291,
+      "rx": 440,
+      "rz": 66,
+      "ground_override": "D9C69F",
+      "tree_override": [
+        5,
+        8,
+        7
+      ],
+      "rock_override": "B8B4A8",
+      "fog_override": "CFE3EA",
+      "dimensions": {
+        "ground": "dune_sand",
+        "trees": "[5, 8, 7]",
+        "rock": "B8B4A8",
+        "roof": "A2_roof",
+        "wall": "A2_wall",
+        "base": "stepped_white",
+        "props": "beach_pergola",
+        "atmosphere": "CFE3EA"
+      }
+    },
+    {
+      "id": "Z03",
+      "name": "花音商店街",
+      "biome": "E3",
+      "x": -106,
+      "z": 192,
+      "rx": 93,
+      "rz": 83,
+      "ground_override": "B5B6A0",
+      "tree_override": [
+        1,
+        4,
+        7
+      ],
+      "rock_override": "BDB4A3",
+      "fog_override": "D8E0DB",
+      "dimensions": {
+        "ground": "cobble_garden",
+        "trees": "[1, 4, 7]",
+        "rock": "BDB4A3",
+        "roof": "A3_roof",
+        "wall": "A3_wall",
+        "base": "street_step",
+        "props": "iron_flowerbox",
+        "atmosphere": "D8E0DB"
+      }
+    },
+    {
+      "id": "Z04",
+      "name": "星光广场",
+      "biome": "E3",
+      "x": 0,
+      "z": 80,
+      "rx": 115,
+      "rz": 90,
+      "ground_override": "98A671",
+      "tree_override": [
+        4,
+        1,
+        7
+      ],
+      "rock_override": "C8BDA9",
+      "fog_override": "DDE5E6",
+      "dimensions": {
+        "ground": "formal_lawn",
+        "trees": "[4, 1, 7]",
+        "rock": "C8BDA9",
+        "roof": "A4_roof",
+        "wall": "A4_wall",
+        "base": "cut_stone",
+        "props": "symmetric_fountain",
+        "atmosphere": "DDE5E6"
+      }
+    },
+    {
+      "id": "Z05",
+      "name": "声音与舞台",
+      "biome": "E4",
+      "x": -259,
+      "z": -20,
+      "rx": 113,
+      "rz": 115,
+      "ground_override": "899080",
+      "tree_override": [
+        2,
+        7,
+        1
+      ],
+      "rock_override": "929A9B",
+      "fog_override": "CFD9DF",
+      "dimensions": {
+        "ground": "slate_court",
+        "trees": "[2, 7, 1]",
+        "rock": "929A9B",
+        "roof": "A5_roof",
+        "wall": "A5_wall",
+        "base": "concrete_stage",
+        "props": "steel_light",
+        "atmosphere": "CFD9DF"
+      }
+    },
+    {
+      "id": "Z06",
+      "name": "光影艺文",
+      "biome": "E5",
+      "x": 223,
+      "z": -226,
+      "rx": 114,
+      "rz": 81,
+      "ground_override": "92936B",
+      "tree_override": [
+        2,
+        4,
+        7
+      ],
+      "rock_override": "4A4C4E",
+      "fog_override": "D3DBD5",
+      "dimensions": {
+        "ground": "brick_meadow",
+        "trees": "[2, 4, 7]",
+        "rock": "4A4C4E",
+        "roof": "A6_roof",
+        "wall": "A6_wall",
+        "base": "loading_dock",
+        "props": "industrial_sculpture",
+        "atmosphere": "D3DBD5"
+      }
+    },
+    {
+      "id": "Z07",
+      "name": "花间生活",
+      "biome": "E6",
+      "x": -229,
+      "z": -222,
+      "rx": 120,
+      "rz": 84,
+      "ground_override": "8FA35F",
+      "tree_override": [
+        12,
+        1,
+        4
+      ],
+      "rock_override": "A39D90",
+      "fog_override": "E8E2D2",
+      "dimensions": {
+        "ground": "furrow_meadow",
+        "trees": "[12, 1, 4]",
+        "rock": "A39D90",
+        "roof": "A7_roof",
+        "wall": "A7_wall",
+        "base": "fieldstone",
+        "props": "wood_windmill",
+        "atmosphere": "E8E2D2"
+      }
+    },
+    {
+      "id": "Z08",
+      "name": "云间山林",
+      "biome": "E7",
+      "x": 0,
+      "z": -339,
+      "rx": 470,
+      "rz": 105,
+      "ground_override": "687D57",
+      "tree_override": [
+        3,
+        2,
+        7
+      ],
+      "rock_override": "777F77",
+      "fog_override": "C9D3CC",
+      "dimensions": {
+        "ground": "needle_moss",
+        "trees": "[3, 2, 7]",
+        "rock": "777F77",
+        "roof": "A8_roof",
+        "wall": "A8_wall",
+        "base": "retaining_log",
+        "props": "alpine_marker",
+        "atmosphere": "C9D3CC"
+      }
+    },
+    {
+      "id": "Z09",
+      "name": "崖湾叠台",
+      "biome": "E9",
+      "x": 288,
+      "z": 24,
+      "rx": 80,
+      "rz": 88,
+      "ground_override": "B9976B",
+      "tree_override": [
+        7,
+        9,
+        5
+      ],
+      "rock_override": "B07A52",
+      "fog_override": "EAD9C4",
+      "dimensions": {
+        "ground": "earth_terrace",
+        "trees": "[7, 9, 5]",
+        "rock": "B07A52",
+        "roof": "A9_roof",
+        "wall": "A9_wall",
+        "base": "embedded_rock",
+        "props": "clay_canal",
+        "atmosphere": "EAD9C4"
+      }
+    },
+    {
+      "id": "AZURE",
+      "name": "东岸蓝穹",
+      "biome": "E2",
+      "x": 190,
+      "z": 81,
+      "rx": 86,
+      "rz": 186,
+      "ground_override": "A5B298",
+      "tree_override": [
+        5,
+        7,
+        6
+      ],
+      "rock_override": "9B9F94",
+      "fog_override": "C6DCE6",
+      "dimensions": {
+        "ground": "shell_limestone",
+        "trees": "[5, 7, 6]",
+        "rock": "9B9F94",
+        "roof": "A2_dome_roof",
+        "wall": "A2_dome_wall",
+        "base": "white_arcade",
+        "props": "blue_pottery",
+        "atmosphere": "C6DCE6"
+      }
+    },
+    {
+      "id": "CASTLE",
+      "name": "花霞城郭",
+      "biome": "E10",
+      "x": -113,
+      "z": 35,
+      "rx": 60,
+      "rz": 67,
+      "ground_override": "8C9A76",
+      "tree_override": [
+        3,
+        10,
+        13
+      ],
+      "rock_override": "6E7074",
+      "fog_override": "DBDCD2",
+      "dimensions": {
+        "ground": "moss_white_gravel",
+        "trees": "[3, 10, 13]",
+        "rock": "6E7074",
+        "roof": "A10_roof",
+        "wall": "A10_wall",
+        "base": "battered_granite",
+        "props": "red_lantern",
+        "atmosphere": "DBDCD2"
+      }
+    },
+    {
+      "id": "ISLAND_01",
+      "name": "珊瑚岛",
+      "biome": "E11",
+      "x": 232.5,
+      "z": 452.5,
+      "rx": 77.5,
+      "rz": 47.5,
+      "ground_override": "EDE3C8",
+      "tree_override": [
+        8,
+        6,
+        5
+      ],
+      "rock_override": "E3B1A2",
+      "fog_override": "D1E7E5",
+      "dimensions": {
+        "ground": "coral_white_sand",
+        "trees": "[8, 6, 5]",
+        "rock": "E3B1A2",
+        "roof": "A11_roof",
+        "wall": "A11_wall",
+        "base": "timber_piles",
+        "props": "shell_lamp",
+        "atmosphere": "D1E7E5"
+      }
+    },
+    {
+      "id": "ISLAND_02",
+      "name": "萤火森屿",
+      "biome": "E12",
+      "x": -60,
+      "z": 490,
+      "rx": 60,
+      "rz": 39.2,
+      "ground_override": "4F6A45",
+      "tree_override": [
+        11,
+        6,
+        13
+      ],
+      "rock_override": "4E5A4E",
+      "fog_override": "B8C9C2",
+      "dimensions": {
+        "ground": "root_leaf_moss",
+        "trees": "[11, 6, 13]",
+        "rock": "4E5A4E",
+        "roof": "A12_roof",
+        "wall": "A12_wall",
+        "base": "living_roots",
+        "props": "firefly_lamp",
+        "atmosphere": "B8C9C2"
+      }
+    },
+    {
+      "id": "CAPE",
+      "name": "东岬灯塔",
+      "biome": "E2",
+      "x": 360,
+      "z": 370,
+      "rx": 92,
+      "rz": 58,
+      "ground_override": "7E8E6A",
+      "tree_override": [
+        5,
+        7,
+        3
+      ],
+      "rock_override": "788A8D",
+      "fog_override": "BDCEDA",
+      "dimensions": {
+        "ground": "weathered_cliff",
+        "trees": "[5, 7, 3]",
+        "rock": "788A8D",
+        "roof": "A13_roof",
+        "wall": "A13_wall",
+        "base": "beacon_rock",
+        "props": "striped_beacon",
+        "atmosphere": "BDCEDA"
+      }
+    },
+    {
+      "id": "CREEK",
+      "name": "溪谷茶亭",
+      "biome": "E7",
+      "x": -194,
+      "z": -189,
+      "rx": 23,
+      "rz": 27,
+      "ground_override": "79926B",
+      "tree_override": [
+        6,
+        2,
+        7
+      ],
+      "rock_override": "687F75",
+      "fog_override": "CBDDD1",
+      "dimensions": {
+        "ground": "fern_creek",
+        "trees": "[6, 2, 7]",
+        "rock": "687F75",
+        "roof": "A13_waterwheel_roof",
+        "wall": "A13_waterwheel_wall",
+        "base": "stream_piles",
+        "props": "waterwheel",
+        "atmosphere": "CBDDD1"
+      }
+    }
+  ],
+  "altitude_bands_m": [
+    0,
+    15,
+    40,
+    60
+  ],
+  "seed": 6182026130,
+  "tree_variants": 3
+}

@@ -1,0 +1,449 @@
+{
+  "version": "1.3",
+  "castle_user_choice": "copper_green_vermilion",
+  "families": {
+    "A1": {
+      "name": "滨海铁路站房",
+      "roof": {
+        "form": "barrel",
+        "color": [
+          "3B6E8C"
+        ]
+      },
+      "wall": {
+        "material": "timber",
+        "color": [
+          "F2EFE9"
+        ]
+      },
+      "trim": "2E4F66",
+      "window": "tall_fanlight",
+      "base": "platform",
+      "structure": "iron_brackets",
+      "props": "luggage_clock",
+      "lamp": "3B6E8C",
+      "fence": "platform_fence",
+      "ranks": {
+        "major": 1.0,
+        "medium": 0.72,
+        "small": 0.45
+      }
+    },
+    "A2": {
+      "name": "地中海白屋",
+      "roof": {
+        "form": "terracotta_hip",
+        "color": [
+          "C0714F"
+        ]
+      },
+      "wall": {
+        "material": "plaster",
+        "color": [
+          "F4F1EA"
+        ]
+      },
+      "trim": "3F7FB0",
+      "window": "deep_arch",
+      "base": "stepped_white",
+      "structure": "arcade_shutters",
+      "props": "pergola_olive",
+      "lamp": "D8CDB6",
+      "fence": "stepped_white_fence",
+      "ranks": {
+        "major": 1.0,
+        "medium": 0.72,
+        "small": 0.45
+      }
+    },
+    "A3": {
+      "name": "欧式彩色街屋",
+      "roof": {
+        "form": "street_gable",
+        "color": [
+          "4E5560"
+        ]
+      },
+      "wall": {
+        "material": "plaster",
+        "color": [
+          "E8D49A"
+        ]
+      },
+      "trim": "F3EFE4",
+      "window": "vertical_shopfront",
+      "base": "cobbled_step",
+      "structure": "half_timber",
+      "props": "awning_flowerbox",
+      "lamp": "566477",
+      "fence": "cobbled_step_fence",
+      "ranks": {
+        "major": 1.0,
+        "medium": 0.72,
+        "small": 0.45
+      }
+    },
+    "A4": {
+      "name": "广场纪念建筑",
+      "roof": {
+        "form": "low_hip",
+        "color": [
+          "B9B0A0"
+        ]
+      },
+      "wall": {
+        "material": "stone",
+        "color": [
+          "E3DBC8"
+        ]
+      },
+      "trim": "A3977D",
+      "window": "colonnade",
+      "base": "cut_stone",
+      "structure": "square_columns",
+      "props": "formal_fountain",
+      "lamp": "A3977D",
+      "fence": "cut_stone_fence",
+      "ranks": {
+        "major": 1.0,
+        "medium": 0.72,
+        "small": 0.45
+      }
+    },
+    "A5": {
+      "name": "现代剧场",
+      "roof": {
+        "form": "folded_metal",
+        "color": [
+          "3C4148"
+        ]
+      },
+      "wall": {
+        "material": "metal",
+        "color": [
+          "4A5058"
+        ]
+      },
+      "trim": "8C939B",
+      "window": "curtain_strip",
+      "base": "concrete",
+      "structure": "lighting_truss",
+      "props": "poster_speaker",
+      "lamp": "F2C46B",
+      "fence": "concrete_fence",
+      "ranks": {
+        "major": 1.0,
+        "medium": 0.72,
+        "small": 0.45
+      }
+    },
+    "A6": {
+      "name": "红砖仓库艺术区",
+      "roof": {
+        "form": "north_saw",
+        "color": [
+          "5B5F63"
+        ]
+      },
+      "wall": {
+        "material": "brick",
+        "color": [
+          "9C4F3B"
+        ]
+      },
+      "trim": "3A3D40",
+      "window": "steel_grid",
+      "base": "concrete_loading",
+      "structure": "steel_braces",
+      "props": "chimney_sculpture",
+      "lamp": "D79561",
+      "fence": "concrete_loading_fence",
+      "ranks": {
+        "major": 1.0,
+        "medium": 0.72,
+        "small": 0.45
+      }
+    },
+    "A7": {
+      "name": "田园农舍",
+      "roof": {
+        "form": "farm_gable",
+        "color": [
+          "A6513D"
+        ]
+      },
+      "wall": {
+        "material": "plaster",
+        "color": [
+          "EFE8DA"
+        ]
+      },
+      "trim": "795D43",
+      "window": "farm_casement",
+      "base": "fieldstone",
+      "structure": "exposed_rafters",
+      "props": "working_garden",
+      "lamp": "CCAC70",
+      "fence": "fieldstone_fence",
+      "ranks": {
+        "major": 1.0,
+        "medium": 0.72,
+        "small": 0.45
+      },
+      "subtypes": {
+        "A7a": {
+          "name": "茅草农舍",
+          "roof": {
+            "form": "thatch_gable",
+            "color": [
+              "C7A15E"
+            ]
+          },
+          "wall": {
+            "material": "earth",
+            "color": [
+              "D7BE8E"
+            ]
+          },
+          "trim": "987750",
+          "purpose": "oven_hay",
+          "fence": "woven_fence"
+        },
+        "A7b": {
+          "name": "石板瓦乡居",
+          "roof": {
+            "form": "slate_gable",
+            "color": [
+              "5F6567"
+            ]
+          },
+          "wall": {
+            "material": "rubble",
+            "color": [
+              "A39D90"
+            ]
+          },
+          "trim": "695D4D",
+          "purpose": "stone_chimney",
+          "fence": "fieldstone_wall"
+        },
+        "A7c": {
+          "name": "木瓦小屋",
+          "roof": {
+            "form": "wood_dormer",
+            "color": [
+              "7A5A3E"
+            ]
+          },
+          "wall": {
+            "material": "timber",
+            "color": [
+              "B58B5E"
+            ]
+          },
+          "trim": "6D513B",
+          "purpose": "carved_dormer",
+          "fence": "picket_fence"
+        },
+        "A7d": {
+          "name": "白墙红瓦村舍",
+          "roof": {
+            "form": "red_tile_gable",
+            "color": [
+              "A6513D"
+            ]
+          },
+          "wall": {
+            "material": "plaster",
+            "color": [
+              "EFE8DA"
+            ]
+          },
+          "trim": "6C5545",
+          "purpose": "vine_pergola",
+          "fence": "picket_fence"
+        },
+        "A7e": {
+          "name": "谷仓工坊",
+          "roof": {
+            "form": "gambrel",
+            "color": [
+              "8E3B32"
+            ]
+          },
+          "wall": {
+            "material": "timber",
+            "color": [
+              "A65B50"
+            ]
+          },
+          "trim": "E4D1AC",
+          "purpose": "barn_door",
+          "fence": "woven_fence"
+        }
+      }
+    },
+    "A8": {
+      "name": "高山木屋",
+      "roof": {
+        "form": "alpine_gable",
+        "color": [
+          "4B3A2E"
+        ]
+      },
+      "wall": {
+        "material": "log",
+        "color": [
+          "6B4E36"
+        ]
+      },
+      "trim": "C3AD8B",
+      "window": "small_deep",
+      "base": "retaining_stone",
+      "structure": "alpine_braces",
+      "props": "woodpile",
+      "lamp": "E9C78B",
+      "fence": "retaining_stone_fence",
+      "ranks": {
+        "major": 1.0,
+        "medium": 0.72,
+        "small": 0.45
+      }
+    },
+    "A9": {
+      "name": "山城叠台",
+      "roof": {
+        "form": "terraced_flat",
+        "color": [
+          "C08F62"
+        ]
+      },
+      "wall": {
+        "material": "earth",
+        "color": [
+          "B9845A"
+        ]
+      },
+      "trim": "795E43",
+      "window": "deep_lattice",
+      "base": "embedded_sandstone",
+      "structure": "timber_balconies",
+      "props": "terracotta_canal",
+      "lamp": "E3AF70",
+      "fence": "embedded_sandstone_fence",
+      "ranks": {
+        "major": 1.0,
+        "medium": 0.72,
+        "small": 0.45
+      }
+    },
+    "A10": {
+      "name": "东方城郭",
+      "roof": {
+        "form": "curved_eaves",
+        "color": [
+          "5E8C7E"
+        ]
+      },
+      "wall": {
+        "material": "plaster",
+        "color": [
+          "F0EDE6"
+        ]
+      },
+      "trim": "A33A2C",
+      "window": "oriental_lattice",
+      "base": "battered_granite",
+      "structure": "dougong",
+      "props": "lantern_zen",
+      "lamp": "D97661",
+      "fence": "battered_granite_fence",
+      "ranks": {
+        "major": 1.0,
+        "medium": 0.72,
+        "small": 0.45
+      }
+    },
+    "A11": {
+      "name": "热带水上屋",
+      "roof": {
+        "form": "thick_thatch",
+        "color": [
+          "B88F55"
+        ]
+      },
+      "wall": {
+        "material": "bamboo",
+        "color": [
+          "C9AE7A"
+        ]
+      },
+      "trim": "E39B8F",
+      "window": "open_blind",
+      "base": "piles",
+      "structure": "bamboo_truss",
+      "props": "hammock_shell",
+      "lamp": "E5C48A",
+      "fence": "piles_fence",
+      "ranks": {
+        "major": 1.0,
+        "medium": 0.72,
+        "small": 0.45
+      }
+    },
+    "A12": {
+      "name": "森林树屋",
+      "roof": {
+        "form": "moss_barrel",
+        "color": [
+          "5F7D4E"
+        ]
+      },
+      "wall": {
+        "material": "bark",
+        "color": [
+          "5A4433"
+        ]
+      },
+      "trim": "A78B63",
+      "window": "round",
+      "base": "root_buttress",
+      "structure": "root_braces",
+      "props": "firefly_fern",
+      "lamp": "E6C178",
+      "fence": "root_buttress_fence",
+      "ranks": {
+        "major": 1.0,
+        "medium": 0.72,
+        "small": 0.45
+      }
+    },
+    "A13": {
+      "name": "灯塔与溪谷小品",
+      "roof": {
+        "form": "beacon_lantern",
+        "color": [
+          "373D41"
+        ]
+      },
+      "wall": {
+        "material": "plaster",
+        "color": [
+          "F2EFE9"
+        ]
+      },
+      "trim": "B8423A",
+      "window": "porthole",
+      "base": "rock_plinth",
+      "structure": "octagonal_lantern",
+      "props": "windvane_waterwheel",
+      "lamp": "F2D7A0",
+      "fence": "rock_plinth_fence",
+      "ranks": {
+        "major": 1.0,
+        "medium": 0.72,
+        "small": 0.45
+      }
+    }
+  }
+}

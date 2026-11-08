@@ -1,0 +1,547 @@
+{
+  "baseline": "0.11.0",
+  "defs": {
+    "bay_model": {
+      "name": "微缩湾岸",
+      "kind": "work",
+      "category": "摆件",
+      "cost": {
+        "clay": 3,
+        "pigment": 1,
+        "wood": 2
+      },
+      "wall": null
+    },
+    "beans": {
+      "name": "咖啡豆",
+      "kind": "material",
+      "category": "材料",
+      "cost": null,
+      "wall": null
+    },
+    "carrot": {
+      "name": "胡萝卜",
+      "kind": "material",
+      "category": "材料",
+      "cost": null,
+      "wall": null
+    },
+    "castle_cushion": {
+      "name": "坐垫",
+      "kind": "work",
+      "category": "家具",
+      "cost": {
+        "fiber": 3,
+        "pigment": 1
+      },
+      "wall": null
+    },
+    "castle_screen": {
+      "name": "立屏",
+      "kind": "work",
+      "category": "家具",
+      "cost": {
+        "paper": 2,
+        "pigment": 1,
+        "wood": 4
+      },
+      "wall": null
+    },
+    "castle_table": {
+      "name": "矮桌",
+      "kind": "work",
+      "category": "家具",
+      "cost": {
+        "fiber": 1,
+        "wood": 4
+      },
+      "wall": null
+    },
+    "clay": {
+      "name": "矿泥",
+      "kind": "material",
+      "category": "材料",
+      "cost": null,
+      "wall": null
+    },
+    "conch": {
+      "name": "星光海螺",
+      "kind": "material",
+      "category": "材料",
+      "cost": null,
+      "wall": null
+    },
+    "coral_lamp": {
+      "name": "海玻璃灯",
+      "kind": "work",
+      "category": "灯具",
+      "cost": {
+        "driftwood": 1,
+        "sea_glass": 3,
+        "shell": 1
+      },
+      "wall": null
+    },
+    "corn": {
+      "name": "玉米",
+      "kind": "material",
+      "category": "材料",
+      "cost": null,
+      "wall": null
+    },
+    "drift_chime": {
+      "name": "漂木风铃",
+      "kind": "work",
+      "category": "挂饰",
+      "cost": {
+        "driftwood": 2,
+        "rope": 1,
+        "shell": 2
+      },
+      "wall": null
+    },
+    "driftwood": {
+      "name": "漂木",
+      "kind": "material",
+      "category": "材料",
+      "cost": null,
+      "wall": null
+    },
+    "everyday_cover": {
+      "name": "原创封套",
+      "kind": "work",
+      "category": "唱片",
+      "cost": {
+        "paper": 2,
+        "pigment": 1
+      },
+      "wall": true
+    },
+    "fiber": {
+      "name": "植物纤维",
+      "kind": "material",
+      "category": "材料",
+      "cost": null,
+      "wall": null
+    },
+    "flour": {
+      "name": "面粉",
+      "kind": "material",
+      "category": "材料",
+      "cost": null,
+      "wall": null
+    },
+    "flower": {
+      "name": "花材",
+      "kind": "material",
+      "category": "材料",
+      "cost": null,
+      "wall": null
+    },
+    "flower_screen": {
+      "name": "花窗屏风",
+      "kind": "work",
+      "category": "家具",
+      "cost": {
+        "fiber": 1,
+        "flower": 2,
+        "wood": 3
+      },
+      "wall": null
+    },
+    "flower_stand": {
+      "name": "花架",
+      "kind": "work",
+      "category": "家具",
+      "cost": {
+        "flower": 2,
+        "wood": 4
+      },
+      "wall": null
+    },
+    "flower_token": {
+      "name": "花令挂饰",
+      "kind": "work",
+      "category": "挂饰",
+      "cost": {
+        "flower": 1,
+        "paper": 1,
+        "rope": 1
+      },
+      "wall": true
+    },
+    "forest_print": {
+      "name": "森林拓印",
+      "kind": "work",
+      "category": "纸品",
+      "cost": {
+        "leaf": 2,
+        "paper": 2,
+        "pigment": 1
+      },
+      "wall": true
+    },
+    "frost_light": {
+      "name": "霜月灯架",
+      "kind": "work",
+      "category": "灯具",
+      "cost": {
+        "fiber": 1,
+        "sea_glass": 2,
+        "wood": 3
+      },
+      "wall": null
+    },
+    "glass_tile": {
+      "name": "海玻璃镶片",
+      "kind": "work",
+      "category": "挂饰",
+      "cost": {
+        "clay": 1,
+        "sea_glass": 3
+      },
+      "wall": true
+    },
+    "leaf": {
+      "name": "叶片",
+      "kind": "material",
+      "category": "材料",
+      "cost": null,
+      "wall": null
+    },
+    "leaf_pack": {
+      "name": "叶纹背包",
+      "kind": "work",
+      "category": "背包",
+      "cost": {
+        "fiber": 3,
+        "leaf": 3,
+        "rope": 1
+      },
+      "wall": null
+    },
+    "legacy_bookmark": {
+      "name": "干花书签",
+      "kind": "work",
+      "category": "旧旅途",
+      "cost": {},
+      "wall": null
+    },
+    "legacy_bouquet": {
+      "name": "旧旅途花束",
+      "kind": "work",
+      "category": "旧旅途",
+      "cost": {},
+      "wall": null
+    },
+    "legacy_bread": {
+      "name": "麦香面包篮",
+      "kind": "work",
+      "category": "旧旅途",
+      "cost": {},
+      "wall": null
+    },
+    "legacy_conchbox": {
+      "name": "海螺八音盒",
+      "kind": "work",
+      "category": "旧旅途",
+      "cost": {},
+      "wall": null
+    },
+    "legacy_drink": {
+      "name": "随身饮品",
+      "kind": "work",
+      "category": "旧旅途",
+      "cost": {},
+      "wall": null
+    },
+    "legacy_frame": {
+      "name": "旅行相框",
+      "kind": "work",
+      "category": "旧旅途",
+      "cost": {},
+      "wall": null
+    },
+    "legacy_fruit": {
+      "name": "花果茶",
+      "kind": "work",
+      "category": "旧旅途",
+      "cost": {},
+      "wall": null
+    },
+    "legacy_harvest": {
+      "name": "丰收菜筐",
+      "kind": "work",
+      "category": "旧旅途",
+      "cost": {},
+      "wall": null
+    },
+    "legacy_house_chime": {
+      "name": "藤编贝壳风铃",
+      "kind": "work",
+      "category": "旧旅途",
+      "cost": {},
+      "wall": null
+    },
+    "legacy_lamp": {
+      "name": "松果桌灯",
+      "kind": "work",
+      "category": "旧旅途",
+      "cost": {},
+      "wall": null
+    },
+    "legacy_photo": {
+      "name": "旅行照片",
+      "kind": "work",
+      "category": "旧旅途",
+      "cost": {},
+      "wall": true
+    },
+    "legacy_pottery": {
+      "name": "旅行陶器",
+      "kind": "work",
+      "category": "旧旅途",
+      "cost": {},
+      "wall": null
+    },
+    "legacy_wax": {
+      "name": "花香蜡牌",
+      "kind": "work",
+      "category": "旧旅途",
+      "cost": {},
+      "wall": null
+    },
+    "legacy_windchime": {
+      "name": "贝壳风铃",
+      "kind": "work",
+      "category": "旧旅途",
+      "cost": {},
+      "wall": null
+    },
+    "mini_stage": {
+      "name": "微缩舞台",
+      "kind": "work",
+      "category": "摆件",
+      "cost": {
+        "fiber": 2,
+        "pigment": 1,
+        "wood": 3
+      },
+      "wall": null
+    },
+    "paper": {
+      "name": "手作纸",
+      "kind": "material",
+      "category": "材料",
+      "cost": null,
+      "wall": null
+    },
+    "paper_lamp": {
+      "name": "纸灯",
+      "kind": "work",
+      "category": "灯具",
+      "cost": {
+        "paper": 2,
+        "rope": 1,
+        "wood": 1
+      },
+      "wall": null
+    },
+    "photo_print": {
+      "name": "独立印片",
+      "kind": "work",
+      "category": "照片",
+      "cost": {
+        "paper": 1,
+        "pigment": 1
+      },
+      "wall": true
+    },
+    "pigment": {
+      "name": "矿彩颜料",
+      "kind": "material",
+      "category": "材料",
+      "cost": null,
+      "wall": null
+    },
+    "pinecone": {
+      "name": "松果",
+      "kind": "material",
+      "category": "材料",
+      "cost": null,
+      "wall": null
+    },
+    "poem_journal": {
+      "name": "独立手札",
+      "kind": "work",
+      "category": "纸品",
+      "cost": {
+        "fiber": 1,
+        "paper": 3
+      },
+      "wall": null
+    },
+    "record_stand": {
+      "name": "唱片展示架",
+      "kind": "work",
+      "category": "家具",
+      "cost": {
+        "fiber": 1,
+        "wood": 3
+      },
+      "wall": null
+    },
+    "rope": {
+      "name": "细麻绳",
+      "kind": "material",
+      "category": "材料",
+      "cost": null,
+      "wall": null
+    },
+    "sail_flag": {
+      "name": "饰帆旗",
+      "kind": "work",
+      "category": "挂饰",
+      "cost": {
+        "fiber": 2,
+        "pigment": 1,
+        "rope": 1,
+        "wood": 1
+      },
+      "wall": null
+    },
+    "sea_glass": {
+      "name": "海玻璃",
+      "kind": "material",
+      "category": "材料",
+      "cost": null,
+      "wall": null
+    },
+    "shell": {
+      "name": "贝壳",
+      "kind": "material",
+      "category": "材料",
+      "cost": null,
+      "wall": null
+    },
+    "star_bookmark": {
+      "name": "星纹书签",
+      "kind": "work",
+      "category": "纸品",
+      "cost": {
+        "paper": 1,
+        "pigment": 1
+      },
+      "wall": null
+    },
+    "starter_basic_pack": {
+      "name": "启程帆布背包",
+      "kind": "work",
+      "category": "背包",
+      "cost": {},
+      "wall": null
+    },
+    "street_box": {
+      "name": "街景盒",
+      "kind": "work",
+      "category": "摆件",
+      "cost": {
+        "paper": 1,
+        "pigment": 1,
+        "wood": 2
+      },
+      "wall": null
+    },
+    "street_lamp": {
+      "name": "街灯模型",
+      "kind": "work",
+      "category": "灯具",
+      "cost": {
+        "sea_glass": 1,
+        "wood": 2
+      },
+      "wall": null
+    },
+    "tea_leaf": {
+      "name": "茶叶",
+      "kind": "material",
+      "category": "材料",
+      "cost": null,
+      "wall": null
+    },
+    "tidal_pack": {
+      "name": "潮汐背包",
+      "kind": "work",
+      "category": "背包",
+      "cost": {
+        "fiber": 3,
+        "rope": 1,
+        "sea_glass": 2
+      },
+      "wall": null
+    },
+    "tomato": {
+      "name": "番茄",
+      "kind": "material",
+      "category": "材料",
+      "cost": null,
+      "wall": null
+    },
+    "travel_frame": {
+      "name": "旅拍相框",
+      "kind": "work",
+      "category": "照片",
+      "cost": {
+        "paper": 1,
+        "wood": 2
+      },
+      "wall": null
+    },
+    "water_garden": {
+      "name": "阶水庭园模型",
+      "kind": "work",
+      "category": "摆件",
+      "cost": {
+        "clay": 2,
+        "sea_glass": 2,
+        "wood": 1
+      },
+      "wall": null
+    },
+    "wheat": {
+      "name": "小麦",
+      "kind": "material",
+      "category": "材料",
+      "cost": null,
+      "wall": null
+    },
+    "wood": {
+      "name": "木料",
+      "kind": "material",
+      "category": "材料",
+      "cost": null,
+      "wall": null
+    },
+    "woodbuckle_pack": {
+      "name": "木扣背包",
+      "kind": "work",
+      "category": "背包",
+      "cost": {
+        "fiber": 4,
+        "rope": 1,
+        "wood": 1
+      },
+      "wall": null
+    },
+    "woodgrain_lamp": {
+      "name": "木纹灯",
+      "kind": "work",
+      "category": "灯具",
+      "cost": {
+        "leaf": 1,
+        "wood": 3
+      },
+      "wall": null
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "composition": "Project-original procedural sketches; not celebrity works or official stems",
+  "bpm": 96,
+  "loop_beats": 32,
+  "loop_seconds": 20.0,
+  "sample_rate": 22050,
+  "four_tracks": [
+    "piano",
+    "acoustic bass",
+    "strings",
+    "nature"
+  ],
+  "venues": {
+    "arrival": "assets/audio/bay/arrival.wav",
+    "cafe": "assets/audio/bay/cafe.wav",
+    "garden": "assets/audio/bay/garden.wav",
+    "gallery": "assets/audio/bay/gallery.wav",
+    "book": "assets/audio/bay/book.wav",
+    "craft": "assets/audio/bay/craft.wav",
+    "tea": "assets/audio/bay/tea.wav"
+  },
+  "voice": "No vocal or voice imitation generated",
+  "additional_loops": {
+    "records": "assets/audio/bay/records.wav",
+    "studio": "assets/audio/bay/studio.wav",
+    "visitor": "assets/audio/bay/visitor.wav",
+    "rehearsal": "assets/audio/bay/rehearsal.wav",
+    "stage": "assets/audio/bay/stage.wav",
+    "home": "assets/audio/bay/home.wav",
+    "sea_room": "assets/audio/bay/sea_room.wav"
+  },
+  "additional_effects": [
+    "page",
+    "fire"
+  ]
+}

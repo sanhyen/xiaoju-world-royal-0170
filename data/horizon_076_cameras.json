@@ -1,0 +1,257 @@
+[
+  {
+    "eye": [
+      0.0,
+      73.4309768676758,
+      -381.0
+    ],
+    "fov": 75,
+    "name": "V09_summit",
+    "target": [
+      -5.0,
+      14.0,
+      58.0
+    ],
+    "time": 0
+  },
+  {
+    "eye": [
+      300.0,
+      40.3006172180176,
+      -285.0
+    ],
+    "fov": 75,
+    "name": "mountain_bridge",
+    "target": [
+      330.0,
+      39.7006149291992,
+      -285.0
+    ],
+    "time": 0
+  },
+  {
+    "name": "summit_southeast",
+    "eye": [
+      0,
+      73.4309768676758,
+      -381
+    ],
+    "target": [
+      440,
+      3,
+      400
+    ],
+    "time": 0,
+    "fov": 75
+  },
+  {
+    "name": "pier_sea",
+    "eye": [
+      0,
+      1.6,
+      365
+    ],
+    "target": [
+      0,
+      1.5,
+      900
+    ],
+    "time": 0,
+    "fov": 75
+  },
+  {
+    "name": "coast_east_horizon",
+    "eye": [
+      320,
+      2.5,
+      335
+    ],
+    "target": [
+      650,
+      0,
+      500
+    ],
+    "time": 0,
+    "fov": 75
+  },
+  {
+    "name": "coast_west_horizon",
+    "eye": [
+      -320,
+      2.5,
+      335
+    ],
+    "target": [
+      -650,
+      0,
+      500
+    ],
+    "time": 0,
+    "fov": 75
+  },
+  {
+    "name": "coast_shallow_water",
+    "eye": [
+      43,
+      2.8,
+      348
+    ],
+    "target": [
+      72,
+      -2.2,
+      385
+    ],
+    "time": 0,
+    "fov": 75
+  },
+  {
+    "eye": [
+      0.0,
+      73.4309768676758,
+      -381.0
+    ],
+    "fov": 75,
+    "name": "V09_summit_dusk",
+    "target": [
+      -5.0,
+      14.0,
+      58.0
+    ],
+    "time": 1
+  },
+  {
+    "name": "pier_sea_dusk",
+    "eye": [
+      0,
+      1.6,
+      365
+    ],
+    "target": [
+      0,
+      1.5,
+      900
+    ],
+    "time": 1,
+    "fov": 75
+  },
+  {
+    "eye": [
+      0.0,
+      73.4309768676758,
+      -381.0
+    ],
+    "fov": 75,
+    "name": "V09_summit_night",
+    "target": [
+      -5.0,
+      14.0,
+      58.0
+    ],
+    "time": 2
+  },
+  {
+    "name": "pier_sea_night",
+    "eye": [
+      0,
+      1.6,
+      365
+    ],
+    "target": [
+      0,
+      1.5,
+      900
+    ],
+    "time": 2,
+    "fov": 75
+  },
+  {
+    "name": "station_exit_day",
+    "eye": [
+      260,
+      2.1,
+      190
+    ],
+    "target": [
+      0,
+      6,
+      160
+    ],
+    "fov": 75,
+    "time": 0
+  },
+  {
+    "name": "station_exit_dusk",
+    "eye": [
+      260,
+      2.1,
+      190
+    ],
+    "target": [
+      0,
+      6,
+      160
+    ],
+    "fov": 75,
+    "time": 1
+  },
+  {
+    "name": "station_exit_night",
+    "eye": [
+      260,
+      2.1,
+      190
+    ],
+    "target": [
+      0,
+      6,
+      160
+    ],
+    "fov": 75,
+    "time": 2
+  },
+  {
+    "name": "station_exit_open_day",
+    "eye": [
+      253,
+      2.1,
+      199
+    ],
+    "target": [
+      0,
+      6,
+      160
+    ],
+    "fov": 75,
+    "time": 0
+  },
+  {
+    "name": "station_exit_open_dusk",
+    "eye": [
+      253,
+      2.1,
+      199
+    ],
+    "target": [
+      0,
+      6,
+      160
+    ],
+    "fov": 75,
+    "time": 1
+  },
+  {
+    "name": "station_exit_open_night",
+    "eye": [
+      253,
+      2.1,
+      199
+    ],
+    "target": [
+      0,
+      6,
+      160
+    ],
+    "fov": 75,
+    "time": 2
+  }
+]

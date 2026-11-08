@@ -1,0 +1,754 @@
+[
+  {
+    "id": "Z01",
+    "groves": [
+      [
+        318,
+        207,
+        22,
+        17,
+        14
+      ],
+      [
+        248,
+        231,
+        18,
+        16,
+        10
+      ]
+    ],
+    "courts": [
+      [
+        316,
+        227
+      ]
+    ],
+    "rocks": [
+      [
+        333,
+        198,
+        0.6
+      ]
+    ],
+    "pink": false,
+    "large": false,
+    "affected_nearby_ids": [
+      "B01",
+      "B01_UPPER",
+      "H06",
+      "AZURE_GLASS",
+      "AZURE_TIDE",
+      "AZURE_MODEL"
+    ],
+    "door_clearance": "Existing entrance coordinates unchanged; layout.protected plus route exclusion; final capsule checks required",
+    "terrain_boundary": "Existing core unchanged except two outward island coves; regional changes are planting/courts/rock accents",
+    "preserve": "All original buildings, media, works, floors, IDs and usages"
+  },
+  {
+    "id": "Z02",
+    "groves": [
+      [
+        -50,
+        296,
+        24,
+        12,
+        12
+      ],
+      [
+        96,
+        285,
+        22,
+        10,
+        12
+      ],
+      [
+        -355,
+        320,
+        19,
+        12,
+        10
+      ]
+    ],
+    "courts": [
+      [
+        80,
+        294
+      ],
+      [
+        -330,
+        319
+      ]
+    ],
+    "rocks": [
+      [
+        60,
+        302,
+        0.55
+      ],
+      [
+        -365,
+        344,
+        1.2
+      ]
+    ],
+    "pink": false,
+    "large": false,
+    "affected_nearby_ids": [
+      "B01",
+      "B02",
+      "B01_UPPER",
+      "H01",
+      "H02",
+      "H04",
+      "H05",
+      "H06",
+      "H11",
+      "H14",
+      "BAKERY",
+      "THEME_WAITING",
+      "AZURE_TIDE",
+      "AZURE_MODEL",
+      "AZURE_SAIL"
+    ],
+    "door_clearance": "Existing entrance coordinates unchanged; layout.protected plus route exclusion; final capsule checks required",
+    "terrain_boundary": "Existing core unchanged except two outward island coves; regional changes are planting/courts/rock accents",
+    "preserve": "All original buildings, media, works, floors, IDs and usages"
+  },
+  {
+    "id": "Z03",
+    "groves": [
+      [
+        -165,
+        193,
+        20,
+        13,
+        16
+      ],
+      [
+        -62,
+        177,
+        16,
+        13,
+        10
+      ]
+    ],
+    "courts": [
+      [
+        -154,
+        207
+      ],
+      [
+        -66,
+        195
+      ]
+    ],
+    "rocks": [],
+    "pink": true,
+    "large": false,
+    "affected_nearby_ids": [
+      "B02",
+      "B03",
+      "B11",
+      "H11",
+      "H12",
+      "H13",
+      "H14",
+      "BAKERY",
+      "LISTENING_WEST",
+      "LISTENING_EAST",
+      "CRAFT",
+      "THEME_EVERYDAY",
+      "THEME_WAITING"
+    ],
+    "door_clearance": "Existing entrance coordinates unchanged; layout.protected plus route exclusion; final capsule checks required",
+    "terrain_boundary": "Existing core unchanged except two outward island coves; regional changes are planting/courts/rock accents",
+    "preserve": "All original buildings, media, works, floors, IDs and usages"
+  },
+  {
+    "id": "Z04",
+    "groves": [
+      [
+        72,
+        63,
+        15,
+        30,
+        16
+      ],
+      [
+        -64,
+        85,
+        13,
+        32,
+        14
+      ]
+    ],
+    "courts": [
+      [
+        76,
+        94
+      ],
+      [
+        -68,
+        120
+      ]
+    ],
+    "rocks": [],
+    "pink": false,
+    "large": false,
+    "affected_nearby_ids": [
+      "B11",
+      "B13",
+      "B13_UPPER",
+      "H08",
+      "H09",
+      "H10",
+      "CRAFT",
+      "THEME_DAILY",
+      "CASTLE_MAIN",
+      "CASTLE_CLOTH",
+      "CASTLE_MATERIAL",
+      "CASTLE_DISPLAY"
+    ],
+    "door_clearance": "Existing entrance coordinates unchanged; layout.protected plus route exclusion; final capsule checks required",
+    "terrain_boundary": "Existing core unchanged except two outward island coves; regional changes are planting/courts/rock accents",
+    "preserve": "All original buildings, media, works, floors, IDs and usages"
+  },
+  {
+    "id": "Z05",
+    "groves": [
+      [
+        -316,
+        -12,
+        19,
+        24,
+        20
+      ],
+      [
+        -213,
+        -46,
+        16,
+        24,
+        16
+      ]
+    ],
+    "courts": [
+      [
+        -310,
+        29
+      ],
+      [
+        -220,
+        -28
+      ]
+    ],
+    "rocks": [
+      [
+        -325,
+        -35,
+        0.8
+      ]
+    ],
+    "pink": false,
+    "large": false,
+    "affected_nearby_ids": [
+      "B08",
+      "B09",
+      "B10",
+      "B08_UPPER",
+      "B09_UPPER",
+      "B10_UPPER",
+      "H07",
+      "THEME_FROST",
+      "CASTLE_PAPER",
+      "CASTLE_MATERIAL",
+      "CASTLE_TEA",
+      "CABLE_LOWER"
+    ],
+    "door_clearance": "Existing entrance coordinates unchanged; layout.protected plus route exclusion; final capsule checks required",
+    "terrain_boundary": "Existing core unchanged except two outward island coves; regional changes are planting/courts/rock accents",
+    "preserve": "All original buildings, media, works, floors, IDs and usages"
+  },
+  {
+    "id": "Z06",
+    "groves": [
+      [
+        211,
+        -300,
+        25,
+        20,
+        22
+      ],
+      [
+        294,
+        -259,
+        22,
+        20,
+        18
+      ]
+    ],
+    "courts": [
+      [
+        207,
+        -271
+      ],
+      [
+        290,
+        -238
+      ]
+    ],
+    "rocks": [
+      [
+        303,
+        -287,
+        1.1
+      ]
+    ],
+    "pink": false,
+    "large": false,
+    "affected_nearby_ids": [
+      "B05",
+      "B06",
+      "B07",
+      "B05_UPPER",
+      "B06_UPPER",
+      "B07_UPPER",
+      "THEME_POEM",
+      "THEME_BLOSSOM"
+    ],
+    "door_clearance": "Existing entrance coordinates unchanged; layout.protected plus route exclusion; final capsule checks required",
+    "terrain_boundary": "Existing core unchanged except two outward island coves; regional changes are planting/courts/rock accents",
+    "preserve": "All original buildings, media, works, floors, IDs and usages"
+  },
+  {
+    "id": "Z07",
+    "groves": [
+      [
+        -298,
+        -237,
+        29,
+        20,
+        25
+      ],
+      [
+        -277,
+        -172,
+        20,
+        19,
+        15
+      ]
+    ],
+    "courts": [
+      [
+        -282,
+        -212
+      ],
+      [
+        -266,
+        -182
+      ]
+    ],
+    "rocks": [],
+    "pink": true,
+    "large": false,
+    "affected_nearby_ids": [
+      "B04",
+      "B12",
+      "B04_UPPER",
+      "B12_UPPER",
+      "CREEK_TEA"
+    ],
+    "door_clearance": "Existing entrance coordinates unchanged; layout.protected plus route exclusion; final capsule checks required",
+    "terrain_boundary": "Existing core unchanged except two outward island coves; regional changes are planting/courts/rock accents",
+    "preserve": "All original buildings, media, works, floors, IDs and usages"
+  },
+  {
+    "id": "Z08",
+    "groves": [
+      [
+        -110,
+        -320,
+        40,
+        24,
+        28
+      ],
+      [
+        104,
+        -354,
+        40,
+        23,
+        25
+      ],
+      [
+        -295,
+        -355,
+        32,
+        29,
+        25
+      ]
+    ],
+    "courts": [
+      [
+        -130,
+        -338
+      ],
+      [
+        123,
+        -372
+      ]
+    ],
+    "rocks": [
+      [
+        -305,
+        -392,
+        1.6
+      ],
+      [
+        148,
+        -396,
+        1.6
+      ]
+    ],
+    "pink": false,
+    "large": true,
+    "affected_nearby_ids": [
+      "B05",
+      "B07",
+      "B12",
+      "B04_UPPER",
+      "B05_UPPER",
+      "B07_UPPER",
+      "B12_UPPER",
+      "THEME_POEM",
+      "THEME_BLOSSOM",
+      "CABLE_UPPER",
+      "SUMMIT_TEA"
+    ],
+    "door_clearance": "Existing entrance coordinates unchanged; layout.protected plus route exclusion; final capsule checks required",
+    "terrain_boundary": "Existing core unchanged except two outward island coves; regional changes are planting/courts/rock accents",
+    "preserve": "All original buildings, media, works, floors, IDs and usages"
+  },
+  {
+    "id": "Z09",
+    "groves": [
+      [
+        360,
+        2,
+        14,
+        24,
+        14
+      ],
+      [
+        232,
+        64,
+        15,
+        18,
+        12
+      ]
+    ],
+    "courts": [
+      [
+        356,
+        56
+      ]
+    ],
+    "rocks": [
+      [
+        358,
+        -22,
+        0.6
+      ]
+    ],
+    "pink": false,
+    "large": false,
+    "affected_nearby_ids": [
+      "Z09_B1",
+      "Z09_B2",
+      "Z09_B3",
+      "Z09_B4",
+      "Z09_B5",
+      "Z09_B6"
+    ],
+    "door_clearance": "Existing entrance coordinates unchanged; layout.protected plus route exclusion; final capsule checks required",
+    "terrain_boundary": "Existing core unchanged except two outward island coves; regional changes are planting/courts/rock accents",
+    "preserve": "All original buildings, media, works, floors, IDs and usages"
+  },
+  {
+    "id": "AZURE",
+    "groves": [
+      [
+        224,
+        111,
+        20,
+        28,
+        17
+      ],
+      [
+        155,
+        82,
+        18,
+        25,
+        16
+      ]
+    ],
+    "courts": [
+      [
+        226,
+        140
+      ]
+    ],
+    "rocks": [
+      [
+        236,
+        60,
+        0.7
+      ]
+    ],
+    "pink": false,
+    "large": false,
+    "affected_nearby_ids": [
+      "H05",
+      "H06",
+      "H08",
+      "Z09_B3",
+      "Z09_B4",
+      "Z09_B5",
+      "Z09_B6",
+      "THEME_DAILY",
+      "AZURE_VIEW",
+      "AZURE_LIGHT",
+      "AZURE_WEAVE",
+      "AZURE_WATER",
+      "AZURE_SAIL"
+    ],
+    "door_clearance": "Existing entrance coordinates unchanged; layout.protected plus route exclusion; final capsule checks required",
+    "terrain_boundary": "Existing core unchanged except two outward island coves; regional changes are planting/courts/rock accents",
+    "preserve": "All original buildings, media, works, floors, IDs and usages"
+  },
+  {
+    "id": "CASTLE",
+    "groves": [
+      [
+        -160,
+        -16,
+        24,
+        17,
+        16
+      ],
+      [
+        -71,
+        -15,
+        19,
+        14,
+        12
+      ]
+    ],
+    "courts": [
+      [
+        -164,
+        54
+      ],
+      [
+        -66,
+        50
+      ]
+    ],
+    "rocks": [
+      [
+        -169,
+        4,
+        0.7
+      ]
+    ],
+    "pink": false,
+    "large": false,
+    "affected_nearby_ids": [
+      "H07",
+      "CASTLE_MAIN",
+      "CASTLE_PAPER",
+      "CASTLE_CLOTH",
+      "CASTLE_MATERIAL",
+      "CASTLE_DISPLAY",
+      "CASTLE_TEA"
+    ],
+    "door_clearance": "Existing entrance coordinates unchanged; layout.protected plus route exclusion; final capsule checks required",
+    "terrain_boundary": "Existing core unchanged except two outward island coves; regional changes are planting/courts/rock accents",
+    "preserve": "All original buildings, media, works, floors, IDs and usages"
+  },
+  {
+    "id": "ISLAND_01",
+    "groves": [
+      [
+        208,
+        435,
+        12,
+        8,
+        10
+      ],
+      [
+        208,
+        470,
+        10,
+        7,
+        8
+      ]
+    ],
+    "courts": [
+      [
+        215,
+        460
+      ]
+    ],
+    "rocks": [
+      [
+        205,
+        480,
+        0.6
+      ]
+    ],
+    "pink": false,
+    "large": false,
+    "affected_nearby_ids": [
+      "VILLA_0",
+      "VILLA_1",
+      "VILLA_2",
+      "VILLA_3",
+      "ISLAND_LOBBY"
+    ],
+    "door_clearance": "Existing entrance coordinates unchanged; layout.protected plus route exclusion; final capsule checks required",
+    "terrain_boundary": "Existing core unchanged except two outward island coves; regional changes are planting/courts/rock accents",
+    "preserve": "All original buildings, media, works, floors, IDs and usages"
+  },
+  {
+    "id": "ISLAND_02",
+    "groves": [
+      [
+        -104,
+        511,
+        16,
+        12,
+        16
+      ],
+      [
+        -25,
+        476,
+        14,
+        14,
+        14
+      ],
+      [
+        -63,
+        529,
+        17,
+        8,
+        10
+      ]
+    ],
+    "courts": [
+      [
+        -29,
+        506
+      ]
+    ],
+    "rocks": [
+      [
+        -102,
+        527,
+        0.7
+      ]
+    ],
+    "pink": false,
+    "large": true,
+    "affected_nearby_ids": [
+      "TREEHOUSE_1",
+      "TREEHOUSE_2",
+      "TREEHOUSE_3",
+      "TREEHOUSE_4",
+      "FOREST_LODGE",
+      "FOREST_OBSERVATORY"
+    ],
+    "door_clearance": "Existing entrance coordinates unchanged; layout.protected plus route exclusion; final capsule checks required",
+    "terrain_boundary": "Existing core unchanged except two outward island coves; regional changes are planting/courts/rock accents",
+    "preserve": "All original buildings, media, works, floors, IDs and usages"
+  },
+  {
+    "id": "CAPE",
+    "groves": [
+      [
+        366,
+        354,
+        17,
+        10,
+        10
+      ],
+      [
+        390,
+        380,
+        13,
+        10,
+        8
+      ]
+    ],
+    "courts": [
+      [
+        376,
+        365
+      ]
+    ],
+    "rocks": [
+      [
+        390,
+        392,
+        1.1
+      ]
+    ],
+    "pink": false,
+    "large": false,
+    "affected_nearby_ids": [
+      "LIGHTHOUSE"
+    ],
+    "door_clearance": "Existing entrance coordinates unchanged; layout.protected plus route exclusion; final capsule checks required",
+    "terrain_boundary": "Existing core unchanged except two outward island coves; regional changes are planting/courts/rock accents",
+    "preserve": "All original buildings, media, works, floors, IDs and usages"
+  },
+  {
+    "id": "CREEK",
+    "groves": [
+      [
+        -175,
+        -177,
+        14,
+        9,
+        10
+      ],
+      [
+        -213,
+        -177,
+        12,
+        8,
+        8
+      ]
+    ],
+    "courts": [
+      [
+        -181,
+        -181
+      ]
+    ],
+    "rocks": [
+      [
+        -220,
+        -182,
+        0.6
+      ]
+    ],
+    "pink": true,
+    "large": false,
+    "affected_nearby_ids": [
+      "B04_UPPER",
+      "CREEK_TEA"
+    ],
+    "door_clearance": "Existing entrance coordinates unchanged; layout.protected plus route exclusion; final capsule checks required",
+    "terrain_boundary": "Existing core unchanged except two outward island coves; regional changes are planting/courts/rock accents",
+    "preserve": "All original buildings, media, works, floors, IDs and usages"
+  }
+]

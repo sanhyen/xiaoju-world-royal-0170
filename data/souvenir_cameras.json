@@ -1,0 +1,9 @@
+[
+  {"name":"front","eye":[-55,2.0,165],"target":[-55,2.4,147],"time":0},
+  {"name":"corner","eye":[-68,2.5,161],"target":[-55,2.7,147],"time":0},
+  {"name":"interior","eye":[-55,2.0,150.3],"target":[-55,1.65,142.3],"time":0},
+  {"name":"postcards","eye":[-58.4,1.7,145.2],"target":[-59,1.4,142.8],"time":0},
+  {"name":"tickets","eye":[-51.6,1.7,145.2],"target":[-51,1.4,142.8],"time":0},
+  {"name":"stamp_desk","eye":[-53.5,2.0,150.8],"target":[-50.5,1.2,150.1],"time":0},
+  {"name":"dusk","eye":[-68,2.5,161],"target":[-55,2.7,147],"time":1}
+]

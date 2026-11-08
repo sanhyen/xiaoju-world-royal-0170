@@ -1,0 +1,10 @@
+[
+ {"name":"front","eye":[-97,2.0,208],"target":[-97,2.8,188],"time":0},
+ {"name":"corner","eye":[-112,2.5,205],"target":[-97,2.8,188],"time":0},
+ {"name":"interior","eye":[-97,2.0,192.5],"target":[-97,2.0,182.5],"time":0},
+ {"name":"left_bins","eye":[-100,1.9,192],"target":[-102.5,1.4,190.2],"time":0},
+ {"name":"right_bins","eye":[-94,1.9,189.5],"target":[-92.2,1.4,186.5],"time":0},
+ {"name":"listening","eye":[-97,1.9,186],"target":[-97,2.0,182.3],"time":0},
+ {"name":"window","eye":[-101,1.9,197],"target":[-102.2,1.9,193.8],"time":0},
+ {"name":"dusk","eye":[-112,2.5,205],"target":[-97,2.8,188],"time":1}
+]

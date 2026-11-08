@@ -1,0 +1,9 @@
+[
+  {"name":"coast_wind_trees","eye":[-92,2.16000008583069,300],"target":[-80,3.02800011634827,281]},
+  {"name":"ecology_coast_ground","eye":[-148,1.25199997425079,303],"target":[-143,0.675999999046326,294]},
+  {"name":"coast_garden_wide","eye":[-170,8.5,310],"target":[-130,1,278]},
+  {"name":"coast_garden_path","eye":[-111,2.0,290],"target":[-151,1.1,280]},
+  {"name":"coast_east_dunes","eye":[94,3.1,299],"target":[142,0.9,276]},
+  {"name":"coast_west_rocks","eye":[-211,3.8,347],"target":[-244,0.5,340]},
+  {"name":"coast_shallow_water","eye":[43,2.8,348],"target":[72,-2.2,385]}
+]

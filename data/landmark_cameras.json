@@ -1,0 +1,11 @@
+[
+  {"name":"arrival","eye":[24,3.2,110],"target":[0,8.5,40],"time":0},
+  {"name":"front","eye":[0,3.0,75],"target":[0,10.0,39.44],"time":0},
+  {"name":"face_detail","eye":[0,15,46.5],"target":[0,15,39.44],"time":0},
+  {"name":"player_scale","eye":[8,2.3,65],"target":[0,8.5,39.44],"time":0},
+  {"name":"left","eye":[-22,3.0,61],"target":[0,9.5,39.44],"time":0},
+  {"name":"right","eye":[22,3.0,61],"target":[0,9.5,39.44],"time":0},
+  {"name":"back","eye":[20,3.0,13],"target":[0,10,37],"time":0},
+  {"name":"dusk","eye":[24,3.2,110],"target":[0,8.5,40],"time":1},
+  {"name":"night","eye":[0,3.0,75],"target":[0,10,39.44],"time":2}
+]

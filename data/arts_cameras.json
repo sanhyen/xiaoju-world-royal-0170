@@ -1,0 +1,257 @@
+[
+  {
+    "name": "florist_front",
+    "building": "B04",
+    "eye": [
+      -12,
+      2.2,
+      24
+    ],
+    "target": [
+      4,
+      2.2,
+      1
+    ],
+    "time": 0
+  },
+  {
+    "name": "florist_inside",
+    "building": "B04",
+    "eye": [
+      0,
+      1.8,
+      3.8
+    ],
+    "target": [
+      0,
+      1.5,
+      -3.5
+    ],
+    "time": 0
+  },
+  {
+    "name": "florist_work",
+    "building": "B04",
+    "eye": [
+      -1.3,
+      1.7,
+      -0.4
+    ],
+    "target": [
+      -3,
+      1.05,
+      -2.1
+    ],
+    "time": 0
+  },
+  {
+    "name": "florist_shelves",
+    "building": "B04",
+    "eye": [
+      1.2,
+      1.8,
+      -0.8
+    ],
+    "target": [
+      -1,
+      1.45,
+      -4.1
+    ],
+    "time": 0
+  },
+  {
+    "name": "florist_greenhouse",
+    "building": "B04",
+    "eye": [
+      12.1,
+      1.8,
+      6.7
+    ],
+    "target": [
+      11.5,
+      1.6,
+      -2
+    ],
+    "time": 0
+  },
+  {
+    "name": "florist_dusk",
+    "building": "B04",
+    "eye": [
+      -12,
+      2.2,
+      24
+    ],
+    "target": [
+      4,
+      2.2,
+      1
+    ],
+    "time": 1
+  },
+  {
+    "name": "gallery_front",
+    "building": "B05",
+    "eye": [
+      -18,
+      2.5,
+      26
+    ],
+    "target": [
+      0,
+      3,
+      0
+    ],
+    "time": 0
+  },
+  {
+    "name": "gallery_inside",
+    "building": "B05",
+    "eye": [
+      0,
+      2,
+      6
+    ],
+    "target": [
+      0,
+      2.4,
+      -5
+    ],
+    "time": 0
+  },
+  {
+    "name": "gallery_wall",
+    "building": "B05",
+    "eye": [
+      0,
+      1.8,
+      -3
+    ],
+    "target": [
+      -5.5,
+      2,
+      -0.5
+    ],
+    "time": 0
+  },
+  {
+    "name": "gallery_guide",
+    "building": "B05",
+    "eye": [
+      5.8,
+      1.7,
+      6.5
+    ],
+    "target": [
+      8,
+      1.1,
+      5.4
+    ],
+    "time": 0
+  },
+  {
+    "name": "dance_front",
+    "building": "B08",
+    "eye": [
+      -17,
+      2.3,
+      22
+    ],
+    "target": [
+      0,
+      3,
+      0
+    ],
+    "time": 0
+  },
+  {
+    "name": "dance_inside",
+    "building": "B08",
+    "eye": [
+      0,
+      2,
+      6
+    ],
+    "target": [
+      0,
+      2.7,
+      -6
+    ],
+    "time": 0
+  },
+  {
+    "name": "dance_lockers",
+    "building": "B08",
+    "eye": [
+      -1,
+      1.8,
+      3
+    ],
+    "target": [
+      -5,
+      1.4,
+      6.5
+    ],
+    "time": 0
+  },
+  {
+    "name": "theater_front",
+    "building": "B10",
+    "eye": [
+      -24,
+      2.9,
+      25
+    ],
+    "target": [
+      0,
+      5,
+      0
+    ],
+    "time": 0
+  },
+  {
+    "name": "theater_inside",
+    "building": "B10",
+    "eye": [
+      0,
+      2,
+      11
+    ],
+    "target": [
+      0,
+      4.5,
+      -8
+    ],
+    "time": 0
+  },
+  {
+    "name": "theater_console",
+    "building": "B10",
+    "eye": [
+      13.9,
+      2.2,
+      6.2
+    ],
+    "target": [
+      12,
+      1.5,
+      8
+    ],
+    "time": 0
+  },
+  {
+    "name": "theater_night",
+    "building": "B10",
+    "eye": [
+      0,
+      2,
+      11
+    ],
+    "target": [
+      0,
+      4.5,
+      -8
+    ],
+    "time": 2
+  }
+]

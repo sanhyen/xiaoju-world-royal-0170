@@ -1,0 +1,351 @@
+{
+  "version": 12,
+  "seed": 618,
+  "coverage": "world_ecologies",
+  "cell_m": 2.0,
+  "tier_m": 1.25,
+  "grass_cap_m": 0.16,
+  "topsoil_m": 0.62,
+  "home_center": [
+    -237,
+    -169
+  ],
+  "sample_radius_m": 190,
+  "mountain_landforms": [
+    {
+      "id": "west_spur",
+      "center": [
+        -313,
+        -269
+      ],
+      "radius": [
+        82,
+        78
+      ],
+      "rise": 14
+    },
+    {
+      "id": "west_hollow",
+      "center": [
+        -233,
+        -312
+      ],
+      "radius": [
+        50,
+        69
+      ],
+      "rise": -9
+    },
+    {
+      "id": "middle_spur",
+      "center": [
+        -139,
+        -285
+      ],
+      "radius": [
+        49,
+        68
+      ],
+      "rise": 10
+    },
+    {
+      "id": "middle_hollow",
+      "center": [
+        -62,
+        -313
+      ],
+      "radius": [
+        32,
+        67
+      ],
+      "rise": -8
+    },
+    {
+      "id": "east_spur",
+      "center": [
+        115,
+        -306
+      ],
+      "radius": [
+        58,
+        77
+      ],
+      "rise": 12
+    },
+    {
+      "id": "east_hollow",
+      "center": [
+        204,
+        -287
+      ],
+      "radius": [
+        37,
+        66
+      ],
+      "rise": -7
+    },
+    {
+      "id": "high_west_shoulder",
+      "center": [
+        -339,
+        -370
+      ],
+      "radius": [
+        57,
+        40
+      ],
+      "rise": 5
+    },
+    {
+      "id": "home_west_fold",
+      "center": [
+        -275,
+        -220
+      ],
+      "radius": [
+        28,
+        35
+      ],
+      "rise": 5
+    },
+    {
+      "id": "home_east_hollow",
+      "center": [
+        -208,
+        -224
+      ],
+      "radius": [
+        25,
+        42
+      ],
+      "rise": -5
+    },
+    {
+      "id": "river_east_fold",
+      "center": [
+        408,
+        -278
+      ],
+      "radius": [
+        35,
+        54
+      ],
+      "rise": 9
+    },
+    {
+      "id": "river_east_hollow",
+      "center": [
+        390,
+        -333
+      ],
+      "radius": [
+        26,
+        37
+      ],
+      "rise": -6
+    },
+    {
+      "id": "west_crown_095",
+      "center": [
+        -220,
+        -412
+      ],
+      "radius": [
+        85,
+        61
+      ],
+      "rise": 17
+    },
+    {
+      "id": "west_drainage_095",
+      "center": [
+        -172,
+        -347
+      ],
+      "radius": [
+        28,
+        69
+      ],
+      "rise": -13
+    },
+    {
+      "id": "east_crown_095",
+      "center": [
+        174,
+        -404
+      ],
+      "radius": [
+        65,
+        56
+      ],
+      "rise": 19
+    },
+    {
+      "id": "east_drainage_095",
+      "center": [
+        231,
+        -352
+      ],
+      "radius": [
+        24,
+        68
+      ],
+      "rise": -12
+    },
+    {
+      "id": "summit_saddle_095",
+      "center": [
+        -58,
+        -434
+      ],
+      "radius": [
+        45,
+        49
+      ],
+      "rise": -10
+    },
+    {
+      "id": "outer_west_fall_095",
+      "center": [
+        -413,
+        -368
+      ],
+      "radius": [
+        44,
+        84
+      ],
+      "rise": -14
+    }
+  ],
+  "protected_terraces": [
+    {
+      "id": "summit_platform",
+      "center": [
+        0,
+        -385
+      ],
+      "size": [
+        34,
+        23
+      ]
+    },
+    {
+      "id": "forest_west_rest",
+      "center": [
+        -90,
+        -293
+      ],
+      "size": [
+        9,
+        7
+      ],
+      "landform_clearance_m": 35,
+      "landform_blend_m": 45
+    },
+    {
+      "id": "forest_east_rest",
+      "center": [
+        117,
+        -265
+      ],
+      "size": [
+        9,
+        7
+      ],
+      "landform_clearance_m": 35,
+      "landform_blend_m": 45
+    },
+    {
+      "id": "coast_garden_rest",
+      "center": [
+        -146,
+        282.8
+      ],
+      "size": [
+        8,
+        5
+      ]
+    }
+  ],
+  "coast_garden_route": [
+    [
+      -105,
+      293.001
+    ],
+    [
+      -113,
+      285
+    ],
+    [
+      -133,
+      285
+    ],
+    [
+      -146,
+      286
+    ],
+    [
+      -159,
+      290
+    ],
+    [
+      -162,
+      296.47
+    ]
+  ],
+  "coast_dunes": [
+    {
+      "center": [
+        -126,
+        273
+      ],
+      "radius": [
+        25,
+        11
+      ],
+      "height": 1.6
+    },
+    {
+      "center": [
+        -181,
+        277
+      ],
+      "radius": [
+        23,
+        15
+      ],
+      "height": 1.8
+    },
+    {
+      "center": [
+        56,
+        274
+      ],
+      "radius": [
+        27,
+        12
+      ],
+      "height": 1.3
+    },
+    {
+      "center": [
+        143,
+        279
+      ],
+      "radius": [
+        24,
+        13
+      ],
+      "height": 1.6
+    }
+  ],
+  "trees": [
+    "T01_courtyard",
+    "T02_canopy",
+    "T03_conifer",
+    "T04_blossom",
+    "T05_coastal",
+    "T06_riparian",
+    "T07_scrub"
+  ]
+}

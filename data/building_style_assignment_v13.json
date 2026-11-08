@@ -1,0 +1,1417 @@
+{
+  "version": "1.3",
+  "buildings": {
+    "B01": {
+      "id": "B01",
+      "name": "海风站",
+      "family": "A1",
+      "subtype": "",
+      "rank": "major",
+      "center": [
+        280,
+        3.6,
+        235
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "B01",
+      "status": "assigned_pending_runtime"
+    },
+    "B02": {
+      "id": "B02",
+      "name": "海边咖啡馆",
+      "family": "A2",
+      "subtype": "",
+      "rank": "medium",
+      "center": [
+        -110,
+        4.6,
+        248
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "B02",
+      "status": "assigned_pending_runtime"
+    },
+    "B03": {
+      "id": "B03",
+      "name": "花音唱片",
+      "family": "A3",
+      "subtype": "",
+      "rank": "medium",
+      "center": [
+        -100,
+        3.6,
+        197
+      ],
+      "roof_override": "4E5560",
+      "wall_override": "E8D49A",
+      "accent_override": "",
+      "purpose": "B03",
+      "status": "assigned_pending_runtime"
+    },
+    "B04": {
+      "id": "B04",
+      "name": "花间花店",
+      "family": "A3",
+      "subtype": "",
+      "rank": "medium",
+      "center": [
+        -215,
+        17.6,
+        -215
+      ],
+      "roof_override": "8A3F35",
+      "wall_override": "A9CDB8",
+      "accent_override": "",
+      "purpose": "B04",
+      "status": "assigned_pending_runtime"
+    },
+    "B05": {
+      "id": "B05",
+      "name": "光影画廊",
+      "family": "A6",
+      "subtype": "",
+      "rank": "major",
+      "center": [
+        188,
+        20.6,
+        -225
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "B05",
+      "status": "assigned_pending_runtime"
+    },
+    "B06": {
+      "id": "B06",
+      "name": "星幕影院",
+      "family": "A6",
+      "subtype": "",
+      "rank": "medium",
+      "center": [
+        252,
+        15.6,
+        -206
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "B06",
+      "status": "assigned_pending_runtime"
+    },
+    "B07": {
+      "id": "B07",
+      "name": "拾光纪念馆",
+      "family": "A6",
+      "subtype": "",
+      "rank": "medium",
+      "center": [
+        225,
+        25.6,
+        -258
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "B07",
+      "status": "assigned_pending_runtime"
+    },
+    "B08": {
+      "id": "B08",
+      "name": "律动排练馆",
+      "family": "A5",
+      "subtype": "",
+      "rank": "medium",
+      "center": [
+        -240,
+        11.6,
+        -72
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "B08",
+      "status": "assigned_pending_runtime"
+    },
+    "B09": {
+      "id": "B09",
+      "name": "回声工作室",
+      "family": "A5",
+      "subtype": "",
+      "rank": "medium",
+      "center": [
+        -230,
+        10.6,
+        -8
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "B09",
+      "status": "assigned_pending_runtime"
+    },
+    "B10": {
+      "id": "B10",
+      "name": "星光演艺厅",
+      "family": "A5",
+      "subtype": "",
+      "rank": "major",
+      "center": [
+        -287,
+        8.6,
+        8
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "B10",
+      "status": "assigned_pending_runtime"
+    },
+    "B11": {
+      "id": "B11",
+      "name": "星笺纪念品",
+      "family": "A3",
+      "subtype": "",
+      "rank": "medium",
+      "center": [
+        -60,
+        5.6,
+        153
+      ],
+      "roof_override": "4E5560",
+      "wall_override": "D9A9A3",
+      "accent_override": "",
+      "purpose": "B11",
+      "status": "assigned_pending_runtime"
+    },
+    "B12": {
+      "id": "B12",
+      "name": "我的海风小屋",
+      "family": "A7",
+      "subtype": "A7d",
+      "rank": "major",
+      "center": [
+        -240,
+        25.6,
+        -242
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "B12",
+      "status": "assigned_pending_runtime"
+    },
+    "B13": {
+      "id": "B13",
+      "name": "山海游客中心",
+      "family": "A4",
+      "subtype": "",
+      "rank": "major",
+      "center": [
+        57,
+        4.1,
+        96
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "B13",
+      "status": "assigned_pending_runtime"
+    },
+    "B01_UPPER": {
+      "id": "B01_UPPER",
+      "name": "海风站上层",
+      "family": "A1",
+      "subtype": "",
+      "rank": "small",
+      "center": [
+        297.0,
+        3.6,
+        232.0
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "B01_UPPER",
+      "status": "assigned_pending_runtime"
+    },
+    "B04_UPPER": {
+      "id": "B04_UPPER",
+      "name": "花间花店上层",
+      "family": "A3",
+      "subtype": "",
+      "rank": "small",
+      "center": [
+        -203.5,
+        17.6,
+        -216.0
+      ],
+      "roof_override": "4E5560",
+      "wall_override": "A7C3D6",
+      "accent_override": "",
+      "purpose": "B04_UPPER",
+      "status": "assigned_pending_runtime"
+    },
+    "B05_UPPER": {
+      "id": "B05_UPPER",
+      "name": "光影画廊上层",
+      "family": "A6",
+      "subtype": "",
+      "rank": "small",
+      "center": [
+        204.0,
+        20.6,
+        -229.0
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "B05_UPPER",
+      "status": "assigned_pending_runtime"
+    },
+    "B06_UPPER": {
+      "id": "B06_UPPER",
+      "name": "星幕影院上层",
+      "family": "A6",
+      "subtype": "",
+      "rank": "small",
+      "center": [
+        271.0,
+        15.6,
+        -213.5
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "B06_UPPER",
+      "status": "assigned_pending_runtime"
+    },
+    "B07_UPPER": {
+      "id": "B07_UPPER",
+      "name": "拾光纪念馆上层",
+      "family": "A6",
+      "subtype": "",
+      "rank": "small",
+      "center": [
+        242.0,
+        25.6,
+        -263.0
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "B07_UPPER",
+      "status": "assigned_pending_runtime"
+    },
+    "B08_UPPER": {
+      "id": "B08_UPPER",
+      "name": "律动排练馆上层",
+      "family": "A5",
+      "subtype": "",
+      "rank": "small",
+      "center": [
+        -225.0,
+        11.6,
+        -75.5
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "B08_UPPER",
+      "status": "assigned_pending_runtime"
+    },
+    "B09_UPPER": {
+      "id": "B09_UPPER",
+      "name": "回声工作室上层",
+      "family": "A5",
+      "subtype": "",
+      "rank": "small",
+      "center": [
+        -216.5,
+        10.6,
+        -10.5
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "B09_UPPER",
+      "status": "assigned_pending_runtime"
+    },
+    "B10_UPPER": {
+      "id": "B10_UPPER",
+      "name": "星光演艺厅上层",
+      "family": "A5",
+      "subtype": "",
+      "rank": "small",
+      "center": [
+        -265.0,
+        8.6,
+        -2.0
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "B10_UPPER",
+      "status": "assigned_pending_runtime"
+    },
+    "B12_UPPER": {
+      "id": "B12_UPPER",
+      "name": "我的海风小屋上层",
+      "family": "A7",
+      "subtype": "A7d",
+      "rank": "small",
+      "center": [
+        -227.5,
+        25.6,
+        -243.5
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "B12_UPPER",
+      "status": "assigned_pending_runtime"
+    },
+    "B13_UPPER": {
+      "id": "B13_UPPER",
+      "name": "山海游客中心上层",
+      "family": "A4",
+      "subtype": "",
+      "rank": "small",
+      "center": [
+        69.0,
+        4.1,
+        95.0
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "B13_UPPER",
+      "status": "assigned_pending_runtime"
+    },
+    "H01": {
+      "id": "H01",
+      "name": "田园烘焙与麦香晒台屋",
+      "family": "A7",
+      "subtype": "A7a",
+      "rank": "medium",
+      "center": [
+        -238,
+        4.4,
+        224
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "H01",
+      "status": "assigned_pending_runtime"
+    },
+    "H02": {
+      "id": "H02",
+      "name": "农夫种子与农具总站",
+      "family": "A7",
+      "subtype": "A7a",
+      "rank": "medium",
+      "center": [
+        -276,
+        4.800000000000001,
+        223
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "H02",
+      "status": "assigned_pending_runtime"
+    },
+    "H03": {
+      "id": "H03",
+      "name": "牧场写生与画框装裱屋",
+      "family": "A7",
+      "subtype": "A7c",
+      "rank": "medium",
+      "center": [
+        -312,
+        4.300000000000001,
+        220
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "H03",
+      "status": "assigned_pending_runtime"
+    },
+    "H04": {
+      "id": "H04",
+      "name": "西岬果酱与花果茶坊",
+      "family": "A7",
+      "subtype": "A7a",
+      "rank": "medium",
+      "center": [
+        -345,
+        3.6,
+        239
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "H04",
+      "status": "assigned_pending_runtime"
+    },
+    "H05": {
+      "id": "H05",
+      "name": "航海罗盘与望远镜观海墅",
+      "family": "A7",
+      "subtype": "A7e",
+      "rank": "medium",
+      "center": [
+        145,
+        7.1,
+        212
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "H05",
+      "status": "assigned_pending_runtime"
+    },
+    "H06": {
+      "id": "H06",
+      "name": "海风藤编与贝壳风铃馆",
+      "family": "A7",
+      "subtype": "A7e",
+      "rank": "medium",
+      "center": [
+        190,
+        6.6,
+        238
+      ],
+      "roof_override": "4C6B52",
+      "wall_override": "66816B",
+      "accent_override": "",
+      "purpose": "H06",
+      "status": "assigned_pending_runtime"
+    },
+    "H07": {
+      "id": "H07",
+      "name": "松果壁炉与木雕小憩屋",
+      "family": "A7",
+      "subtype": "A7b",
+      "rank": "medium",
+      "center": [
+        -183,
+        8.1,
+        35
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "H07",
+      "status": "assigned_pending_runtime"
+    },
+    "H08": {
+      "id": "H08",
+      "name": "溪谷植物图鉴与标本阁楼",
+      "family": "A7",
+      "subtype": "A7b",
+      "rank": "medium",
+      "center": [
+        95,
+        5.6,
+        26
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "H08",
+      "status": "assigned_pending_runtime"
+    },
+    "H09": {
+      "id": "H09",
+      "name": "星光花艺茶席与礼服手稿室",
+      "family": "A7",
+      "subtype": "A7d",
+      "rank": "medium",
+      "center": [
+        -44,
+        4.1,
+        90
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "H09",
+      "status": "assigned_pending_runtime"
+    },
+    "H10": {
+      "id": "H10",
+      "name": "山海印章与旅行手账馆",
+      "family": "A7",
+      "subtype": "A7c",
+      "rank": "medium",
+      "center": [
+        43,
+        4.1,
+        84
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "H10",
+      "status": "assigned_pending_runtime"
+    },
+    "H11": {
+      "id": "H11",
+      "name": "八音盒与木偶小剧场屋",
+      "family": "A7",
+      "subtype": "A7c",
+      "rank": "medium",
+      "center": [
+        -63,
+        4.0,
+        212
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "H11",
+      "status": "assigned_pending_runtime"
+    },
+    "H12": {
+      "id": "H12",
+      "name": "复古暗房与明信片屋",
+      "family": "A7",
+      "subtype": "A7e",
+      "rank": "medium",
+      "center": [
+        -139,
+        4.4,
+        208
+      ],
+      "roof_override": "4C6B52",
+      "wall_override": "66816B",
+      "accent_override": "",
+      "purpose": "H12",
+      "status": "assigned_pending_runtime"
+    },
+    "H13": {
+      "id": "H13",
+      "name": "干花书签与香薰工坊",
+      "family": "A7",
+      "subtype": "A7b",
+      "rank": "medium",
+      "center": [
+        -140,
+        4.300000000000001,
+        185
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "H13",
+      "status": "assigned_pending_runtime"
+    },
+    "H14": {
+      "id": "H14",
+      "name": "咖啡豆仓与猫爬架屋",
+      "family": "A7",
+      "subtype": "A7d",
+      "rank": "medium",
+      "center": [
+        -95,
+        4.6,
+        247
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "H14",
+      "status": "assigned_pending_runtime"
+    },
+    "BAKERY": {
+      "id": "BAKERY",
+      "name": "暖阳牛角包烘焙工坊",
+      "family": "A2",
+      "subtype": "",
+      "rank": "small",
+      "center": [
+        -110,
+        4.6,
+        229
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "BAKERY",
+      "status": "assigned_pending_runtime"
+    },
+    "LISTENING_WEST": {
+      "id": "LISTENING_WEST",
+      "name": "黑胶封套画报廊",
+      "family": "A3",
+      "subtype": "",
+      "rank": "small",
+      "center": [
+        -116.5,
+        3.8000000000000003,
+        209.2
+      ],
+      "roof_override": "4E5560",
+      "wall_override": "A7C3D6",
+      "accent_override": "",
+      "purpose": "LISTENING_WEST",
+      "status": "assigned_pending_runtime"
+    },
+    "LISTENING_EAST": {
+      "id": "LISTENING_EAST",
+      "name": "留声机铜号角维修坊",
+      "family": "A3",
+      "subtype": "",
+      "rank": "small",
+      "center": [
+        -80,
+        4.1,
+        184
+      ],
+      "roof_override": "8A3F35",
+      "wall_override": "E6B98D",
+      "accent_override": "",
+      "purpose": "LISTENING_EAST",
+      "status": "assigned_pending_runtime"
+    },
+    "CRAFT": {
+      "id": "CRAFT",
+      "name": "海玻璃马赛克拼贴坊",
+      "family": "A3",
+      "subtype": "",
+      "rank": "small",
+      "center": [
+        -75,
+        5.6,
+        166
+      ],
+      "roof_override": "4E5560",
+      "wall_override": "A9CDB8",
+      "accent_override": "",
+      "purpose": "CRAFT",
+      "status": "assigned_pending_runtime"
+    },
+    "Z09_B1": {
+      "id": "Z09_B1",
+      "name": "水轮木石工坊",
+      "family": "A9",
+      "subtype": "",
+      "rank": "medium",
+      "center": [
+        332,
+        6,
+        23
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "Z09_B1",
+      "status": "assigned_pending_runtime"
+    },
+    "Z09_B2": {
+      "id": "Z09_B2",
+      "name": "叠台矿彩陶艺工坊",
+      "family": "A9",
+      "subtype": "",
+      "rank": "medium",
+      "center": [
+        326,
+        5.5,
+        59
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "Z09_B2",
+      "status": "assigned_pending_runtime"
+    },
+    "Z09_B3": {
+      "id": "Z09_B3",
+      "name": "半山嵌岩茶室",
+      "family": "A9",
+      "subtype": "",
+      "rank": "medium",
+      "center": [
+        282,
+        14.5,
+        -10
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "Z09_B3",
+      "status": "assigned_pending_runtime"
+    },
+    "Z09_B4": {
+      "id": "Z09_B4",
+      "name": "跨街骑楼织染屋",
+      "family": "A9",
+      "subtype": "",
+      "rank": "medium",
+      "center": [
+        276,
+        13.5,
+        20
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "Z09_B4",
+      "status": "assigned_pending_runtime"
+    },
+    "Z09_B5": {
+      "id": "Z09_B5",
+      "name": "崖顶引水钟塔",
+      "family": "A9",
+      "subtype": "",
+      "rank": "major",
+      "center": [
+        255,
+        21,
+        -15
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "Z09_B5",
+      "status": "assigned_pending_runtime"
+    },
+    "Z09_B6": {
+      "id": "Z09_B6",
+      "name": "悬崖日落观景阁",
+      "family": "A9",
+      "subtype": "",
+      "rank": "medium",
+      "center": [
+        250,
+        19.5,
+        22
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "Z09_B6",
+      "status": "assigned_pending_runtime"
+    },
+    "THEME_EVERYDAY": {
+      "id": "THEME_EVERYDAY",
+      "name": "海风唱片间",
+      "family": "A3",
+      "subtype": "",
+      "rank": "medium",
+      "center": [
+        -100,
+        3.6,
+        171
+      ],
+      "roof_override": "8A3F35",
+      "wall_override": "A7C3D6",
+      "accent_override": "C9B1C8",
+      "purpose": "THEME_EVERYDAY",
+      "status": "assigned_pending_runtime"
+    },
+    "THEME_WAITING": {
+      "id": "THEME_WAITING",
+      "name": "街角留声间",
+      "family": "A2",
+      "subtype": "",
+      "rank": "medium",
+      "center": [
+        -166,
+        4.4,
+        253
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "A7BDC4",
+      "purpose": "THEME_WAITING",
+      "status": "assigned_pending_runtime"
+    },
+    "THEME_POEM": {
+      "id": "THEME_POEM",
+      "name": "星夜手札间",
+      "family": "A6",
+      "subtype": "",
+      "rank": "medium",
+      "center": [
+        244,
+        37.6,
+        -282
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "BDAE95",
+      "purpose": "THEME_POEM",
+      "status": "assigned_pending_runtime"
+    },
+    "THEME_FROST": {
+      "id": "THEME_FROST",
+      "name": "霜月小舞台",
+      "family": "A5",
+      "subtype": "",
+      "rank": "medium",
+      "center": [
+        -316,
+        8.6,
+        6
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "ABB8C7",
+      "purpose": "THEME_FROST",
+      "status": "assigned_pending_runtime"
+    },
+    "THEME_BLOSSOM": {
+      "id": "THEME_BLOSSOM",
+      "name": "花影寻物间",
+      "family": "A6",
+      "subtype": "",
+      "rank": "medium",
+      "center": [
+        253,
+        25.6,
+        -231
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "D3ABBB",
+      "purpose": "THEME_BLOSSOM",
+      "status": "assigned_pending_runtime"
+    },
+    "THEME_DAILY": {
+      "id": "THEME_DAILY",
+      "name": "日常摄影间",
+      "family": "A4",
+      "subtype": "",
+      "rank": "medium",
+      "center": [
+        108,
+        4.1,
+        102
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "B8BD9B",
+      "purpose": "THEME_DAILY",
+      "status": "assigned_pending_runtime"
+    },
+    "VILLA_0": {
+      "id": "VILLA_0",
+      "name": "珊瑚水屋1",
+      "family": "A11",
+      "subtype": "",
+      "rank": "medium",
+      "center": [
+        276,
+        -0.8,
+        426
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "599AAE",
+      "purpose": "VILLA_0",
+      "status": "assigned_pending_runtime"
+    },
+    "VILLA_1": {
+      "id": "VILLA_1",
+      "name": "珊瑚水屋2",
+      "family": "A11",
+      "subtype": "",
+      "rank": "medium",
+      "center": [
+        280,
+        -0.8,
+        441
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "85A366",
+      "purpose": "VILLA_1",
+      "status": "assigned_pending_runtime"
+    },
+    "VILLA_2": {
+      "id": "VILLA_2",
+      "name": "珊瑚水屋3",
+      "family": "A11",
+      "subtype": "",
+      "rank": "medium",
+      "center": [
+        280,
+        -0.8,
+        456
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "D4A064",
+      "purpose": "VILLA_2",
+      "status": "assigned_pending_runtime"
+    },
+    "VILLA_3": {
+      "id": "VILLA_3",
+      "name": "珊瑚水屋4",
+      "family": "A11",
+      "subtype": "",
+      "rank": "medium",
+      "center": [
+        276,
+        -0.8,
+        471
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "D99B92",
+      "purpose": "VILLA_3",
+      "status": "assigned_pending_runtime"
+    },
+    "ISLAND_LOBBY": {
+      "id": "ISLAND_LOBBY",
+      "name": "海上迎宾大堂",
+      "family": "A11",
+      "subtype": "",
+      "rank": "major",
+      "center": [
+        263.5,
+        -0.7,
+        421
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "599AAE",
+      "purpose": "ISLAND_LOBBY",
+      "status": "assigned_pending_runtime"
+    },
+    "TREEHOUSE_1": {
+      "id": "TREEHOUSE_1",
+      "name": "蕨影树屋",
+      "family": "A12",
+      "subtype": "",
+      "rank": "medium",
+      "center": [
+        -44,
+        6.799999999999999,
+        480
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "TREEHOUSE_1",
+      "status": "assigned_pending_runtime"
+    },
+    "TREEHOUSE_2": {
+      "id": "TREEHOUSE_2",
+      "name": "海风树屋",
+      "family": "A12",
+      "subtype": "",
+      "rank": "medium",
+      "center": [
+        -21,
+        8.799999999999999,
+        481
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "TREEHOUSE_2",
+      "status": "assigned_pending_runtime"
+    },
+    "TREEHOUSE_3": {
+      "id": "TREEHOUSE_3",
+      "name": "萤光树屋",
+      "family": "A12",
+      "subtype": "",
+      "rank": "medium",
+      "center": [
+        -39,
+        7.6,
+        501
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "TREEHOUSE_3",
+      "status": "assigned_pending_runtime"
+    },
+    "TREEHOUSE_4": {
+      "id": "TREEHOUSE_4",
+      "name": "星语树屋",
+      "family": "A12",
+      "subtype": "",
+      "rank": "medium",
+      "center": [
+        -17,
+        8.6,
+        501
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "TREEHOUSE_4",
+      "status": "assigned_pending_runtime"
+    },
+    "FOREST_LODGE": {
+      "id": "FOREST_LODGE",
+      "name": "森屿迎宾木屋",
+      "family": "A12",
+      "subtype": "",
+      "rank": "medium",
+      "center": [
+        -75,
+        1.4,
+        471
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "FOREST_LODGE",
+      "status": "assigned_pending_runtime"
+    },
+    "FOREST_OBSERVATORY": {
+      "id": "FOREST_OBSERVATORY",
+      "name": "南岚观星阁",
+      "family": "A12",
+      "subtype": "",
+      "rank": "major",
+      "center": [
+        -59,
+        4.1,
+        516
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "FOREST_OBSERVATORY",
+      "status": "assigned_pending_runtime"
+    },
+    "AZURE_VIEW": {
+      "id": "AZURE_VIEW",
+      "name": "蓝穹观景塔",
+      "family": "A2",
+      "subtype": "",
+      "rank": "major",
+      "center": [
+        193,
+        29.2,
+        -35
+      ],
+      "roof_override": "2F6FA8",
+      "wall_override": "",
+      "accent_override": "4C93B8",
+      "purpose": "AZURE_VIEW",
+      "status": "assigned_pending_runtime"
+    },
+    "AZURE_LIGHT": {
+      "id": "AZURE_LIGHT",
+      "name": "晴岬折光馆",
+      "family": "A2",
+      "subtype": "",
+      "rank": "medium",
+      "center": [
+        178,
+        17.2,
+        18
+      ],
+      "roof_override": "2F6FA8",
+      "wall_override": "",
+      "accent_override": "5AA6A0",
+      "purpose": "AZURE_LIGHT",
+      "status": "assigned_pending_runtime"
+    },
+    "AZURE_WEAVE": {
+      "id": "AZURE_WEAVE",
+      "name": "帆影织染坊",
+      "family": "A2",
+      "subtype": "",
+      "rank": "medium",
+      "center": [
+        154,
+        9.2,
+        84
+      ],
+      "roof_override": "2F6FA8",
+      "wall_override": "",
+      "accent_override": "3F7FB0",
+      "purpose": "AZURE_WEAVE",
+      "status": "assigned_pending_runtime"
+    },
+    "AZURE_WATER": {
+      "id": "AZURE_WATER",
+      "name": "阶水庭园",
+      "family": "A2",
+      "subtype": "",
+      "rank": "medium",
+      "center": [
+        223,
+        9.2,
+        126
+      ],
+      "roof_override": "2F6FA8",
+      "wall_override": "",
+      "accent_override": "4C93B8",
+      "purpose": "AZURE_WATER",
+      "status": "assigned_pending_runtime"
+    },
+    "AZURE_GLASS": {
+      "id": "AZURE_GLASS",
+      "name": "海玻璃拱廊",
+      "family": "A2",
+      "subtype": "",
+      "rank": "medium",
+      "center": [
+        359,
+        3.2,
+        162
+      ],
+      "roof_override": "2F6FA8",
+      "wall_override": "",
+      "accent_override": "5AA6A0",
+      "purpose": "AZURE_GLASS",
+      "status": "assigned_pending_runtime"
+    },
+    "AZURE_TIDE": {
+      "id": "AZURE_TIDE",
+      "name": "潮汐观察屋",
+      "family": "A2",
+      "subtype": "",
+      "rank": "small",
+      "center": [
+        385,
+        3.2,
+        246
+      ],
+      "roof_override": "2F6FA8",
+      "wall_override": "",
+      "accent_override": "3F7FB0",
+      "purpose": "AZURE_TIDE",
+      "status": "assigned_pending_runtime"
+    },
+    "AZURE_MODEL": {
+      "id": "AZURE_MODEL",
+      "name": "湾岸造景工场",
+      "family": "A2",
+      "subtype": "",
+      "rank": "medium",
+      "center": [
+        347,
+        3.2,
+        289
+      ],
+      "roof_override": "2F6FA8",
+      "wall_override": "",
+      "accent_override": "4C93B8",
+      "purpose": "AZURE_MODEL",
+      "status": "assigned_pending_runtime"
+    },
+    "AZURE_SAIL": {
+      "id": "AZURE_SAIL",
+      "name": "落日帆亭",
+      "family": "A2",
+      "subtype": "",
+      "rank": "small",
+      "center": [
+        193,
+        2.8,
+        267
+      ],
+      "roof_override": "2F6FA8",
+      "wall_override": "",
+      "accent_override": "5AA6A0",
+      "purpose": "AZURE_SAIL",
+      "status": "assigned_pending_runtime"
+    },
+    "CASTLE_MAIN": {
+      "id": "CASTLE_MAIN",
+      "name": "花霞城郭主楼",
+      "family": "A10",
+      "subtype": "",
+      "rank": "major",
+      "center": [
+        -112.5,
+        7.4,
+        10
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "CASTLE_MAIN",
+      "status": "assigned_pending_runtime"
+    },
+    "CASTLE_PAPER": {
+      "id": "CASTLE_PAPER",
+      "name": "纸木工房",
+      "family": "A10",
+      "subtype": "",
+      "rank": "medium",
+      "center": [
+        -144,
+        7.4,
+        10
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "CASTLE_PAPER",
+      "status": "assigned_pending_runtime"
+    },
+    "CASTLE_CLOTH": {
+      "id": "CASTLE_CLOTH",
+      "name": "织染装配阁",
+      "family": "A10",
+      "subtype": "",
+      "rank": "medium",
+      "center": [
+        -84,
+        7.4,
+        10
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "CASTLE_CLOTH",
+      "status": "assigned_pending_runtime"
+    },
+    "CASTLE_MATERIAL": {
+      "id": "CASTLE_MATERIAL",
+      "name": "风物材料街屋",
+      "family": "A10",
+      "subtype": "",
+      "rank": "medium",
+      "center": [
+        -142,
+        4.2,
+        57
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "CASTLE_MATERIAL",
+      "status": "assigned_pending_runtime"
+    },
+    "CASTLE_DISPLAY": {
+      "id": "CASTLE_DISPLAY",
+      "name": "作品陈列街屋",
+      "family": "A10",
+      "subtype": "",
+      "rank": "medium",
+      "center": [
+        -83,
+        4.2,
+        57
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "CASTLE_DISPLAY",
+      "status": "assigned_pending_runtime"
+    },
+    "CASTLE_TEA": {
+      "id": "CASTLE_TEA",
+      "name": "花霞茶亭",
+      "family": "A10",
+      "subtype": "",
+      "rank": "small",
+      "center": [
+        -145,
+        5.8,
+        35
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "CASTLE_TEA",
+      "status": "assigned_pending_runtime"
+    },
+    "CABLE_LOWER": {
+      "id": "CABLE_LOWER",
+      "name": "花丘山脚缆车站",
+      "family": "A8",
+      "subtype": "",
+      "rank": "medium",
+      "center": [
+        -288,
+        13.9,
+        -116
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "CABLE_LOWER",
+      "status": "assigned_pending_runtime"
+    },
+    "CABLE_UPPER": {
+      "id": "CABLE_UPPER",
+      "name": "西山顶缆车站",
+      "family": "A8",
+      "subtype": "",
+      "rank": "medium",
+      "center": [
+        -60,
+        70.13,
+        -358
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "CABLE_UPPER",
+      "status": "assigned_pending_runtime"
+    },
+    "SUMMIT_TEA": {
+      "id": "SUMMIT_TEA",
+      "name": "云间茶寮",
+      "family": "A8",
+      "subtype": "",
+      "rank": "major",
+      "center": [
+        -20,
+        71.1,
+        -396
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "SUMMIT_TEA",
+      "status": "assigned_pending_runtime"
+    },
+    "LIGHTHOUSE": {
+      "id": "LIGHTHOUSE",
+      "name": "东岬灯塔",
+      "family": "A13",
+      "subtype": "",
+      "rank": "major",
+      "center": [
+        360,
+        9.6,
+        383
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "LIGHTHOUSE",
+      "status": "assigned_pending_runtime"
+    },
+    "CREEK_TEA": {
+      "id": "CREEK_TEA",
+      "name": "溪岸水车茶座",
+      "family": "A13",
+      "subtype": "",
+      "rank": "small",
+      "center": [
+        -194,
+        3.3,
+        -190
+      ],
+      "roof_override": "",
+      "wall_override": "",
+      "accent_override": "",
+      "purpose": "CREEK_TEA",
+      "status": "assigned_pending_runtime"
+    }
+  },
+  "preserve_geometry_contract": "Door/floor/ID coordinates are authoritative 0120 values. No building relocation."
+}

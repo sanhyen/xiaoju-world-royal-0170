@@ -1,0 +1,26 @@
+; Engine configuration file.
+; Reconstructed from exported project.binary (0160b). Do not treat as original authoring file.
+
+config_version=5
+
+[application]
+
+config/name="小鞠世界 · 海风与星光"
+config/description="非官方同人探索乐园 · 皇家精工 0.16.0"
+config/version="0.16.0"
+run/main_scene="res://scenes/world/main.tscn"
+config/features=PackedStringArray("4.7", "Mobile")
+
+[display]
+
+window/size/viewport_width=1920
+window/size/viewport_height=1080
+window/size/window_width_override=1280
+window/size/window_height_override=720
+window/stretch/mode="canvas_items"
+
+[rendering]
+
+renderer/rendering_method="mobile"
+anti_aliasing/quality/msaa_3d=2
+environment/defaults/default_clear_color=Color(0.65, 0.79, 0.83, 1)

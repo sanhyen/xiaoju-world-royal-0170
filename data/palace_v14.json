@@ -1,0 +1,2455 @@
+{
+  "schema": 1,
+  "version": "0.14.0",
+  "buildings": {
+    "B01": {
+      "name": "海风站",
+      "family": "A1",
+      "palace_use": "礼仪门殿",
+      "grade": 2,
+      "variant": 0,
+      "roof_form": "hip",
+      "roof_color": "667B76",
+      "wall": "E7DFCA",
+      "wood": "9D3E32",
+      "gold": "B59C65",
+      "rise": 2.4,
+      "floor_heights": [
+        3.6
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_0",
+        "ridge_beasts",
+        "purpose_station"
+      ]
+    },
+    "B02": {
+      "name": "海边咖啡馆",
+      "family": "A2",
+      "palace_use": "临海宫苑",
+      "grade": 3,
+      "variant": 1,
+      "roof_form": "hanging_gable",
+      "roof_color": "4D7D8D",
+      "wall": "E1DDCD",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        4.6,
+        8.4
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_1",
+        "ridge_finials",
+        "purpose_cafe"
+      ]
+    },
+    "B03": {
+      "name": "花音唱片",
+      "family": "A3",
+      "palace_use": "宫苑工艺街院",
+      "grade": 3,
+      "variant": 2,
+      "roof_form": "hard_gable",
+      "roof_color": "606D65",
+      "wall": "E8DDC8",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        3.6,
+        7.4,
+        7.6
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_2",
+        "ridge_finials",
+        "purpose_records"
+      ]
+    },
+    "B04": {
+      "name": "花间花店",
+      "family": "A3",
+      "palace_use": "宫苑工艺街院",
+      "grade": 3,
+      "variant": 3,
+      "roof_form": "hard_gable",
+      "roof_color": "606D65",
+      "wall": "E8DDC8",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        17.6
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_3",
+        "ridge_finials",
+        "purpose_florist"
+      ]
+    },
+    "B05": {
+      "name": "光影画廊",
+      "family": "A6",
+      "palace_use": "书画藏影院",
+      "grade": 2,
+      "variant": 4,
+      "roof_form": "hip",
+      "roof_color": "637E7C",
+      "wall": "E3DCCB",
+      "wood": "9D3E32",
+      "gold": "B59C65",
+      "rise": 2.4,
+      "floor_heights": [
+        20.6
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_0",
+        "ridge_beasts",
+        "purpose_gallery"
+      ]
+    },
+    "B06": {
+      "name": "星幕影院",
+      "family": "A6",
+      "palace_use": "书画藏影院",
+      "grade": 2,
+      "variant": 5,
+      "roof_form": "hip",
+      "roof_color": "637E7C",
+      "wall": "E3DCCB",
+      "wood": "9D3E32",
+      "gold": "B59C65",
+      "rise": 2.4,
+      "floor_heights": [
+        15.6
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_1",
+        "ridge_beasts",
+        "purpose_cinema"
+      ]
+    },
+    "B07": {
+      "name": "拾光纪念馆",
+      "family": "A6",
+      "palace_use": "书画藏影院",
+      "grade": 2,
+      "variant": 6,
+      "roof_form": "hip",
+      "roof_color": "637E7C",
+      "wall": "E3DCCB",
+      "wood": "9D3E32",
+      "gold": "B59C65",
+      "rise": 2.4,
+      "floor_heights": [
+        25.6,
+        28.75
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_2",
+        "ridge_beasts",
+        "purpose_pb"
+      ]
+    },
+    "B08": {
+      "name": "律动排练馆",
+      "family": "A5",
+      "palace_use": "宫式戏楼",
+      "grade": 2,
+      "variant": 0,
+      "roof_form": "hip",
+      "roof_color": "597F76",
+      "wall": "E4DAC3",
+      "wood": "9D3E32",
+      "gold": "B59C65",
+      "rise": 2.4,
+      "floor_heights": [
+        11.6,
+        14.7
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_3",
+        "ridge_beasts",
+        "purpose_dance"
+      ]
+    },
+    "B09": {
+      "name": "回声工作室",
+      "family": "A5",
+      "palace_use": "宫式戏楼",
+      "grade": 2,
+      "variant": 1,
+      "roof_form": "hip",
+      "roof_color": "597F76",
+      "wall": "E4DAC3",
+      "wood": "9D3E32",
+      "gold": "B59C65",
+      "rise": 2.4,
+      "floor_heights": [
+        10.6
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_0",
+        "ridge_beasts",
+        "purpose_studio"
+      ]
+    },
+    "B10": {
+      "name": "星光演艺厅",
+      "family": "A5",
+      "palace_use": "宫式戏楼",
+      "grade": 1,
+      "variant": 2,
+      "roof_form": "hip",
+      "roof_color": "597F76",
+      "wall": "E4DAC3",
+      "wood": "9D3E32",
+      "gold": "B59C65",
+      "rise": 3.2,
+      "floor_heights": [
+        8.6
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_1",
+        "ridge_beasts",
+        "purpose_theater"
+      ]
+    },
+    "B11": {
+      "name": "星笺纪念品",
+      "family": "A3",
+      "palace_use": "宫苑工艺街院",
+      "grade": 3,
+      "variant": 3,
+      "roof_form": "hard_gable",
+      "roof_color": "606D65",
+      "wall": "E8DDC8",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        5.6,
+        9.6
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_2",
+        "ridge_finials",
+        "purpose_souvenir"
+      ]
+    },
+    "B12": {
+      "name": "我的海风小屋",
+      "family": "A7",
+      "palace_use": "田园宫式民居",
+      "grade": 4,
+      "variant": 4,
+      "roof_form": "hard_gable",
+      "roof_color": "6B7665",
+      "wall": "DDD2B8",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        25.6
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_3",
+        "ridge_finials",
+        "purpose_home"
+      ]
+    },
+    "B13": {
+      "name": "山海游客中心",
+      "family": "A4",
+      "palace_use": "礼仪广场配殿",
+      "grade": 2,
+      "variant": 5,
+      "roof_form": "hip",
+      "roof_color": "687E73",
+      "wall": "E8DDC8",
+      "wood": "9D3E32",
+      "gold": "B59C65",
+      "rise": 2.4,
+      "floor_heights": [
+        4.1
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_0",
+        "ridge_beasts",
+        "purpose_visitor"
+      ]
+    },
+    "B01_UPPER": {
+      "name": "海风站上层",
+      "family": "A1",
+      "palace_use": "礼仪门殿",
+      "grade": 3,
+      "variant": 6,
+      "roof_form": "hard_gable",
+      "roof_color": "667B76",
+      "wall": "E7DFCA",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        3.6,
+        7.4,
+        10.5
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_1",
+        "ridge_finials",
+        "purpose_annex"
+      ]
+    },
+    "B04_UPPER": {
+      "name": "花间花店上层",
+      "family": "A3",
+      "palace_use": "宫苑工艺街院",
+      "grade": 3,
+      "variant": 0,
+      "roof_form": "hard_gable",
+      "roof_color": "606D65",
+      "wall": "E8DDC8",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        17.6,
+        21.4
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_2",
+        "ridge_finials",
+        "purpose_annex"
+      ]
+    },
+    "B05_UPPER": {
+      "name": "光影画廊上层",
+      "family": "A6",
+      "palace_use": "书画藏影院",
+      "grade": 3,
+      "variant": 1,
+      "roof_form": "hard_gable",
+      "roof_color": "637E7C",
+      "wall": "E3DCCB",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        20.6,
+        24.4
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_3",
+        "ridge_finials",
+        "purpose_annex"
+      ]
+    },
+    "B06_UPPER": {
+      "name": "星幕影院上层",
+      "family": "A6",
+      "palace_use": "书画藏影院",
+      "grade": 3,
+      "variant": 2,
+      "roof_form": "hard_gable",
+      "roof_color": "637E7C",
+      "wall": "E3DCCB",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        15.6,
+        19.4
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_0",
+        "ridge_finials",
+        "purpose_annex"
+      ]
+    },
+    "B07_UPPER": {
+      "name": "拾光纪念馆上层",
+      "family": "A6",
+      "palace_use": "书画藏影院",
+      "grade": 3,
+      "variant": 3,
+      "roof_form": "hard_gable",
+      "roof_color": "637E7C",
+      "wall": "E3DCCB",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        25.6,
+        29.4
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_1",
+        "ridge_finials",
+        "purpose_annex"
+      ]
+    },
+    "B08_UPPER": {
+      "name": "律动排练馆上层",
+      "family": "A5",
+      "palace_use": "宫式戏楼",
+      "grade": 3,
+      "variant": 4,
+      "roof_form": "hard_gable",
+      "roof_color": "597F76",
+      "wall": "E4DAC3",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        11.6,
+        15.4
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_2",
+        "ridge_finials",
+        "purpose_annex"
+      ]
+    },
+    "B09_UPPER": {
+      "name": "回声工作室上层",
+      "family": "A5",
+      "palace_use": "宫式戏楼",
+      "grade": 3,
+      "variant": 5,
+      "roof_form": "hard_gable",
+      "roof_color": "597F76",
+      "wall": "E4DAC3",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        10.6,
+        14.4
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_3",
+        "ridge_finials",
+        "purpose_annex"
+      ]
+    },
+    "B10_UPPER": {
+      "name": "星光演艺厅上层",
+      "family": "A5",
+      "palace_use": "宫式戏楼",
+      "grade": 3,
+      "variant": 6,
+      "roof_form": "hard_gable",
+      "roof_color": "597F76",
+      "wall": "E4DAC3",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        8.6,
+        12.4
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_0",
+        "ridge_finials",
+        "purpose_annex"
+      ]
+    },
+    "B12_UPPER": {
+      "name": "我的海风小屋上层",
+      "family": "A7",
+      "palace_use": "田园宫式民居",
+      "grade": 4,
+      "variant": 0,
+      "roof_form": "hard_gable",
+      "roof_color": "6B7665",
+      "wall": "DDD2B8",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        25.6,
+        29.4
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_1",
+        "ridge_finials",
+        "purpose_annex"
+      ]
+    },
+    "B13_UPPER": {
+      "name": "山海游客中心上层",
+      "family": "A4",
+      "palace_use": "礼仪广场配殿",
+      "grade": 3,
+      "variant": 1,
+      "roof_form": "hanging_gable",
+      "roof_color": "687E73",
+      "wall": "E8DDC8",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        4.1,
+        7.9
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_2",
+        "ridge_finials",
+        "purpose_annex"
+      ]
+    },
+    "H01": {
+      "name": "田园烘焙与麦香晒台屋",
+      "family": "A7",
+      "palace_use": "田园宫式民居",
+      "grade": 3,
+      "variant": 2,
+      "roof_form": "hard_gable",
+      "roof_color": "6B7665",
+      "wall": "DDD2B8",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        4.4,
+        7.8
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_3",
+        "ridge_finials",
+        "purpose_home"
+      ]
+    },
+    "H02": {
+      "name": "农夫种子与农具总站",
+      "family": "A7",
+      "palace_use": "田园宫式民居",
+      "grade": 3,
+      "variant": 3,
+      "roof_form": "hard_gable",
+      "roof_color": "6B7665",
+      "wall": "DDD2B8",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        4.8
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_0",
+        "ridge_finials",
+        "purpose_home"
+      ]
+    },
+    "H03": {
+      "name": "牧场写生与画框装裱屋",
+      "family": "A7",
+      "palace_use": "田园宫式民居",
+      "grade": 3,
+      "variant": 4,
+      "roof_form": "hard_gable",
+      "roof_color": "6B7665",
+      "wall": "DDD2B8",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        4.3,
+        7.7
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_1",
+        "ridge_finials",
+        "purpose_home"
+      ]
+    },
+    "H04": {
+      "name": "西岬果酱与花果茶坊",
+      "family": "A7",
+      "palace_use": "田园宫式民居",
+      "grade": 3,
+      "variant": 5,
+      "roof_form": "hard_gable",
+      "roof_color": "6B7665",
+      "wall": "DDD2B8",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        3.6
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_2",
+        "ridge_finials",
+        "purpose_home"
+      ]
+    },
+    "H05": {
+      "name": "航海罗盘与望远镜观海墅",
+      "family": "A7",
+      "palace_use": "田园宫式民居",
+      "grade": 3,
+      "variant": 6,
+      "roof_form": "hard_gable",
+      "roof_color": "6B7665",
+      "wall": "DDD2B8",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        7.1,
+        10.5
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_3",
+        "ridge_finials",
+        "purpose_home"
+      ]
+    },
+    "H06": {
+      "name": "海风藤编与贝壳风铃馆",
+      "family": "A7",
+      "palace_use": "田园宫式民居",
+      "grade": 3,
+      "variant": 0,
+      "roof_form": "hard_gable",
+      "roof_color": "6B7665",
+      "wall": "DDD2B8",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        6.6
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_0",
+        "ridge_finials",
+        "purpose_home"
+      ]
+    },
+    "H07": {
+      "name": "松果壁炉与木雕小憩屋",
+      "family": "A7",
+      "palace_use": "田园宫式民居",
+      "grade": 3,
+      "variant": 1,
+      "roof_form": "hard_gable",
+      "roof_color": "6B7665",
+      "wall": "DDD2B8",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        8.1
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_1",
+        "ridge_finials",
+        "purpose_home"
+      ]
+    },
+    "H08": {
+      "name": "溪谷植物图鉴与标本阁楼",
+      "family": "A7",
+      "palace_use": "田园宫式民居",
+      "grade": 3,
+      "variant": 2,
+      "roof_form": "hard_gable",
+      "roof_color": "6B7665",
+      "wall": "DDD2B8",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        5.6,
+        9.0
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_2",
+        "ridge_finials",
+        "purpose_home"
+      ]
+    },
+    "H09": {
+      "name": "星光花艺茶席与礼服手稿室",
+      "family": "A7",
+      "palace_use": "田园宫式民居",
+      "grade": 3,
+      "variant": 3,
+      "roof_form": "hard_gable",
+      "roof_color": "6B7665",
+      "wall": "DDD2B8",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        4.1
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_3",
+        "ridge_finials",
+        "purpose_home"
+      ]
+    },
+    "H10": {
+      "name": "山海印章与旅行手账馆",
+      "family": "A7",
+      "palace_use": "田园宫式民居",
+      "grade": 3,
+      "variant": 4,
+      "roof_form": "hard_gable",
+      "roof_color": "6B7665",
+      "wall": "DDD2B8",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        4.1
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_0",
+        "ridge_finials",
+        "purpose_home"
+      ]
+    },
+    "H11": {
+      "name": "八音盒与木偶小剧场屋",
+      "family": "A7",
+      "palace_use": "田园宫式民居",
+      "grade": 3,
+      "variant": 5,
+      "roof_form": "hard_gable",
+      "roof_color": "6B7665",
+      "wall": "DDD2B8",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        4.0
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_1",
+        "ridge_finials",
+        "purpose_home"
+      ]
+    },
+    "H12": {
+      "name": "复古暗房与明信片屋",
+      "family": "A7",
+      "palace_use": "田园宫式民居",
+      "grade": 3,
+      "variant": 6,
+      "roof_form": "hard_gable",
+      "roof_color": "6B7665",
+      "wall": "DDD2B8",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        4.4
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_2",
+        "ridge_finials",
+        "purpose_home"
+      ]
+    },
+    "H13": {
+      "name": "干花书签与香薰工坊",
+      "family": "A7",
+      "palace_use": "田园宫式民居",
+      "grade": 3,
+      "variant": 0,
+      "roof_form": "hard_gable",
+      "roof_color": "6B7665",
+      "wall": "DDD2B8",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        4.3
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_3",
+        "ridge_finials",
+        "purpose_home"
+      ]
+    },
+    "H14": {
+      "name": "咖啡豆仓与猫爬架屋",
+      "family": "A7",
+      "palace_use": "田园宫式民居",
+      "grade": 3,
+      "variant": 1,
+      "roof_form": "hard_gable",
+      "roof_color": "6B7665",
+      "wall": "DDD2B8",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        4.6
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_0",
+        "ridge_finials",
+        "purpose_home"
+      ]
+    },
+    "BAKERY": {
+      "name": "暖阳牛角包烘焙工坊",
+      "family": "A2",
+      "palace_use": "临海宫苑",
+      "grade": 3,
+      "variant": 2,
+      "roof_form": "hanging_gable",
+      "roof_color": "4D7D8D",
+      "wall": "E1DDCD",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        4.6
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_1",
+        "ridge_finials",
+        "purpose_wing"
+      ]
+    },
+    "LISTENING_WEST": {
+      "name": "黑胶封套画报廊",
+      "family": "A3",
+      "palace_use": "宫苑工艺街院",
+      "grade": 3,
+      "variant": 3,
+      "roof_form": "hard_gable",
+      "roof_color": "606D65",
+      "wall": "E8DDC8",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        3.8
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_2",
+        "ridge_finials",
+        "purpose_wing"
+      ]
+    },
+    "LISTENING_EAST": {
+      "name": "留声机铜号角维修坊",
+      "family": "A3",
+      "palace_use": "宫苑工艺街院",
+      "grade": 3,
+      "variant": 4,
+      "roof_form": "hard_gable",
+      "roof_color": "606D65",
+      "wall": "E8DDC8",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        4.1
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_3",
+        "ridge_finials",
+        "purpose_wing"
+      ]
+    },
+    "CRAFT": {
+      "name": "海玻璃马赛克拼贴坊",
+      "family": "A3",
+      "palace_use": "宫苑工艺街院",
+      "grade": 3,
+      "variant": 5,
+      "roof_form": "hard_gable",
+      "roof_color": "606D65",
+      "wall": "E8DDC8",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        5.6
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_0",
+        "ridge_finials",
+        "purpose_wing"
+      ]
+    },
+    "Z09_B1": {
+      "name": "水轮木石工坊",
+      "family": "A9",
+      "palace_use": "依山叠院",
+      "grade": 3,
+      "variant": 6,
+      "roof_form": "hard_gable",
+      "roof_color": "62766B",
+      "wall": "D3C7AE",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        6.0,
+        10.5
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_1",
+        "ridge_finials",
+        "purpose_cliff"
+      ]
+    },
+    "Z09_B2": {
+      "name": "叠台矿彩陶艺工坊",
+      "family": "A9",
+      "palace_use": "依山叠院",
+      "grade": 3,
+      "variant": 0,
+      "roof_form": "hard_gable",
+      "roof_color": "62766B",
+      "wall": "D3C7AE",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        5.5,
+        10.5
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_2",
+        "ridge_finials",
+        "purpose_cliff"
+      ]
+    },
+    "Z09_B3": {
+      "name": "半山嵌岩茶室",
+      "family": "A9",
+      "palace_use": "依山叠院",
+      "grade": 3,
+      "variant": 1,
+      "roof_form": "hard_gable",
+      "roof_color": "62766B",
+      "wall": "D3C7AE",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        14.5
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_3",
+        "ridge_finials",
+        "purpose_cliff"
+      ]
+    },
+    "Z09_B4": {
+      "name": "跨街骑楼织染屋",
+      "family": "A9",
+      "palace_use": "依山叠院",
+      "grade": 3,
+      "variant": 2,
+      "roof_form": "hard_gable",
+      "roof_color": "62766B",
+      "wall": "D3C7AE",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        13.5,
+        18.0
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_0",
+        "ridge_finials",
+        "purpose_cliff"
+      ]
+    },
+    "Z09_B5": {
+      "name": "崖顶引水钟塔",
+      "family": "A9",
+      "palace_use": "依山叠院",
+      "grade": 3,
+      "variant": 3,
+      "roof_form": "hard_gable",
+      "roof_color": "62766B",
+      "wall": "D3C7AE",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        21.0,
+        25.5
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_1",
+        "ridge_finials",
+        "purpose_cliff"
+      ]
+    },
+    "Z09_B6": {
+      "name": "悬崖日落观景阁",
+      "family": "A9",
+      "palace_use": "依山叠院",
+      "grade": 3,
+      "variant": 4,
+      "roof_form": "hard_gable",
+      "roof_color": "62766B",
+      "wall": "D3C7AE",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        18.0,
+        19.5
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_2",
+        "ridge_finials",
+        "purpose_cliff"
+      ]
+    },
+    "THEME_EVERYDAY": {
+      "name": "海风唱片间",
+      "family": "A3",
+      "palace_use": "宫苑工艺街院",
+      "grade": 3,
+      "variant": 5,
+      "roof_form": "hard_gable",
+      "roof_color": "606D65",
+      "wall": "E8DDC8",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        3.6
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_3",
+        "ridge_finials",
+        "purpose_theme"
+      ]
+    },
+    "THEME_WAITING": {
+      "name": "街角留声间",
+      "family": "A2",
+      "palace_use": "临海宫苑",
+      "grade": 3,
+      "variant": 6,
+      "roof_form": "hanging_gable",
+      "roof_color": "4D7D8D",
+      "wall": "E1DDCD",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        4.4,
+        8.1
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_0",
+        "ridge_finials",
+        "purpose_theme"
+      ]
+    },
+    "THEME_POEM": {
+      "name": "星夜手札间",
+      "family": "A6",
+      "palace_use": "书画藏影院",
+      "grade": 3,
+      "variant": 0,
+      "roof_form": "hard_gable",
+      "roof_color": "637E7C",
+      "wall": "E3DCCB",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        37.6,
+        41.0,
+        44.5
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_1",
+        "ridge_finials",
+        "purpose_theme"
+      ]
+    },
+    "THEME_FROST": {
+      "name": "霜月小舞台",
+      "family": "A5",
+      "palace_use": "宫式戏楼",
+      "grade": 3,
+      "variant": 1,
+      "roof_form": "hard_gable",
+      "roof_color": "597F76",
+      "wall": "E4DAC3",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        8.6,
+        12.7
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_2",
+        "ridge_finials",
+        "purpose_theme"
+      ]
+    },
+    "THEME_BLOSSOM": {
+      "name": "花影寻物间",
+      "family": "A6",
+      "palace_use": "书画藏影院",
+      "grade": 3,
+      "variant": 2,
+      "roof_form": "hard_gable",
+      "roof_color": "637E7C",
+      "wall": "E3DCCB",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        25.6
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_3",
+        "ridge_finials",
+        "purpose_theme"
+      ]
+    },
+    "THEME_DAILY": {
+      "name": "日常摄影间",
+      "family": "A4",
+      "palace_use": "礼仪广场配殿",
+      "grade": 3,
+      "variant": 3,
+      "roof_form": "hanging_gable",
+      "roof_color": "687E73",
+      "wall": "E8DDC8",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        4.1,
+        7.8
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_0",
+        "ridge_finials",
+        "purpose_theme"
+      ]
+    },
+    "VILLA_0": {
+      "name": "珊瑚水屋1",
+      "family": "A11",
+      "palace_use": "架空水榭",
+      "grade": 4,
+      "variant": 4,
+      "roof_form": "hanging_gable",
+      "roof_color": "608B85",
+      "wall": "DADBC6",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        -0.8
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_1",
+        "ridge_finials",
+        "purpose_villa"
+      ],
+      "runtime_envelope": true,
+      "envelope_center": [
+        276,
+        -0.8,
+        426
+      ],
+      "envelope_size": [
+        8.2,
+        8.2
+      ]
+    },
+    "VILLA_1": {
+      "name": "珊瑚水屋2",
+      "family": "A11",
+      "palace_use": "架空水榭",
+      "grade": 4,
+      "variant": 5,
+      "roof_form": "hanging_gable",
+      "roof_color": "608B85",
+      "wall": "DADBC6",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        -0.8
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_2",
+        "ridge_finials",
+        "purpose_villa"
+      ],
+      "runtime_envelope": true,
+      "envelope_center": [
+        280,
+        -0.8,
+        441
+      ],
+      "envelope_size": [
+        8.2,
+        8.2
+      ]
+    },
+    "VILLA_2": {
+      "name": "珊瑚水屋3",
+      "family": "A11",
+      "palace_use": "架空水榭",
+      "grade": 4,
+      "variant": 6,
+      "roof_form": "hanging_gable",
+      "roof_color": "608B85",
+      "wall": "DADBC6",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        -0.8
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_3",
+        "ridge_finials",
+        "purpose_villa"
+      ],
+      "runtime_envelope": true,
+      "envelope_center": [
+        280,
+        -0.8,
+        456
+      ],
+      "envelope_size": [
+        8.2,
+        8.2
+      ]
+    },
+    "VILLA_3": {
+      "name": "珊瑚水屋4",
+      "family": "A11",
+      "palace_use": "架空水榭",
+      "grade": 4,
+      "variant": 0,
+      "roof_form": "hanging_gable",
+      "roof_color": "608B85",
+      "wall": "DADBC6",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        -0.8
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_0",
+        "ridge_finials",
+        "purpose_villa"
+      ],
+      "runtime_envelope": true,
+      "envelope_center": [
+        276,
+        -0.8,
+        471
+      ],
+      "envelope_size": [
+        8.2,
+        8.2
+      ]
+    },
+    "ISLAND_LOBBY": {
+      "name": "海上迎宾大堂",
+      "family": "A11",
+      "palace_use": "架空水榭",
+      "grade": 2,
+      "variant": 1,
+      "roof_form": "hip",
+      "roof_color": "608B85",
+      "wall": "DADBC6",
+      "wood": "9D3E32",
+      "gold": "B59C65",
+      "rise": 2.4,
+      "floor_heights": [
+        -0.7,
+        2.2
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_1",
+        "ridge_beasts",
+        "purpose_lobby"
+      ],
+      "runtime_envelope": true,
+      "envelope_center": [
+        263.5,
+        -0.7,
+        421
+      ],
+      "envelope_size": [
+        11.4,
+        9
+      ]
+    },
+    "TREEHOUSE_1": {
+      "name": "蕨影树屋",
+      "family": "A12",
+      "palace_use": "森屿树阁",
+      "grade": 4,
+      "variant": 2,
+      "roof_form": "hanging_gable",
+      "roof_color": "647F64",
+      "wall": "D9D3BE",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        6.8
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_2",
+        "ridge_finials",
+        "purpose_treehouse"
+      ]
+    },
+    "TREEHOUSE_2": {
+      "name": "海风树屋",
+      "family": "A12",
+      "palace_use": "森屿树阁",
+      "grade": 4,
+      "variant": 3,
+      "roof_form": "hanging_gable",
+      "roof_color": "647F64",
+      "wall": "D9D3BE",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        8.8
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_3",
+        "ridge_finials",
+        "purpose_treehouse"
+      ]
+    },
+    "TREEHOUSE_3": {
+      "name": "萤光树屋",
+      "family": "A12",
+      "palace_use": "森屿树阁",
+      "grade": 4,
+      "variant": 4,
+      "roof_form": "hanging_gable",
+      "roof_color": "647F64",
+      "wall": "D9D3BE",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        7.6
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_0",
+        "ridge_finials",
+        "purpose_treehouse"
+      ]
+    },
+    "TREEHOUSE_4": {
+      "name": "星语树屋",
+      "family": "A12",
+      "palace_use": "森屿树阁",
+      "grade": 4,
+      "variant": 5,
+      "roof_form": "hanging_gable",
+      "roof_color": "647F64",
+      "wall": "D9D3BE",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        8.6
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_1",
+        "ridge_finials",
+        "purpose_treehouse"
+      ]
+    },
+    "FOREST_LODGE": {
+      "name": "森屿迎宾木屋",
+      "family": "A12",
+      "palace_use": "森屿树阁",
+      "grade": 4,
+      "variant": 6,
+      "roof_form": "hanging_gable",
+      "roof_color": "647F64",
+      "wall": "D9D3BE",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        1.4
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_2",
+        "ridge_finials",
+        "purpose_forest"
+      ]
+    },
+    "FOREST_OBSERVATORY": {
+      "name": "南岚观星阁",
+      "family": "A12",
+      "palace_use": "森屿树阁",
+      "grade": 2,
+      "variant": 0,
+      "roof_form": "hip",
+      "roof_color": "647F64",
+      "wall": "D9D3BE",
+      "wood": "9D3E32",
+      "gold": "B59C65",
+      "rise": 2.4,
+      "floor_heights": [
+        4.1
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_3",
+        "ridge_beasts",
+        "purpose_forest"
+      ]
+    },
+    "AZURE_VIEW": {
+      "name": "蓝穹观景塔",
+      "family": "A2",
+      "palace_use": "临海宫苑",
+      "grade": 2,
+      "variant": 1,
+      "roof_form": "hip",
+      "roof_color": "4D7D8D",
+      "wall": "E1DDCD",
+      "wood": "9D3E32",
+      "gold": "B59C65",
+      "rise": 2.4,
+      "floor_heights": [
+        29.3,
+        33.7
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_0",
+        "ridge_beasts",
+        "purpose_azure_view"
+      ]
+    },
+    "AZURE_LIGHT": {
+      "name": "晴岬折光馆",
+      "family": "A2",
+      "palace_use": "临海宫苑",
+      "grade": 3,
+      "variant": 2,
+      "roof_form": "hanging_gable",
+      "roof_color": "4D7D8D",
+      "wall": "E1DDCD",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        17.3
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_1",
+        "ridge_finials",
+        "purpose_azure_light"
+      ]
+    },
+    "AZURE_WEAVE": {
+      "name": "帆影织染坊",
+      "family": "A2",
+      "palace_use": "临海宫苑",
+      "grade": 3,
+      "variant": 3,
+      "roof_form": "hanging_gable",
+      "roof_color": "4D7D8D",
+      "wall": "E1DDCD",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        9.3,
+        13.7
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_2",
+        "ridge_finials",
+        "purpose_azure_weave"
+      ]
+    },
+    "AZURE_WATER": {
+      "name": "阶水庭园",
+      "family": "A2",
+      "palace_use": "临海宫苑",
+      "grade": 4,
+      "variant": 4,
+      "roof_form": "hanging_gable",
+      "roof_color": "4D7D8D",
+      "wall": "E1DDCD",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        9.3
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_3",
+        "ridge_finials",
+        "purpose_azure_water"
+      ]
+    },
+    "AZURE_GLASS": {
+      "name": "海玻璃拱廊",
+      "family": "A2",
+      "palace_use": "临海宫苑",
+      "grade": 3,
+      "variant": 5,
+      "roof_form": "hanging_gable",
+      "roof_color": "4D7D8D",
+      "wall": "E1DDCD",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        3.3
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_0",
+        "ridge_finials",
+        "purpose_azure_glass"
+      ]
+    },
+    "AZURE_TIDE": {
+      "name": "潮汐观察屋",
+      "family": "A2",
+      "palace_use": "临海宫苑",
+      "grade": 3,
+      "variant": 6,
+      "roof_form": "hanging_gable",
+      "roof_color": "4D7D8D",
+      "wall": "E1DDCD",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        3.3
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_1",
+        "ridge_finials",
+        "purpose_azure_tide"
+      ]
+    },
+    "AZURE_MODEL": {
+      "name": "湾岸造景工场",
+      "family": "A2",
+      "palace_use": "临海宫苑",
+      "grade": 3,
+      "variant": 0,
+      "roof_form": "hanging_gable",
+      "roof_color": "4D7D8D",
+      "wall": "E1DDCD",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        3.3
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_2",
+        "ridge_finials",
+        "purpose_azure_model"
+      ]
+    },
+    "AZURE_SAIL": {
+      "name": "落日帆亭",
+      "family": "A2",
+      "palace_use": "临海宫苑",
+      "grade": 4,
+      "variant": 1,
+      "roof_form": "hanging_gable",
+      "roof_color": "4D7D8D",
+      "wall": "E1DDCD",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        2.9
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_3",
+        "ridge_finials",
+        "purpose_azure_sail"
+      ]
+    },
+    "CASTLE_MAIN": {
+      "name": "花霞城郭主楼",
+      "family": "A10",
+      "palace_use": "花霞宫阙",
+      "grade": 1,
+      "variant": 2,
+      "roof_form": "hip",
+      "roof_color": "557F70",
+      "wall": "DDDAC8",
+      "wood": "9D3E32",
+      "gold": "B59C65",
+      "rise": 3.2,
+      "floor_heights": [
+        7.52,
+        13.02,
+        18.52,
+        24.02,
+        29.52,
+        35.02,
+        40.52
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_0",
+        "ridge_beasts",
+        "purpose_castle_main"
+      ]
+    },
+    "CASTLE_PAPER": {
+      "name": "纸木工房",
+      "family": "A10",
+      "palace_use": "花霞宫阙",
+      "grade": 2,
+      "variant": 3,
+      "roof_form": "hip",
+      "roof_color": "557F70",
+      "wall": "DDDAC8",
+      "wood": "9D3E32",
+      "gold": "B59C65",
+      "rise": 2.4,
+      "floor_heights": [
+        7.52,
+        13.02,
+        18.52
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_1",
+        "ridge_beasts",
+        "purpose_castle_paper"
+      ]
+    },
+    "CASTLE_CLOTH": {
+      "name": "织染装配阁",
+      "family": "A10",
+      "palace_use": "花霞宫阙",
+      "grade": 2,
+      "variant": 4,
+      "roof_form": "hip",
+      "roof_color": "557F70",
+      "wall": "DDDAC8",
+      "wood": "9D3E32",
+      "gold": "B59C65",
+      "rise": 2.4,
+      "floor_heights": [
+        7.52,
+        13.02,
+        18.52
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_2",
+        "ridge_beasts",
+        "purpose_castle_cloth"
+      ]
+    },
+    "CASTLE_MATERIAL": {
+      "name": "风物材料街屋",
+      "family": "A10",
+      "palace_use": "花霞宫阙",
+      "grade": 3,
+      "variant": 5,
+      "roof_form": "hip",
+      "roof_color": "557F70",
+      "wall": "DDDAC8",
+      "wood": "9D3E32",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        4.32,
+        8.72
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_3",
+        "ridge_finials",
+        "purpose_castle_material"
+      ]
+    },
+    "CASTLE_DISPLAY": {
+      "name": "作品陈列街屋",
+      "family": "A10",
+      "palace_use": "花霞宫阙",
+      "grade": 3,
+      "variant": 6,
+      "roof_form": "hip",
+      "roof_color": "557F70",
+      "wall": "DDDAC8",
+      "wood": "9D3E32",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        4.32,
+        8.72
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_0",
+        "ridge_finials",
+        "purpose_castle_display"
+      ]
+    },
+    "CASTLE_TEA": {
+      "name": "花霞茶亭",
+      "family": "A10",
+      "palace_use": "花霞宫阙",
+      "grade": 4,
+      "variant": 0,
+      "roof_form": "hip",
+      "roof_color": "557F70",
+      "wall": "DDDAC8",
+      "wood": "9D3E32",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        5.92
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_1",
+        "ridge_finials",
+        "purpose_castle_tea"
+      ]
+    },
+    "CABLE_LOWER": {
+      "name": "花丘山脚缆车站",
+      "family": "A8",
+      "palace_use": "山居宫阁",
+      "grade": 3,
+      "variant": 1,
+      "roof_form": "hanging_gable",
+      "roof_color": "637667",
+      "wall": "D8D1BE",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        14.0
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_2",
+        "ridge_finials",
+        "purpose_cable"
+      ]
+    },
+    "CABLE_UPPER": {
+      "name": "西山顶缆车站",
+      "family": "A8",
+      "palace_use": "山居宫阁",
+      "grade": 3,
+      "variant": 2,
+      "roof_form": "hanging_gable",
+      "roof_color": "637667",
+      "wall": "D8D1BE",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        70.23
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_3",
+        "ridge_finials",
+        "purpose_cable"
+      ]
+    },
+    "SUMMIT_TEA": {
+      "name": "云间茶寮",
+      "family": "A8",
+      "palace_use": "山居宫阁",
+      "grade": 4,
+      "variant": 3,
+      "roof_form": "hanging_gable",
+      "roof_color": "637667",
+      "wall": "D8D1BE",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        71.1
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_0",
+        "ridge_finials",
+        "purpose_tea"
+      ],
+      "runtime_envelope": true,
+      "envelope_center": [
+        -20,
+        71.1,
+        -396
+      ],
+      "envelope_size": [
+        13,
+        10
+      ]
+    },
+    "LIGHTHOUSE": {
+      "name": "东岬灯塔",
+      "family": "A13",
+      "palace_use": "海岬溪谷亭阁",
+      "grade": 2,
+      "variant": 4,
+      "roof_form": "hip",
+      "roof_color": "657F72",
+      "wall": "DED6BF",
+      "wood": "9D3E32",
+      "gold": "B59C65",
+      "rise": 2.4,
+      "floor_heights": [
+        9.6,
+        17.6
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_1",
+        "ridge_beasts",
+        "purpose_lighthouse"
+      ],
+      "runtime_envelope": true,
+      "envelope_center": [
+        360,
+        9.6,
+        383
+      ],
+      "envelope_size": [
+        9,
+        9
+      ]
+    },
+    "CREEK_TEA": {
+      "name": "溪岸水车茶座",
+      "family": "A13",
+      "palace_use": "海岬溪谷亭阁",
+      "grade": 4,
+      "variant": 5,
+      "roof_form": "hanging_gable",
+      "roof_color": "657F72",
+      "wall": "DED6BF",
+      "wood": "854B3B",
+      "gold": "B59C65",
+      "rise": 1.55,
+      "floor_heights": [
+        3.3
+      ],
+      "features": [
+        "stone_plinth",
+        "layered_dougong",
+        "lattice_2",
+        "ridge_finials",
+        "purpose_tea"
+      ],
+      "runtime_envelope": true,
+      "envelope_center": [
+        -194,
+        3.3,
+        -187.5
+      ],
+      "envelope_size": [
+        4.8,
+        4.4
+      ]
+    }
+  },
+  "regions": [
+    {
+      "id": "Z01",
+      "name": "海风站",
+      "biome": "E1",
+      "x": 292,
+      "z": 226,
+      "rx": 84,
+      "rz": 75,
+      "ground_override": "B8B9A4",
+      "tree_override": [
+        5,
+        7,
+        8
+      ],
+      "rock_override": "A9B3AF",
+      "fog_override": "D2E1E4",
+      "dimensions": {
+        "ground": "rail_gravel",
+        "trees": "[5, 7, 8]",
+        "rock": "A9B3AF",
+        "roof": "A1_roof",
+        "wall": "A1_wall",
+        "base": "raised_station",
+        "props": "iron_signal",
+        "atmosphere": "D2E1E4"
+      }
+    },
+    {
+      "id": "Z02",
+      "name": "潮汐海岸",
+      "biome": "E1",
+      "x": 0,
+      "z": 291,
+      "rx": 440,
+      "rz": 66,
+      "ground_override": "D9C69F",
+      "tree_override": [
+        5,
+        8,
+        7
+      ],
+      "rock_override": "B8B4A8",
+      "fog_override": "CFE3EA",
+      "dimensions": {
+        "ground": "dune_sand",
+        "trees": "[5, 8, 7]",
+        "rock": "B8B4A8",
+        "roof": "A2_roof",
+        "wall": "A2_wall",
+        "base": "stepped_white",
+        "props": "beach_pergola",
+        "atmosphere": "CFE3EA"
+      }
+    },
+    {
+      "id": "Z03",
+      "name": "花音商店街",
+      "biome": "E3",
+      "x": -106,
+      "z": 192,
+      "rx": 93,
+      "rz": 83,
+      "ground_override": "B5B6A0",
+      "tree_override": [
+        1,
+        4,
+        7
+      ],
+      "rock_override": "BDB4A3",
+      "fog_override": "D8E0DB",
+      "dimensions": {
+        "ground": "cobble_garden",
+        "trees": "[1, 4, 7]",
+        "rock": "BDB4A3",
+        "roof": "A3_roof",
+        "wall": "A3_wall",
+        "base": "street_step",
+        "props": "iron_flowerbox",
+        "atmosphere": "D8E0DB"
+      }
+    },
+    {
+      "id": "Z04",
+      "name": "星光广场",
+      "biome": "E3",
+      "x": 0,
+      "z": 80,
+      "rx": 115,
+      "rz": 90,
+      "ground_override": "98A671",
+      "tree_override": [
+        4,
+        1,
+        7
+      ],
+      "rock_override": "C8BDA9",
+      "fog_override": "DDE5E6",
+      "dimensions": {
+        "ground": "formal_lawn",
+        "trees": "[4, 1, 7]",
+        "rock": "C8BDA9",
+        "roof": "A4_roof",
+        "wall": "A4_wall",
+        "base": "cut_stone",
+        "props": "symmetric_fountain",
+        "atmosphere": "DDE5E6"
+      }
+    },
+    {
+      "id": "Z05",
+      "name": "声音与舞台",
+      "biome": "E4",
+      "x": -259,
+      "z": -20,
+      "rx": 113,
+      "rz": 115,
+      "ground_override": "899080",
+      "tree_override": [
+        2,
+        7,
+        1
+      ],
+      "rock_override": "929A9B",
+      "fog_override": "CFD9DF",
+      "dimensions": {
+        "ground": "slate_court",
+        "trees": "[2, 7, 1]",
+        "rock": "929A9B",
+        "roof": "A5_roof",
+        "wall": "A5_wall",
+        "base": "concrete_stage",
+        "props": "steel_light",
+        "atmosphere": "CFD9DF"
+      }
+    },
+    {
+      "id": "Z06",
+      "name": "光影艺文",
+      "biome": "E5",
+      "x": 223,
+      "z": -226,
+      "rx": 114,
+      "rz": 81,
+      "ground_override": "92936B",
+      "tree_override": [
+        2,
+        4,
+        7
+      ],
+      "rock_override": "4A4C4E",
+      "fog_override": "D3DBD5",
+      "dimensions": {
+        "ground": "brick_meadow",
+        "trees": "[2, 4, 7]",
+        "rock": "4A4C4E",
+        "roof": "A6_roof",
+        "wall": "A6_wall",
+        "base": "loading_dock",
+        "props": "industrial_sculpture",
+        "atmosphere": "D3DBD5"
+      }
+    },
+    {
+      "id": "Z07",
+      "name": "花间生活",
+      "biome": "E6",
+      "x": -229,
+      "z": -222,
+      "rx": 120,
+      "rz": 84,
+      "ground_override": "8FA35F",
+      "tree_override": [
+        12,
+        1,
+        4
+      ],
+      "rock_override": "A39D90",
+      "fog_override": "E8E2D2",
+      "dimensions": {
+        "ground": "furrow_meadow",
+        "trees": "[12, 1, 4]",
+        "rock": "A39D90",
+        "roof": "A7_roof",
+        "wall": "A7_wall",
+        "base": "fieldstone",
+        "props": "wood_windmill",
+        "atmosphere": "E8E2D2"
+      }
+    },
+    {
+      "id": "Z08",
+      "name": "云间山林",
+      "biome": "E7",
+      "x": 0,
+      "z": -339,
+      "rx": 470,
+      "rz": 105,
+      "ground_override": "687D57",
+      "tree_override": [
+        3,
+        2,
+        7
+      ],
+      "rock_override": "777F77",
+      "fog_override": "C9D3CC",
+      "dimensions": {
+        "ground": "needle_moss",
+        "trees": "[3, 2, 7]",
+        "rock": "777F77",
+        "roof": "A8_roof",
+        "wall": "A8_wall",
+        "base": "retaining_log",
+        "props": "alpine_marker",
+        "atmosphere": "C9D3CC"
+      }
+    },
+    {
+      "id": "Z09",
+      "name": "崖湾叠台",
+      "biome": "E9",
+      "x": 288,
+      "z": 24,
+      "rx": 80,
+      "rz": 88,
+      "ground_override": "B9976B",
+      "tree_override": [
+        7,
+        9,
+        5
+      ],
+      "rock_override": "B07A52",
+      "fog_override": "EAD9C4",
+      "dimensions": {
+        "ground": "earth_terrace",
+        "trees": "[7, 9, 5]",
+        "rock": "B07A52",
+        "roof": "A9_roof",
+        "wall": "A9_wall",
+        "base": "embedded_rock",
+        "props": "clay_canal",
+        "atmosphere": "EAD9C4"
+      }
+    },
+    {
+      "id": "AZURE",
+      "name": "东岸蓝穹",
+      "biome": "E2",
+      "x": 190,
+      "z": 81,
+      "rx": 86,
+      "rz": 186,
+      "ground_override": "A5B298",
+      "tree_override": [
+        5,
+        7,
+        6
+      ],
+      "rock_override": "9B9F94",
+      "fog_override": "C6DCE6",
+      "dimensions": {
+        "ground": "shell_limestone",
+        "trees": "[5, 7, 6]",
+        "rock": "9B9F94",
+        "roof": "A2_dome_roof",
+        "wall": "A2_dome_wall",
+        "base": "white_arcade",
+        "props": "blue_pottery",
+        "atmosphere": "C6DCE6"
+      }
+    },
+    {
+      "id": "CASTLE",
+      "name": "花霞城郭",
+      "biome": "E10",
+      "x": -113,
+      "z": 35,
+      "rx": 60,
+      "rz": 67,
+      "ground_override": "8C9A76",
+      "tree_override": [
+        3,
+        10,
+        13
+      ],
+      "rock_override": "6E7074",
+      "fog_override": "DBDCD2",
+      "dimensions": {
+        "ground": "moss_white_gravel",
+        "trees": "[3, 10, 13]",
+        "rock": "6E7074",
+        "roof": "A10_roof",
+        "wall": "A10_wall",
+        "base": "battered_granite",
+        "props": "red_lantern",
+        "atmosphere": "DBDCD2"
+      }
+    },
+    {
+      "id": "ISLAND_01",
+      "name": "珊瑚岛",
+      "biome": "E11",
+      "x": 232.5,
+      "z": 452.5,
+      "rx": 77.5,
+      "rz": 47.5,
+      "ground_override": "EDE3C8",
+      "tree_override": [
+        8,
+        6,
+        5
+      ],
+      "rock_override": "E3B1A2",
+      "fog_override": "D1E7E5",
+      "dimensions": {
+        "ground": "coral_white_sand",
+        "trees": "[8, 6, 5]",
+        "rock": "E3B1A2",
+        "roof": "A11_roof",
+        "wall": "A11_wall",
+        "base": "timber_piles",
+        "props": "shell_lamp",
+        "atmosphere": "D1E7E5"
+      }
+    },
+    {
+      "id": "ISLAND_02",
+      "name": "萤火森屿",
+      "biome": "E12",
+      "x": -60,
+      "z": 490,
+      "rx": 60,
+      "rz": 39.2,
+      "ground_override": "4F6A45",
+      "tree_override": [
+        11,
+        6,
+        13
+      ],
+      "rock_override": "4E5A4E",
+      "fog_override": "B8C9C2",
+      "dimensions": {
+        "ground": "root_leaf_moss",
+        "trees": "[11, 6, 13]",
+        "rock": "4E5A4E",
+        "roof": "A12_roof",
+        "wall": "A12_wall",
+        "base": "living_roots",
+        "props": "firefly_lamp",
+        "atmosphere": "B8C9C2"
+      }
+    },
+    {
+      "id": "CAPE",
+      "name": "东岬灯塔",
+      "biome": "E2",
+      "x": 360,
+      "z": 370,
+      "rx": 92,
+      "rz": 58,
+      "ground_override": "7E8E6A",
+      "tree_override": [
+        5,
+        7,
+        3
+      ],
+      "rock_override": "788A8D",
+      "fog_override": "BDCEDA",
+      "dimensions": {
+        "ground": "weathered_cliff",
+        "trees": "[5, 7, 3]",
+        "rock": "788A8D",
+        "roof": "A13_roof",
+        "wall": "A13_wall",
+        "base": "beacon_rock",
+        "props": "striped_beacon",
+        "atmosphere": "BDCEDA"
+      }
+    },
+    {
+      "id": "CREEK",
+      "name": "溪谷茶亭",
+      "biome": "E7",
+      "x": -194,
+      "z": -189,
+      "rx": 23,
+      "rz": 27,
+      "ground_override": "79926B",
+      "tree_override": [
+        6,
+        2,
+        7
+      ],
+      "rock_override": "687F75",
+      "fog_override": "CBDDD1",
+      "dimensions": {
+        "ground": "fern_creek",
+        "trees": "[6, 2, 7]",
+        "rock": "687F75",
+        "roof": "A13_waterwheel_roof",
+        "wall": "A13_waterwheel_wall",
+        "base": "stream_piles",
+        "props": "waterwheel",
+        "atmosphere": "CBDDD1"
+      }
+    }
+  ],
+  "architecture_contract": {
+    "buildings": 83,
+    "occupied_floors": 130,
+    "new_blocking_colliders": 0,
+    "palette": "castle_copper_green_and_vermilion"
+  }
+}

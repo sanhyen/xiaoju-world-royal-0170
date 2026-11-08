@@ -1,0 +1,4287 @@
+{
+  "schema": 1,
+  "coordinate_space": "world_xyz",
+  "places": [
+    {
+      "id": "B01",
+      "name": "海风站",
+      "center": [
+        280,
+        3.6,
+        235
+      ],
+      "size": [
+        24,
+        14
+      ],
+      "floors": [
+        3.6
+      ],
+      "door": [
+        280.0,
+        3.6,
+        242.4
+      ],
+      "door_yaw": 0,
+      "role": "station",
+      "private": false,
+      "owner": "",
+      "layout": "station",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            287.2,
+            3.72,
+            238.92
+          ]
+        }
+      ],
+      "foundation_top": 3.3200000000000003
+    },
+    {
+      "id": "B02",
+      "name": "海边咖啡馆",
+      "center": [
+        -110,
+        4.6,
+        248
+      ],
+      "size": [
+        18,
+        16
+      ],
+      "floors": [
+        4.6,
+        8.4
+      ],
+      "door": [
+        -110.0,
+        4.6,
+        256.4
+      ],
+      "door_yaw": 0,
+      "role": "cafe",
+      "private": false,
+      "owner": "",
+      "layout": "cafe",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -104.6,
+            4.72,
+            252.48
+          ]
+        },
+        {
+          "name": "2F",
+          "point": [
+            -104.6,
+            8.52,
+            252.48
+          ]
+        }
+      ],
+      "foundation_top": 4.319999999999999
+    },
+    {
+      "id": "B03",
+      "name": "花音唱片",
+      "center": [
+        -100,
+        3.6,
+        197
+      ],
+      "size": [
+        18,
+        13
+      ],
+      "floors": [
+        3.6,
+        7.4
+      ],
+      "door": [
+        -100.0,
+        3.6,
+        203.9
+      ],
+      "door_yaw": 0,
+      "role": "records",
+      "private": false,
+      "owner": "",
+      "layout": "records",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -94.6,
+            3.72,
+            200.64
+          ]
+        },
+        {
+          "name": "2F",
+          "point": [
+            -94.6,
+            7.5200000000000005,
+            200.64
+          ]
+        }
+      ],
+      "foundation_top": 3.3200000000000003
+    },
+    {
+      "id": "B04",
+      "name": "花间花店",
+      "center": [
+        -215,
+        17.6,
+        -215
+      ],
+      "size": [
+        13,
+        10
+      ],
+      "floors": [
+        17.6
+      ],
+      "door": [
+        -215.0,
+        17.6,
+        -209.6
+      ],
+      "door_yaw": 0,
+      "role": "florist",
+      "private": false,
+      "owner": "",
+      "layout": "florist",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -211.1,
+            17.720000000000002,
+            -212.2
+          ]
+        }
+      ],
+      "foundation_top": 17.32
+    },
+    {
+      "id": "B05",
+      "name": "光影画廊",
+      "center": [
+        188,
+        20.6,
+        -225
+      ],
+      "size": [
+        22,
+        16
+      ],
+      "floors": [
+        20.6
+      ],
+      "door": [
+        188.0,
+        20.6,
+        -216.6
+      ],
+      "door_yaw": 0,
+      "role": "gallery",
+      "private": false,
+      "owner": "",
+      "layout": "gallery",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            194.6,
+            20.720000000000002,
+            -220.52
+          ]
+        }
+      ],
+      "foundation_top": 20.32
+    },
+    {
+      "id": "B06",
+      "name": "星幕影院",
+      "center": [
+        252,
+        15.6,
+        -206
+      ],
+      "size": [
+        28,
+        23
+      ],
+      "floors": [
+        15.6
+      ],
+      "door": [
+        252.0,
+        15.6,
+        -194.1
+      ],
+      "door_yaw": 0,
+      "role": "cinema",
+      "private": false,
+      "owner": "",
+      "layout": "cinema",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            260.4,
+            15.719999999999999,
+            -199.56
+          ]
+        }
+      ],
+      "foundation_top": 15.32
+    },
+    {
+      "id": "B07",
+      "name": "拾光纪念馆",
+      "center": [
+        225,
+        25.6,
+        -258
+      ],
+      "size": [
+        24,
+        18
+      ],
+      "floors": [
+        25.6,
+        28.75
+      ],
+      "door": [
+        225.0,
+        25.6,
+        -248.6
+      ],
+      "door_yaw": 0,
+      "role": "pb",
+      "private": false,
+      "owner": "",
+      "layout": "pb",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            232.2,
+            25.720000000000002,
+            -252.96
+          ]
+        },
+        {
+          "name": "2F",
+          "point": [
+            232.2,
+            28.87,
+            -252.96
+          ]
+        }
+      ],
+      "foundation_top": 25.32
+    },
+    {
+      "id": "B08",
+      "name": "律动排练馆",
+      "center": [
+        -240,
+        11.6,
+        -72
+      ],
+      "size": [
+        20,
+        15
+      ],
+      "floors": [
+        11.6,
+        14.7
+      ],
+      "door": [
+        -240.0,
+        11.6,
+        -64.1
+      ],
+      "door_yaw": 0,
+      "role": "dance",
+      "private": false,
+      "owner": "",
+      "layout": "dance",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -234.0,
+            11.719999999999999,
+            -67.8
+          ]
+        },
+        {
+          "name": "2F",
+          "point": [
+            -234.0,
+            14.819999999999999,
+            -67.8
+          ]
+        }
+      ],
+      "foundation_top": 11.32
+    },
+    {
+      "id": "B09",
+      "name": "回声工作室",
+      "center": [
+        -230,
+        10.6,
+        -8
+      ],
+      "size": [
+        17,
+        13
+      ],
+      "floors": [
+        10.6
+      ],
+      "door": [
+        -230.0,
+        10.6,
+        -1.0999999999999996
+      ],
+      "door_yaw": 0,
+      "role": "studio",
+      "private": false,
+      "owner": "",
+      "layout": "studio",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -224.9,
+            10.719999999999999,
+            -4.359999999999999
+          ]
+        }
+      ],
+      "foundation_top": 10.32
+    },
+    {
+      "id": "B10",
+      "name": "星光演艺厅",
+      "center": [
+        -287,
+        8.6,
+        8
+      ],
+      "size": [
+        34,
+        28
+      ],
+      "floors": [
+        8.6
+      ],
+      "door": [
+        -287.0,
+        8.6,
+        22.4
+      ],
+      "door_yaw": 0,
+      "role": "theater",
+      "private": false,
+      "owner": "",
+      "layout": "theater",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -276.8,
+            8.719999999999999,
+            15.84
+          ]
+        }
+      ],
+      "foundation_top": 8.32
+    },
+    {
+      "id": "B11",
+      "name": "星笺纪念品",
+      "center": [
+        -60,
+        5.6,
+        153
+      ],
+      "size": [
+        13,
+        11
+      ],
+      "floors": [
+        5.6
+      ],
+      "door": [
+        -60.0,
+        5.6,
+        158.9
+      ],
+      "door_yaw": 0,
+      "role": "souvenir",
+      "private": false,
+      "owner": "",
+      "layout": "souvenir",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -56.1,
+            5.72,
+            156.08
+          ]
+        }
+      ],
+      "foundation_top": 5.319999999999999
+    },
+    {
+      "id": "B12",
+      "name": "我的海风小屋",
+      "center": [
+        -240,
+        25.6,
+        -242
+      ],
+      "size": [
+        15,
+        11
+      ],
+      "floors": [
+        25.6
+      ],
+      "door": [
+        -240.0,
+        25.6,
+        -236.1
+      ],
+      "door_yaw": 0,
+      "role": "home",
+      "private": true,
+      "owner": "",
+      "layout": "home",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -235.5,
+            25.720000000000002,
+            -238.92
+          ]
+        }
+      ],
+      "foundation_top": 25.32
+    },
+    {
+      "id": "B13",
+      "name": "山海游客中心",
+      "center": [
+        57,
+        4.1,
+        96
+      ],
+      "size": [
+        14,
+        10
+      ],
+      "floors": [
+        4.1
+      ],
+      "door": [
+        57.0,
+        4.1,
+        101.4
+      ],
+      "door_yaw": 0,
+      "role": "visitor",
+      "private": false,
+      "owner": "",
+      "layout": "visitor",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            61.2,
+            4.22,
+            98.8
+          ]
+        }
+      ],
+      "foundation_top": 3.8199999999999994
+    },
+    {
+      "id": "B01_UPPER",
+      "name": "海风站上层",
+      "center": [
+        297.0,
+        3.6,
+        232.0
+      ],
+      "size": [
+        8.4,
+        8.4
+      ],
+      "floors": [
+        3.6,
+        7.4,
+        10.5
+      ],
+      "door": [
+        297.0,
+        3.6,
+        236.6
+      ],
+      "door_yaw": 0,
+      "role": "annex",
+      "private": false,
+      "owner": "B01",
+      "layout": "annex",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            299.52,
+            3.72,
+            234.352
+          ]
+        },
+        {
+          "name": "2F",
+          "point": [
+            299.52,
+            7.5200000000000005,
+            234.352
+          ]
+        },
+        {
+          "name": "3F",
+          "point": [
+            299.52,
+            10.62,
+            234.352
+          ]
+        }
+      ],
+      "foundation_top": 3.3200000000000003
+    },
+    {
+      "id": "B04_UPPER",
+      "name": "花间花店上层",
+      "center": [
+        -203.5,
+        17.6,
+        -216.0
+      ],
+      "size": [
+        8.4,
+        8.4
+      ],
+      "floors": [
+        17.6,
+        21.4
+      ],
+      "door": [
+        -203.5,
+        17.6,
+        -211.4
+      ],
+      "door_yaw": 0,
+      "role": "annex",
+      "private": false,
+      "owner": "B04",
+      "layout": "annex",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -200.98,
+            17.720000000000002,
+            -213.648
+          ]
+        },
+        {
+          "name": "2F",
+          "point": [
+            -200.98,
+            21.52,
+            -213.648
+          ]
+        }
+      ],
+      "foundation_top": 17.32
+    },
+    {
+      "id": "B05_UPPER",
+      "name": "光影画廊上层",
+      "center": [
+        204.0,
+        20.6,
+        -229.0
+      ],
+      "size": [
+        8.4,
+        8.4
+      ],
+      "floors": [
+        20.6,
+        24.4
+      ],
+      "door": [
+        204.0,
+        20.6,
+        -224.4
+      ],
+      "door_yaw": 0,
+      "role": "annex",
+      "private": false,
+      "owner": "B05",
+      "layout": "annex",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            206.52,
+            20.720000000000002,
+            -226.648
+          ]
+        },
+        {
+          "name": "2F",
+          "point": [
+            206.52,
+            24.52,
+            -226.648
+          ]
+        }
+      ],
+      "foundation_top": 20.32
+    },
+    {
+      "id": "B06_UPPER",
+      "name": "星幕影院上层",
+      "center": [
+        271.0,
+        15.6,
+        -213.5
+      ],
+      "size": [
+        8.4,
+        8.4
+      ],
+      "floors": [
+        15.6,
+        19.4
+      ],
+      "door": [
+        271.0,
+        15.6,
+        -208.9
+      ],
+      "door_yaw": 0,
+      "role": "annex",
+      "private": false,
+      "owner": "B06",
+      "layout": "annex",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            273.52,
+            15.719999999999999,
+            -211.148
+          ]
+        },
+        {
+          "name": "2F",
+          "point": [
+            273.52,
+            19.52,
+            -211.148
+          ]
+        }
+      ],
+      "foundation_top": 15.32
+    },
+    {
+      "id": "B07_UPPER",
+      "name": "拾光纪念馆上层",
+      "center": [
+        242.0,
+        25.6,
+        -263.0
+      ],
+      "size": [
+        8.4,
+        8.4
+      ],
+      "floors": [
+        25.6,
+        29.4
+      ],
+      "door": [
+        242.0,
+        25.6,
+        -258.4
+      ],
+      "door_yaw": 0,
+      "role": "annex",
+      "private": false,
+      "owner": "B07",
+      "layout": "annex",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            244.52,
+            25.720000000000002,
+            -260.648
+          ]
+        },
+        {
+          "name": "2F",
+          "point": [
+            244.52,
+            29.52,
+            -260.648
+          ]
+        }
+      ],
+      "foundation_top": 25.32
+    },
+    {
+      "id": "B08_UPPER",
+      "name": "律动排练馆上层",
+      "center": [
+        -225.0,
+        11.6,
+        -75.5
+      ],
+      "size": [
+        8.4,
+        8.4
+      ],
+      "floors": [
+        11.6,
+        15.4
+      ],
+      "door": [
+        -225.0,
+        11.6,
+        -70.9
+      ],
+      "door_yaw": 0,
+      "role": "annex",
+      "private": false,
+      "owner": "B08",
+      "layout": "annex",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -222.48,
+            11.719999999999999,
+            -73.148
+          ]
+        },
+        {
+          "name": "2F",
+          "point": [
+            -222.48,
+            15.52,
+            -73.148
+          ]
+        }
+      ],
+      "foundation_top": 11.32
+    },
+    {
+      "id": "B09_UPPER",
+      "name": "回声工作室上层",
+      "center": [
+        -216.5,
+        10.6,
+        -10.5
+      ],
+      "size": [
+        8.4,
+        8.4
+      ],
+      "floors": [
+        10.6,
+        14.4
+      ],
+      "door": [
+        -216.5,
+        10.6,
+        -5.8999999999999995
+      ],
+      "door_yaw": 0,
+      "role": "annex",
+      "private": false,
+      "owner": "B09",
+      "layout": "annex",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -213.98,
+            10.719999999999999,
+            -8.148
+          ]
+        },
+        {
+          "name": "2F",
+          "point": [
+            -213.98,
+            14.52,
+            -8.148
+          ]
+        }
+      ],
+      "foundation_top": 10.32
+    },
+    {
+      "id": "B10_UPPER",
+      "name": "星光演艺厅上层",
+      "center": [
+        -265.0,
+        8.6,
+        -2.0
+      ],
+      "size": [
+        8.4,
+        8.4
+      ],
+      "floors": [
+        8.6,
+        12.4
+      ],
+      "door": [
+        -265.0,
+        8.6,
+        2.6000000000000005
+      ],
+      "door_yaw": 0,
+      "role": "annex",
+      "private": false,
+      "owner": "B10",
+      "layout": "annex",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -262.48,
+            8.719999999999999,
+            0.3520000000000003
+          ]
+        },
+        {
+          "name": "2F",
+          "point": [
+            -262.48,
+            12.52,
+            0.3520000000000003
+          ]
+        }
+      ],
+      "foundation_top": 8.32
+    },
+    {
+      "id": "B12_UPPER",
+      "name": "我的海风小屋上层",
+      "center": [
+        -227.5,
+        25.6,
+        -243.5
+      ],
+      "size": [
+        8.4,
+        8.4
+      ],
+      "floors": [
+        25.6,
+        29.4
+      ],
+      "door": [
+        -227.5,
+        25.6,
+        -238.9
+      ],
+      "door_yaw": 0,
+      "role": "annex",
+      "private": true,
+      "owner": "B12",
+      "layout": "annex",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -224.98,
+            25.720000000000002,
+            -241.148
+          ]
+        },
+        {
+          "name": "2F",
+          "point": [
+            -224.98,
+            29.52,
+            -241.148
+          ]
+        }
+      ],
+      "foundation_top": 25.32
+    },
+    {
+      "id": "B13_UPPER",
+      "name": "山海游客中心上层",
+      "center": [
+        69.0,
+        4.1,
+        95.0
+      ],
+      "size": [
+        8.4,
+        8.4
+      ],
+      "floors": [
+        4.1,
+        7.9
+      ],
+      "door": [
+        69.0,
+        4.1,
+        99.6
+      ],
+      "door_yaw": 0,
+      "role": "annex",
+      "private": false,
+      "owner": "B13",
+      "layout": "annex",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            71.52,
+            4.22,
+            97.352
+          ]
+        },
+        {
+          "name": "2F",
+          "point": [
+            71.52,
+            8.02,
+            97.352
+          ]
+        }
+      ],
+      "foundation_top": 3.8199999999999994
+    },
+    {
+      "id": "H01",
+      "name": "田园烘焙与麦香晒台屋",
+      "center": [
+        -238,
+        4.4,
+        224
+      ],
+      "size": [
+        14,
+        12
+      ],
+      "floors": [
+        4.4,
+        7.8
+      ],
+      "door": [
+        -238.0,
+        4.4,
+        230.4
+      ],
+      "door_yaw": 0,
+      "role": "home",
+      "private": true,
+      "owner": "",
+      "layout": "drink",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -233.8,
+            4.5200000000000005,
+            227.36
+          ]
+        },
+        {
+          "name": "2F",
+          "point": [
+            -233.8,
+            7.92,
+            227.36
+          ]
+        }
+      ],
+      "foundation_top": 4.12
+    },
+    {
+      "id": "H02",
+      "name": "农夫种子与农具总站",
+      "center": [
+        -276,
+        4.800000000000001,
+        223
+      ],
+      "size": [
+        16,
+        14
+      ],
+      "floors": [
+        4.8
+      ],
+      "door": [
+        -276.0,
+        4.800000000000001,
+        230.4
+      ],
+      "door_yaw": 0,
+      "role": "home",
+      "private": true,
+      "owner": "",
+      "layout": "farm",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -271.2,
+            4.92,
+            226.92
+          ]
+        }
+      ],
+      "foundation_top": 4.5200000000000005
+    },
+    {
+      "id": "H03",
+      "name": "牧场写生与画框装裱屋",
+      "center": [
+        -312,
+        4.300000000000001,
+        220
+      ],
+      "size": [
+        14,
+        12
+      ],
+      "floors": [
+        4.3,
+        7.7
+      ],
+      "door": [
+        -312.0,
+        4.300000000000001,
+        226.4
+      ],
+      "door_yaw": 0,
+      "role": "home",
+      "private": true,
+      "owner": "",
+      "layout": "photo",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -307.8,
+            4.42,
+            223.36
+          ]
+        },
+        {
+          "name": "2F",
+          "point": [
+            -307.8,
+            7.82,
+            223.36
+          ]
+        }
+      ],
+      "foundation_top": 4.0200000000000005
+    },
+    {
+      "id": "H04",
+      "name": "西岬果酱与花果茶坊",
+      "center": [
+        -345,
+        3.6,
+        239
+      ],
+      "size": [
+        16,
+        14
+      ],
+      "floors": [
+        3.6
+      ],
+      "door": [
+        -345.0,
+        3.6,
+        246.4
+      ],
+      "door_yaw": 0,
+      "role": "home",
+      "private": true,
+      "owner": "",
+      "layout": "tea",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -340.2,
+            3.72,
+            242.92
+          ]
+        }
+      ],
+      "foundation_top": 3.3200000000000003
+    },
+    {
+      "id": "H05",
+      "name": "航海罗盘与望远镜观海墅",
+      "center": [
+        145,
+        7.1,
+        212
+      ],
+      "size": [
+        14,
+        12
+      ],
+      "floors": [
+        7.1,
+        10.5
+      ],
+      "door": [
+        145.0,
+        7.1,
+        218.4
+      ],
+      "door_yaw": 0,
+      "role": "home",
+      "private": true,
+      "owner": "",
+      "layout": "drink",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            149.2,
+            7.22,
+            215.36
+          ]
+        },
+        {
+          "name": "2F",
+          "point": [
+            149.2,
+            10.62,
+            215.36
+          ]
+        }
+      ],
+      "foundation_top": 6.819999999999999
+    },
+    {
+      "id": "H06",
+      "name": "海风藤编与贝壳风铃馆",
+      "center": [
+        190,
+        6.6,
+        238
+      ],
+      "size": [
+        16,
+        12
+      ],
+      "floors": [
+        6.6
+      ],
+      "door": [
+        190.0,
+        6.6,
+        244.4
+      ],
+      "door_yaw": 0,
+      "role": "home",
+      "private": true,
+      "owner": "",
+      "layout": "tea",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            194.8,
+            6.72,
+            241.36
+          ]
+        }
+      ],
+      "foundation_top": 6.319999999999999
+    },
+    {
+      "id": "H07",
+      "name": "松果壁炉与木雕小憩屋",
+      "center": [
+        -183,
+        8.1,
+        35
+      ],
+      "size": [
+        14,
+        14
+      ],
+      "floors": [
+        8.1
+      ],
+      "door": [
+        -183.0,
+        8.1,
+        42.4
+      ],
+      "door_yaw": 0,
+      "role": "home",
+      "private": true,
+      "owner": "",
+      "layout": "drink",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -178.8,
+            8.219999999999999,
+            38.92
+          ]
+        }
+      ],
+      "foundation_top": 7.819999999999999
+    },
+    {
+      "id": "H08",
+      "name": "溪谷植物图鉴与标本阁楼",
+      "center": [
+        95,
+        5.6,
+        26
+      ],
+      "size": [
+        14,
+        12
+      ],
+      "floors": [
+        5.6,
+        9.0
+      ],
+      "door": [
+        95.0,
+        5.6,
+        32.4
+      ],
+      "door_yaw": 0,
+      "role": "home",
+      "private": true,
+      "owner": "",
+      "layout": "read",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            99.2,
+            5.72,
+            29.36
+          ]
+        },
+        {
+          "name": "2F",
+          "point": [
+            99.2,
+            9.12,
+            29.36
+          ]
+        }
+      ],
+      "foundation_top": 5.319999999999999
+    },
+    {
+      "id": "H09",
+      "name": "星光花艺茶席与礼服手稿室",
+      "center": [
+        -44,
+        4.1,
+        90
+      ],
+      "size": [
+        10,
+        14
+      ],
+      "floors": [
+        4.1
+      ],
+      "door": [
+        -44.0,
+        4.1,
+        97.4
+      ],
+      "door_yaw": 0,
+      "role": "home",
+      "private": true,
+      "owner": "",
+      "layout": "tea",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -41.0,
+            4.22,
+            93.92
+          ]
+        }
+      ],
+      "foundation_top": 3.8199999999999994
+    },
+    {
+      "id": "H10",
+      "name": "山海印章与旅行手账馆",
+      "center": [
+        43,
+        4.1,
+        84
+      ],
+      "size": [
+        10,
+        14
+      ],
+      "floors": [
+        4.1
+      ],
+      "door": [
+        43.0,
+        4.1,
+        91.4
+      ],
+      "door_yaw": 0,
+      "role": "home",
+      "private": true,
+      "owner": "",
+      "layout": "drink",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            46.0,
+            4.22,
+            87.92
+          ]
+        }
+      ],
+      "foundation_top": 3.8199999999999994
+    },
+    {
+      "id": "H11",
+      "name": "八音盒与木偶小剧场屋",
+      "center": [
+        -63,
+        4.0,
+        212
+      ],
+      "size": [
+        10,
+        10
+      ],
+      "floors": [
+        4.0
+      ],
+      "door": [
+        -63.0,
+        4.0,
+        217.4
+      ],
+      "door_yaw": 0,
+      "role": "home",
+      "private": true,
+      "owner": "",
+      "layout": "tea",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -60.0,
+            4.12,
+            214.8
+          ]
+        }
+      ],
+      "foundation_top": 3.7199999999999998
+    },
+    {
+      "id": "H12",
+      "name": "复古暗房与明信片屋",
+      "center": [
+        -139,
+        4.4,
+        208
+      ],
+      "size": [
+        14,
+        12
+      ],
+      "floors": [
+        4.4
+      ],
+      "door": [
+        -139.0,
+        4.4,
+        214.4
+      ],
+      "door_yaw": 0,
+      "role": "home",
+      "private": true,
+      "owner": "",
+      "layout": "drink",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -134.8,
+            4.5200000000000005,
+            211.36
+          ]
+        }
+      ],
+      "foundation_top": 4.12
+    },
+    {
+      "id": "H13",
+      "name": "干花书签与香薰工坊",
+      "center": [
+        -140,
+        4.300000000000001,
+        185
+      ],
+      "size": [
+        12,
+        12
+      ],
+      "floors": [
+        4.3
+      ],
+      "door": [
+        -140.0,
+        4.300000000000001,
+        191.4
+      ],
+      "door_yaw": 0,
+      "role": "home",
+      "private": true,
+      "owner": "",
+      "layout": "photo",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -136.4,
+            4.42,
+            188.36
+          ]
+        }
+      ],
+      "foundation_top": 4.0200000000000005
+    },
+    {
+      "id": "H14",
+      "name": "咖啡豆仓与猫爬架屋",
+      "center": [
+        -95,
+        4.6,
+        247
+      ],
+      "size": [
+        10,
+        12
+      ],
+      "floors": [
+        4.6
+      ],
+      "door": [
+        -95.0,
+        4.6,
+        253.4
+      ],
+      "door_yaw": 0,
+      "role": "home",
+      "private": true,
+      "owner": "",
+      "layout": "read",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -92.0,
+            4.72,
+            250.36
+          ]
+        }
+      ],
+      "foundation_top": 4.319999999999999
+    },
+    {
+      "id": "BAKERY",
+      "name": "暖阳牛角包烘焙工坊",
+      "center": [
+        -110,
+        4.6,
+        229
+      ],
+      "size": [
+        12,
+        20
+      ],
+      "floors": [
+        4.6
+      ],
+      "door": [
+        -110.0,
+        4.6,
+        239.4
+      ],
+      "door_yaw": 0,
+      "role": "wing",
+      "private": false,
+      "owner": "B02",
+      "layout": "wing",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -106.4,
+            4.72,
+            234.6
+          ]
+        }
+      ],
+      "foundation_top": 4.319999999999999
+    },
+    {
+      "id": "LISTENING_WEST",
+      "name": "黑胶封套画报廊",
+      "center": [
+        -116.5,
+        3.8000000000000003,
+        209.2
+      ],
+      "size": [
+        9,
+        10
+      ],
+      "floors": [
+        3.8
+      ],
+      "door": [
+        -116.5,
+        3.8000000000000003,
+        214.6
+      ],
+      "door_yaw": 0,
+      "role": "wing",
+      "private": false,
+      "owner": "B03",
+      "layout": "wing",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -113.8,
+            3.92,
+            212.0
+          ]
+        }
+      ],
+      "foundation_top": 3.5200000000000005
+    },
+    {
+      "id": "LISTENING_EAST",
+      "name": "留声机铜号角维修坊",
+      "center": [
+        -80,
+        4.1,
+        184
+      ],
+      "size": [
+        16,
+        14
+      ],
+      "floors": [
+        4.1
+      ],
+      "door": [
+        -80.0,
+        4.1,
+        191.4
+      ],
+      "door_yaw": 0,
+      "role": "wing",
+      "private": false,
+      "owner": "B03",
+      "layout": "wing",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -75.2,
+            4.22,
+            187.92
+          ]
+        }
+      ],
+      "foundation_top": 3.8199999999999994
+    },
+    {
+      "id": "CRAFT",
+      "name": "海玻璃马赛克拼贴坊",
+      "center": [
+        -75,
+        5.6,
+        166
+      ],
+      "size": [
+        10,
+        14
+      ],
+      "floors": [
+        5.6
+      ],
+      "door": [
+        -75.0,
+        5.6,
+        173.4
+      ],
+      "door_yaw": 0,
+      "role": "wing",
+      "private": false,
+      "owner": "B11",
+      "layout": "wing",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -72.0,
+            5.72,
+            169.92
+          ]
+        }
+      ],
+      "foundation_top": 5.319999999999999
+    },
+    {
+      "id": "Z09_B1",
+      "name": "水轮木石工坊",
+      "center": [
+        332,
+        6,
+        23
+      ],
+      "size": [
+        14,
+        13
+      ],
+      "floors": [
+        6.0,
+        10.5
+      ],
+      "door": [
+        332.0,
+        6,
+        29.9
+      ],
+      "door_yaw": 0,
+      "role": "cliff",
+      "private": false,
+      "owner": "Z09",
+      "layout": "wheel",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            336.2,
+            6.12,
+            26.64
+          ]
+        },
+        {
+          "name": "2F",
+          "point": [
+            336.2,
+            10.62,
+            26.64
+          ]
+        }
+      ],
+      "foundation_top": 5.72
+    },
+    {
+      "id": "Z09_B2",
+      "name": "叠台矿彩陶艺工坊",
+      "center": [
+        326,
+        5.5,
+        59
+      ],
+      "size": [
+        14,
+        12
+      ],
+      "floors": [
+        5.5,
+        10.5
+      ],
+      "door": [
+        326.0,
+        5.5,
+        65.4
+      ],
+      "door_yaw": 0,
+      "role": "cliff",
+      "private": false,
+      "owner": "Z09",
+      "layout": "pottery",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            330.2,
+            5.62,
+            62.36
+          ]
+        },
+        {
+          "name": "2F",
+          "point": [
+            330.2,
+            10.62,
+            62.36
+          ]
+        }
+      ],
+      "foundation_top": 5.22
+    },
+    {
+      "id": "Z09_B3",
+      "name": "半山嵌岩茶室",
+      "center": [
+        282,
+        14.5,
+        -10
+      ],
+      "size": [
+        17,
+        12
+      ],
+      "floors": [
+        14.5
+      ],
+      "door": [
+        282.0,
+        14.5,
+        -3.5999999999999996
+      ],
+      "door_yaw": 0,
+      "role": "cliff",
+      "private": false,
+      "owner": "Z09",
+      "layout": "tea",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            287.1,
+            14.62,
+            -6.64
+          ]
+        }
+      ],
+      "foundation_top": 14.22
+    },
+    {
+      "id": "Z09_B4",
+      "name": "跨街骑楼织染屋",
+      "center": [
+        276,
+        13.5,
+        20
+      ],
+      "size": [
+        16,
+        12
+      ],
+      "floors": [
+        13.5,
+        18.0
+      ],
+      "door": [
+        276.0,
+        13.5,
+        26.4
+      ],
+      "door_yaw": 0,
+      "role": "cliff",
+      "private": false,
+      "owner": "Z09",
+      "layout": "loom",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            280.8,
+            13.62,
+            23.36
+          ]
+        },
+        {
+          "name": "2F",
+          "point": [
+            280.8,
+            18.12,
+            23.36
+          ]
+        }
+      ],
+      "foundation_top": 13.22
+    },
+    {
+      "id": "Z09_B5",
+      "name": "崖顶引水钟塔",
+      "center": [
+        255,
+        21,
+        -15
+      ],
+      "size": [
+        9,
+        9
+      ],
+      "floors": [
+        21,
+        25.5
+      ],
+      "door": [
+        255.0,
+        21,
+        -10.1
+      ],
+      "door_yaw": 0,
+      "role": "cliff",
+      "private": false,
+      "owner": "Z09",
+      "layout": "sluice",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            257.7,
+            21.12,
+            -12.48
+          ]
+        },
+        {
+          "name": "2F",
+          "point": [
+            257.7,
+            25.62,
+            -12.48
+          ]
+        }
+      ],
+      "foundation_top": 20.72
+    },
+    {
+      "id": "Z09_B6",
+      "name": "悬崖日落观景阁",
+      "center": [
+        250,
+        19.5,
+        22
+      ],
+      "size": [
+        15,
+        10
+      ],
+      "floors": [
+        19.5
+      ],
+      "door": [
+        250.0,
+        19.5,
+        27.4
+      ],
+      "door_yaw": 0,
+      "role": "cliff",
+      "private": false,
+      "owner": "Z09",
+      "layout": "lookout",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            254.5,
+            19.62,
+            24.8
+          ]
+        }
+      ],
+      "foundation_top": 19.22
+    },
+    {
+      "id": "THEME_EVERYDAY",
+      "name": "海风唱片间",
+      "center": [
+        -100,
+        3.6,
+        171
+      ],
+      "size": [
+        14,
+        12
+      ],
+      "floors": [
+        3.6
+      ],
+      "door": [
+        -100.0,
+        3.6,
+        177.4
+      ],
+      "door_yaw": 0,
+      "role": "theme",
+      "private": false,
+      "owner": "B03",
+      "layout": "每一天",
+      "legacy": false,
+      "legacy_center": [
+        -100,
+        6,
+        171
+      ],
+      "legacy_size": [
+        12,
+        10
+      ],
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -95.8,
+            3.72,
+            174.36
+          ]
+        }
+      ],
+      "foundation_top": 3.3200000000000003
+    },
+    {
+      "id": "THEME_WAITING",
+      "name": "街角留声间",
+      "center": [
+        -166,
+        4.4,
+        253
+      ],
+      "size": [
+        18,
+        14
+      ],
+      "floors": [
+        4.4,
+        8.1
+      ],
+      "door": [
+        -166,
+        4.4,
+        245.6
+      ],
+      "door_yaw": 3.141592653589793,
+      "role": "theme",
+      "private": false,
+      "owner": "B02",
+      "layout": "等不到你",
+      "legacy": false,
+      "legacy_center": [
+        -110,
+        7,
+        272
+      ],
+      "legacy_size": [
+        12,
+        10
+      ],
+      "entry_path": [
+        [
+          -166,
+          4.5118,
+          239.4412
+        ],
+        [
+          -166,
+          4.45,
+          243.5
+        ],
+        [
+          -166,
+          4.4,
+          245.6
+        ]
+      ],
+      "road_anchor": [
+        -166,
+        4.5118,
+        239.4412
+      ],
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -160.6,
+            4.5200000000000005,
+            256.92
+          ]
+        },
+        {
+          "name": "2F",
+          "point": [
+            -160.6,
+            8.219999999999999,
+            256.92
+          ]
+        }
+      ],
+      "foundation_top": 4.12
+    },
+    {
+      "id": "THEME_POEM",
+      "name": "星夜手札间",
+      "center": [
+        244,
+        37.6,
+        -282
+      ],
+      "size": [
+        18,
+        14
+      ],
+      "floors": [
+        37.6,
+        41.0,
+        44.5
+      ],
+      "door": [
+        253.4,
+        37.6,
+        -282
+      ],
+      "door_yaw": 1.5707963267948966,
+      "role": "theme",
+      "private": false,
+      "owner": "B07",
+      "layout": "孤独与诗",
+      "legacy": false,
+      "legacy_center": [
+        217,
+        28,
+        -285
+      ],
+      "legacy_size": [
+        14,
+        10
+      ],
+      "entry_path": [
+        [
+          285,
+          36.54,
+          -295
+        ],
+        [
+          268,
+          37.1,
+          -295
+        ],
+        [
+          257,
+          37.6,
+          -282
+        ],
+        [
+          253.4,
+          37.6,
+          -282
+        ]
+      ],
+      "road_anchor": [
+        285,
+        36.54,
+        -295
+      ],
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            249.4,
+            37.72,
+            -278.08
+          ]
+        },
+        {
+          "name": "2F",
+          "point": [
+            249.4,
+            41.12,
+            -278.08
+          ]
+        },
+        {
+          "name": "3F",
+          "point": [
+            249.4,
+            44.62,
+            -278.08
+          ]
+        }
+      ],
+      "foundation_top": 37.32
+    },
+    {
+      "id": "THEME_FROST",
+      "name": "霜月小舞台",
+      "center": [
+        -316,
+        8.6,
+        6
+      ],
+      "size": [
+        16,
+        18
+      ],
+      "floors": [
+        8.6,
+        12.7
+      ],
+      "door": [
+        -316.0,
+        8.6,
+        15.4
+      ],
+      "door_yaw": 0,
+      "role": "theme",
+      "private": false,
+      "owner": "B10",
+      "layout": "醉飞霜",
+      "legacy": false,
+      "legacy_center": [
+        -316,
+        11,
+        6
+      ],
+      "legacy_size": [
+        14,
+        14
+      ],
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -311.2,
+            8.719999999999999,
+            11.040000000000001
+          ]
+        },
+        {
+          "name": "2F",
+          "point": [
+            -311.2,
+            12.819999999999999,
+            11.040000000000001
+          ]
+        }
+      ],
+      "foundation_top": 8.32
+    },
+    {
+      "id": "THEME_BLOSSOM",
+      "name": "花影寻物间",
+      "center": [
+        253,
+        25.6,
+        -231
+      ],
+      "size": [
+        18,
+        14
+      ],
+      "floors": [
+        25.6
+      ],
+      "door": [
+        253,
+        25.6,
+        -238.4
+      ],
+      "door_yaw": 3.141592653589793,
+      "role": "theme",
+      "private": false,
+      "owner": "B06",
+      "layout": "花间令",
+      "legacy": false,
+      "legacy_center": [
+        287,
+        18,
+        -231
+      ],
+      "legacy_size": [
+        14,
+        12
+      ],
+      "entry_path": [
+        [
+          253,
+          26.1463,
+          -245
+        ],
+        [
+          253,
+          25.75,
+          -240
+        ],
+        [
+          253,
+          25.6,
+          -238.4
+        ]
+      ],
+      "road_anchor": [
+        253,
+        26.1463,
+        -245
+      ],
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            258.4,
+            25.720000000000002,
+            -227.08
+          ]
+        }
+      ],
+      "foundation_top": 25.32
+    },
+    {
+      "id": "THEME_DAILY",
+      "name": "日常摄影间",
+      "center": [
+        108,
+        4.1,
+        102
+      ],
+      "size": [
+        18,
+        14
+      ],
+      "floors": [
+        4.1,
+        7.8
+      ],
+      "door": [
+        108,
+        4.1,
+        109.4
+      ],
+      "door_yaw": 0,
+      "role": "theme",
+      "private": false,
+      "owner": "B13",
+      "layout": "日常与幕后",
+      "legacy": false,
+      "legacy_center": [
+        86,
+        6.5,
+        92
+      ],
+      "legacy_size": [
+        12,
+        10
+      ],
+      "entry_path": [
+        [
+          108,
+          4.1,
+          115.3636
+        ],
+        [
+          108,
+          4.1,
+          112
+        ],
+        [
+          108,
+          4.1,
+          109.4
+        ]
+      ],
+      "road_anchor": [
+        108,
+        4.1,
+        115.3636
+      ],
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            113.4,
+            4.22,
+            105.92
+          ]
+        },
+        {
+          "name": "2F",
+          "point": [
+            113.4,
+            7.92,
+            105.92
+          ]
+        }
+      ],
+      "foundation_top": 3.8199999999999994
+    },
+    {
+      "id": "VILLA_0",
+      "name": "珊瑚水屋1",
+      "center": [
+        276,
+        -0.8,
+        426
+      ],
+      "size": [
+        12,
+        10
+      ],
+      "floors": [
+        -0.8000000000000003
+      ],
+      "door": [
+        276.0,
+        -0.8,
+        431.4
+      ],
+      "door_yaw": 0,
+      "role": "villa",
+      "private": true,
+      "owner": "",
+      "layout": "villa_0",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            279.6,
+            -0.6800000000000003,
+            428.8
+          ]
+        }
+      ],
+      "foundation_top": -1.08
+    },
+    {
+      "id": "VILLA_1",
+      "name": "珊瑚水屋2",
+      "center": [
+        280,
+        -0.8,
+        441
+      ],
+      "size": [
+        12,
+        10
+      ],
+      "floors": [
+        -0.8000000000000003
+      ],
+      "door": [
+        280.0,
+        -0.8,
+        446.4
+      ],
+      "door_yaw": 0,
+      "role": "villa",
+      "private": true,
+      "owner": "",
+      "layout": "villa_1",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            283.6,
+            -0.6800000000000003,
+            443.8
+          ]
+        }
+      ],
+      "foundation_top": -1.08
+    },
+    {
+      "id": "VILLA_2",
+      "name": "珊瑚水屋3",
+      "center": [
+        280,
+        -0.8,
+        456
+      ],
+      "size": [
+        12,
+        10
+      ],
+      "floors": [
+        -0.8000000000000003
+      ],
+      "door": [
+        280.0,
+        -0.8,
+        461.4
+      ],
+      "door_yaw": 0,
+      "role": "villa",
+      "private": true,
+      "owner": "",
+      "layout": "villa_2",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            283.6,
+            -0.6800000000000003,
+            458.8
+          ]
+        }
+      ],
+      "foundation_top": -1.08
+    },
+    {
+      "id": "VILLA_3",
+      "name": "珊瑚水屋4",
+      "center": [
+        276,
+        -0.8,
+        471
+      ],
+      "size": [
+        12,
+        10
+      ],
+      "floors": [
+        -0.8000000000000003
+      ],
+      "door": [
+        276.0,
+        -0.8,
+        476.4
+      ],
+      "door_yaw": 0,
+      "role": "villa",
+      "private": true,
+      "owner": "",
+      "layout": "villa_3",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            279.6,
+            -0.6800000000000003,
+            473.8
+          ]
+        }
+      ],
+      "foundation_top": -1.08
+    },
+    {
+      "id": "ISLAND_LOBBY",
+      "name": "海上迎宾大堂",
+      "center": [
+        263.5,
+        -0.7,
+        421
+      ],
+      "size": [
+        15,
+        12
+      ],
+      "floors": [
+        -0.7,
+        2.2
+      ],
+      "door": [
+        263.5,
+        -0.7,
+        427.4
+      ],
+      "door_yaw": 0,
+      "role": "lobby",
+      "private": false,
+      "owner": "",
+      "layout": "lobby",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            268.0,
+            -0.58,
+            424.36
+          ]
+        },
+        {
+          "name": "2F",
+          "point": [
+            268.0,
+            2.3200000000000003,
+            424.36
+          ]
+        }
+      ],
+      "foundation_top": -0.98
+    },
+    {
+      "id": "TREEHOUSE_1",
+      "name": "蕨影树屋",
+      "center": [
+        -44,
+        6.799999999999999,
+        480
+      ],
+      "size": [
+        6.8,
+        6.6
+      ],
+      "floors": [
+        6.8
+      ],
+      "door": [
+        -44.0,
+        6.799999999999999,
+        483.7
+      ],
+      "door_yaw": 0,
+      "role": "treehouse",
+      "private": true,
+      "owner": "",
+      "layout": "TREEHOUSE_1",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -41.96,
+            6.92,
+            481.848
+          ]
+        }
+      ],
+      "foundation_top": 6.519999999999999
+    },
+    {
+      "id": "TREEHOUSE_2",
+      "name": "海风树屋",
+      "center": [
+        -21,
+        8.799999999999999,
+        481
+      ],
+      "size": [
+        6.8,
+        6.6
+      ],
+      "floors": [
+        8.8
+      ],
+      "door": [
+        -21.0,
+        8.799999999999999,
+        484.7
+      ],
+      "door_yaw": 0,
+      "role": "treehouse",
+      "private": true,
+      "owner": "",
+      "layout": "TREEHOUSE_2",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -18.96,
+            8.92,
+            482.848
+          ]
+        }
+      ],
+      "foundation_top": 8.52
+    },
+    {
+      "id": "TREEHOUSE_3",
+      "name": "萤光树屋",
+      "center": [
+        -39,
+        7.6,
+        501
+      ],
+      "size": [
+        6.8,
+        6.6
+      ],
+      "floors": [
+        7.6
+      ],
+      "door": [
+        -39.0,
+        7.6,
+        504.7
+      ],
+      "door_yaw": 0,
+      "role": "treehouse",
+      "private": true,
+      "owner": "",
+      "layout": "TREEHOUSE_3",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -36.96,
+            7.72,
+            502.848
+          ]
+        }
+      ],
+      "foundation_top": 7.319999999999999
+    },
+    {
+      "id": "TREEHOUSE_4",
+      "name": "星语树屋",
+      "center": [
+        -17,
+        8.6,
+        501
+      ],
+      "size": [
+        6.8,
+        6.6
+      ],
+      "floors": [
+        8.6
+      ],
+      "door": [
+        -17.0,
+        8.6,
+        504.7
+      ],
+      "door_yaw": 0,
+      "role": "treehouse",
+      "private": true,
+      "owner": "",
+      "layout": "TREEHOUSE_4",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -14.96,
+            8.719999999999999,
+            502.848
+          ]
+        }
+      ],
+      "foundation_top": 8.32
+    },
+    {
+      "id": "FOREST_LODGE",
+      "name": "森屿迎宾木屋",
+      "center": [
+        -75,
+        1.4,
+        471
+      ],
+      "size": [
+        9,
+        7
+      ],
+      "floors": [
+        1.4
+      ],
+      "door": [
+        -75.0,
+        1.4,
+        474.9
+      ],
+      "door_yaw": 0,
+      "role": "forest",
+      "private": false,
+      "owner": "",
+      "layout": "FOREST_LODGE",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -72.3,
+            1.52,
+            472.96
+          ]
+        }
+      ],
+      "foundation_top": 1.1199999999999999
+    },
+    {
+      "id": "FOREST_OBSERVATORY",
+      "name": "南岚观星阁",
+      "center": [
+        -59,
+        4.1,
+        516
+      ],
+      "size": [
+        8,
+        6
+      ],
+      "floors": [
+        4.1
+      ],
+      "door": [
+        -59.0,
+        4.1,
+        519.4
+      ],
+      "door_yaw": 0,
+      "role": "forest",
+      "private": false,
+      "owner": "",
+      "layout": "FOREST_OBSERVATORY",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -56.6,
+            4.22,
+            517.68
+          ]
+        }
+      ],
+      "foundation_top": 3.8199999999999994
+    },
+    {
+      "id": "AZURE_VIEW",
+      "name": "蓝穹观景塔",
+      "center": [
+        193,
+        29.2,
+        -35
+      ],
+      "size": [
+        18,
+        16
+      ],
+      "floors": [
+        29.2,
+        33.6
+      ],
+      "door": [
+        193,
+        29.2,
+        -26.6
+      ],
+      "door_yaw": 0,
+      "role": "azure_view",
+      "private": false,
+      "owner": "",
+      "layout": "azure_view",
+      "legacy": false,
+      "entry_path": [
+        [
+          244,
+          21,
+          -35
+        ],
+        [
+          239,
+          22.2,
+          -68
+        ],
+        [
+          194,
+          25.6,
+          -68
+        ],
+        [
+          164,
+          27.6,
+          -57
+        ],
+        [
+          164,
+          29.2,
+          -22.6
+        ],
+        [
+          193,
+          29.2,
+          -22.6
+        ],
+        [
+          193,
+          29.2,
+          -26.6
+        ]
+      ],
+      "road_anchor": [
+        244,
+        21,
+        -35
+      ],
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            198.4,
+            29.32,
+            -30.52
+          ]
+        },
+        {
+          "name": "2F",
+          "point": [
+            198.4,
+            33.72,
+            -30.52
+          ]
+        }
+      ],
+      "foundation_top": 28.919999999999998
+    },
+    {
+      "id": "AZURE_LIGHT",
+      "name": "晴岬折光馆",
+      "center": [
+        178,
+        17.2,
+        18
+      ],
+      "size": [
+        20,
+        16
+      ],
+      "floors": [
+        17.2
+      ],
+      "door": [
+        178,
+        17.2,
+        26.4
+      ],
+      "door_yaw": 0,
+      "role": "azure_light",
+      "private": false,
+      "owner": "",
+      "layout": "azure_light",
+      "legacy": false,
+      "entry_path": [
+        [
+          220,
+          16,
+          35
+        ],
+        [
+          204,
+          16.3,
+          49
+        ],
+        [
+          178,
+          17.2,
+          42
+        ],
+        [
+          178,
+          17.2,
+          30.4
+        ],
+        [
+          178,
+          17.2,
+          26.4
+        ]
+      ],
+      "road_anchor": [
+        220,
+        16,
+        35
+      ],
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            184.0,
+            17.32,
+            22.48
+          ]
+        }
+      ],
+      "foundation_top": 16.919999999999998
+    },
+    {
+      "id": "AZURE_WEAVE",
+      "name": "帆影织染坊",
+      "center": [
+        154,
+        9.2,
+        84
+      ],
+      "size": [
+        18,
+        14
+      ],
+      "floors": [
+        9.2,
+        13.6
+      ],
+      "door": [
+        154,
+        9.2,
+        91.4
+      ],
+      "door_yaw": 0,
+      "role": "azure_weave",
+      "private": false,
+      "owner": "",
+      "layout": "azure_weave",
+      "legacy": false,
+      "entry_path": [
+        [
+          115,
+          4.6,
+          65
+        ],
+        [
+          119,
+          5.5,
+          100
+        ],
+        [
+          154,
+          9.2,
+          99.4
+        ],
+        [
+          154,
+          9.2,
+          91.4
+        ]
+      ],
+      "road_anchor": [
+        115,
+        4.6,
+        65
+      ],
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            159.4,
+            9.319999999999999,
+            87.92
+          ]
+        },
+        {
+          "name": "2F",
+          "point": [
+            159.4,
+            13.719999999999999,
+            87.92
+          ]
+        }
+      ],
+      "foundation_top": 8.92
+    },
+    {
+      "id": "AZURE_WATER",
+      "name": "阶水庭园",
+      "center": [
+        223,
+        9.2,
+        126
+      ],
+      "size": [
+        22,
+        18
+      ],
+      "floors": [
+        9.2
+      ],
+      "door": [
+        223,
+        9.2,
+        135.4
+      ],
+      "door_yaw": 0,
+      "role": "azure_water",
+      "private": false,
+      "owner": "",
+      "layout": "azure_water",
+      "legacy": false,
+      "entry_path": [
+        [
+          323,
+          4.4,
+          160
+        ],
+        [
+          295,
+          6.5,
+          155
+        ],
+        [
+          259,
+          8.1,
+          149
+        ],
+        [
+          223,
+          9.2,
+          140
+        ],
+        [
+          223,
+          9.2,
+          135.4
+        ]
+      ],
+      "road_anchor": [
+        323,
+        4.4,
+        160
+      ],
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            229.6,
+            9.319999999999999,
+            131.04
+          ]
+        }
+      ],
+      "foundation_top": 8.92
+    },
+    {
+      "id": "AZURE_GLASS",
+      "name": "海玻璃拱廊",
+      "center": [
+        359,
+        3.2,
+        162
+      ],
+      "size": [
+        24,
+        14
+      ],
+      "floors": [
+        3.2
+      ],
+      "door": [
+        359,
+        3.2,
+        169.4
+      ],
+      "door_yaw": 0,
+      "role": "azure_glass",
+      "private": false,
+      "owner": "",
+      "layout": "azure_glass",
+      "legacy": false,
+      "entry_path": [
+        [
+          323,
+          4.4,
+          160
+        ],
+        [
+          338,
+          3.2,
+          165
+        ],
+        [
+          338,
+          3.2,
+          177.4
+        ],
+        [
+          359,
+          3.2,
+          177.4
+        ],
+        [
+          359,
+          3.2,
+          169.4
+        ]
+      ],
+      "road_anchor": [
+        323,
+        4.4,
+        160
+      ],
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            366.2,
+            3.3200000000000003,
+            165.92
+          ]
+        }
+      ],
+      "foundation_top": 2.92
+    },
+    {
+      "id": "AZURE_TIDE",
+      "name": "潮汐观察屋",
+      "center": [
+        385,
+        3.2,
+        246
+      ],
+      "size": [
+        18,
+        14
+      ],
+      "floors": [
+        3.2
+      ],
+      "door": [
+        385,
+        3.2,
+        253.4
+      ],
+      "door_yaw": 0,
+      "role": "azure_tide",
+      "private": false,
+      "owner": "",
+      "layout": "azure_tide",
+      "legacy": false,
+      "entry_path": [
+        [
+          315,
+          3.8,
+          235
+        ],
+        [
+          340,
+          3.2,
+          235
+        ],
+        [
+          357,
+          3.2,
+          264
+        ],
+        [
+          385,
+          3.2,
+          264
+        ],
+        [
+          385,
+          3.2,
+          253.4
+        ]
+      ],
+      "road_anchor": [
+        315,
+        3.8,
+        235
+      ],
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            390.4,
+            3.3200000000000003,
+            249.92
+          ]
+        }
+      ],
+      "foundation_top": 2.92
+    },
+    {
+      "id": "AZURE_MODEL",
+      "name": "湾岸造景工场",
+      "center": [
+        347,
+        3.2,
+        289
+      ],
+      "size": [
+        24,
+        18
+      ],
+      "floors": [
+        3.2
+      ],
+      "door": [
+        347,
+        3.2,
+        298.4
+      ],
+      "door_yaw": 0,
+      "role": "azure_model",
+      "private": false,
+      "owner": "",
+      "layout": "azure_model",
+      "legacy": false,
+      "entry_path": [
+        [
+          315,
+          3.6,
+          260
+        ],
+        [
+          325,
+          3.2,
+          306
+        ],
+        [
+          347,
+          3.2,
+          306
+        ],
+        [
+          347,
+          3.2,
+          298.4
+        ]
+      ],
+      "road_anchor": [
+        315,
+        3.6,
+        260
+      ],
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            354.2,
+            3.3200000000000003,
+            294.04
+          ]
+        }
+      ],
+      "foundation_top": 2.92
+    },
+    {
+      "id": "AZURE_SAIL",
+      "name": "落日帆亭",
+      "center": [
+        193,
+        2.8,
+        267
+      ],
+      "size": [
+        18,
+        12
+      ],
+      "floors": [
+        2.8
+      ],
+      "door": [
+        193,
+        2.8,
+        273.4
+      ],
+      "door_yaw": 0,
+      "role": "azure_sail",
+      "private": false,
+      "owner": "",
+      "layout": "azure_sail",
+      "legacy": false,
+      "entry_path": [
+        [
+          193,
+          1.7,
+          301.84
+        ],
+        [
+          193,
+          2.8,
+          282
+        ],
+        [
+          193,
+          2.8,
+          273.4
+        ]
+      ],
+      "road_anchor": [
+        193,
+        1.7,
+        301.84
+      ],
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            198.4,
+            2.92,
+            270.36
+          ]
+        }
+      ],
+      "foundation_top": 2.5199999999999996
+    },
+    {
+      "id": "CASTLE_MAIN",
+      "name": "花霞城郭主楼",
+      "center": [
+        -112.5,
+        7.4,
+        10
+      ],
+      "size": [
+        30,
+        24
+      ],
+      "floors": [
+        7.4,
+        12.9,
+        18.4,
+        23.9,
+        29.4,
+        34.9,
+        40.4
+      ],
+      "door": [
+        -112.5,
+        7.4,
+        22.4
+      ],
+      "door_yaw": 0,
+      "role": "castle_main",
+      "private": false,
+      "owner": "",
+      "layout": "castle_main",
+      "legacy": false,
+      "private_floors": [
+        2
+      ],
+      "entry_path": [
+        [
+          -142,
+          6.88,
+          89
+        ],
+        [
+          -112.5,
+          4.2,
+          72
+        ],
+        [
+          -112.5,
+          4.2,
+          68
+        ],
+        [
+          -100,
+          5.0,
+          58
+        ],
+        [
+          -100,
+          5.8,
+          47
+        ],
+        [
+          -112.5,
+          5.8,
+          44
+        ],
+        [
+          -125,
+          6.6,
+          36
+        ],
+        [
+          -125,
+          7.4,
+          28
+        ],
+        [
+          -112.5,
+          7.4,
+          28
+        ],
+        [
+          -112.5,
+          7.4,
+          22.4
+        ]
+      ],
+      "road_anchor": [
+        -142,
+        6.88,
+        89
+      ],
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -103.5,
+            7.5200000000000005,
+            16.72
+          ]
+        },
+        {
+          "name": "2F",
+          "point": [
+            -103.5,
+            13.02,
+            16.72
+          ]
+        },
+        {
+          "name": "3F",
+          "point": [
+            -103.5,
+            18.52,
+            16.72
+          ]
+        },
+        {
+          "name": "4F",
+          "point": [
+            -103.5,
+            24.02,
+            16.72
+          ]
+        },
+        {
+          "name": "5F",
+          "point": [
+            -103.5,
+            29.52,
+            16.72
+          ]
+        },
+        {
+          "name": "6F",
+          "point": [
+            -103.5,
+            35.019999999999996,
+            16.72
+          ]
+        },
+        {
+          "name": "7F",
+          "point": [
+            -103.5,
+            40.519999999999996,
+            16.72
+          ]
+        }
+      ],
+      "foundation_top": 7.12
+    },
+    {
+      "id": "CASTLE_PAPER",
+      "name": "纸木工房",
+      "center": [
+        -144,
+        7.4,
+        10
+      ],
+      "size": [
+        14,
+        18
+      ],
+      "floors": [
+        7.4,
+        12.9,
+        18.4
+      ],
+      "door": [
+        -144,
+        7.4,
+        19.4
+      ],
+      "door_yaw": 0,
+      "role": "castle_paper",
+      "private": false,
+      "owner": "",
+      "layout": "castle_paper",
+      "legacy": false,
+      "entry_path": [
+        [
+          -125,
+          7.4,
+          28
+        ],
+        [
+          -144,
+          7.4,
+          28
+        ],
+        [
+          -144,
+          7.4,
+          19.4
+        ]
+      ],
+      "road_anchor": [
+        -125,
+        7.4,
+        28
+      ],
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -139.8,
+            7.5200000000000005,
+            15.040000000000001
+          ]
+        },
+        {
+          "name": "2F",
+          "point": [
+            -139.8,
+            13.02,
+            15.040000000000001
+          ]
+        },
+        {
+          "name": "3F",
+          "point": [
+            -139.8,
+            18.52,
+            15.040000000000001
+          ]
+        }
+      ],
+      "foundation_top": 7.12
+    },
+    {
+      "id": "CASTLE_CLOTH",
+      "name": "织染装配阁",
+      "center": [
+        -84,
+        7.4,
+        10
+      ],
+      "size": [
+        14,
+        18
+      ],
+      "floors": [
+        7.4,
+        12.9,
+        18.4
+      ],
+      "door": [
+        -84,
+        7.4,
+        19.4
+      ],
+      "door_yaw": 0,
+      "role": "castle_cloth",
+      "private": false,
+      "owner": "",
+      "layout": "castle_cloth",
+      "legacy": false,
+      "entry_path": [
+        [
+          -112.5,
+          7.4,
+          28
+        ],
+        [
+          -84,
+          7.4,
+          28
+        ],
+        [
+          -84,
+          7.4,
+          19.4
+        ]
+      ],
+      "road_anchor": [
+        -112.5,
+        7.4,
+        28
+      ],
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -79.8,
+            7.5200000000000005,
+            15.040000000000001
+          ]
+        },
+        {
+          "name": "2F",
+          "point": [
+            -79.8,
+            13.02,
+            15.040000000000001
+          ]
+        },
+        {
+          "name": "3F",
+          "point": [
+            -79.8,
+            18.52,
+            15.040000000000001
+          ]
+        }
+      ],
+      "foundation_top": 7.12
+    },
+    {
+      "id": "CASTLE_MATERIAL",
+      "name": "风物材料街屋",
+      "center": [
+        -142,
+        4.2,
+        57
+      ],
+      "size": [
+        14,
+        12
+      ],
+      "floors": [
+        4.2,
+        8.6
+      ],
+      "door": [
+        -142,
+        4.2,
+        63.4
+      ],
+      "door_yaw": 0,
+      "role": "castle_material",
+      "private": false,
+      "owner": "",
+      "layout": "castle_material",
+      "legacy": false,
+      "entry_path": [
+        [
+          -112.5,
+          4.2,
+          68
+        ],
+        [
+          -142,
+          4.2,
+          68
+        ],
+        [
+          -142,
+          4.2,
+          63.4
+        ]
+      ],
+      "road_anchor": [
+        -112.5,
+        4.2,
+        68
+      ],
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -137.8,
+            4.32,
+            60.36
+          ]
+        },
+        {
+          "name": "2F",
+          "point": [
+            -137.8,
+            8.719999999999999,
+            60.36
+          ]
+        }
+      ],
+      "foundation_top": 3.92
+    },
+    {
+      "id": "CASTLE_DISPLAY",
+      "name": "作品陈列街屋",
+      "center": [
+        -83,
+        4.2,
+        57
+      ],
+      "size": [
+        14,
+        12
+      ],
+      "floors": [
+        4.2,
+        8.6
+      ],
+      "door": [
+        -83,
+        4.2,
+        63.4
+      ],
+      "door_yaw": 0,
+      "role": "castle_display",
+      "private": false,
+      "owner": "",
+      "layout": "castle_display",
+      "legacy": false,
+      "entry_path": [
+        [
+          -112.5,
+          4.2,
+          68
+        ],
+        [
+          -83,
+          4.2,
+          68
+        ],
+        [
+          -83,
+          4.2,
+          63.4
+        ]
+      ],
+      "road_anchor": [
+        -112.5,
+        4.2,
+        68
+      ],
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -78.8,
+            4.32,
+            60.36
+          ]
+        },
+        {
+          "name": "2F",
+          "point": [
+            -78.8,
+            8.719999999999999,
+            60.36
+          ]
+        }
+      ],
+      "foundation_top": 3.92
+    },
+    {
+      "id": "CASTLE_TEA",
+      "name": "花霞茶亭",
+      "center": [
+        -145,
+        5.8,
+        35
+      ],
+      "size": [
+        10,
+        8
+      ],
+      "floors": [
+        5.8
+      ],
+      "door": [
+        -145,
+        5.8,
+        39.4
+      ],
+      "door_yaw": 0,
+      "role": "castle_tea",
+      "private": false,
+      "owner": "",
+      "layout": "castle_tea",
+      "legacy": false,
+      "entry_path": [
+        [
+          -144,
+          7.4,
+          28
+        ],
+        [
+          -158,
+          6.7,
+          28
+        ],
+        [
+          -158,
+          5.8,
+          40
+        ],
+        [
+          -145,
+          5.8,
+          40
+        ],
+        [
+          -145,
+          5.8,
+          39.4
+        ]
+      ],
+      "road_anchor": [
+        -144,
+        7.4,
+        28
+      ],
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -142.0,
+            5.92,
+            37.24
+          ]
+        }
+      ],
+      "foundation_top": 5.52
+    },
+    {
+      "id": "CABLE_LOWER",
+      "name": "花丘山脚缆车站",
+      "center": [
+        -288,
+        13.9,
+        -116
+      ],
+      "size": [
+        20,
+        14
+      ],
+      "floors": [
+        13.9
+      ],
+      "door": [
+        -277.6,
+        13.9,
+        -116
+      ],
+      "door_yaw": 1.5707963267948966,
+      "role": "cable",
+      "private": false,
+      "owner": "",
+      "layout": "cable",
+      "legacy": false,
+      "entry_path": [
+        [
+          -259.3,
+          13.9,
+          -116
+        ],
+        [
+          -274,
+          13.9,
+          -116
+        ],
+        [
+          -277.6,
+          13.9,
+          -116
+        ]
+      ],
+      "road_anchor": [
+        -259.3,
+        13.9,
+        -116
+      ],
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -282.0,
+            14.02,
+            -112.08
+          ]
+        }
+      ],
+      "foundation_top": 13.620000000000001
+    },
+    {
+      "id": "CABLE_UPPER",
+      "name": "西山顶缆车站",
+      "center": [
+        -60,
+        70.13,
+        -358
+      ],
+      "size": [
+        20,
+        14
+      ],
+      "floors": [
+        70.13
+      ],
+      "door": [
+        -49.6,
+        70.13,
+        -358
+      ],
+      "door_yaw": 1.5707963267948966,
+      "role": "cable",
+      "private": false,
+      "owner": "",
+      "layout": "cable",
+      "legacy": false,
+      "entry_path": [
+        [
+          -50,
+          67.7111,
+          -373.3333
+        ],
+        [
+          -60,
+          68.4,
+          -370
+        ],
+        [
+          -45,
+          69.5,
+          -370
+        ],
+        [
+          -45,
+          70.13,
+          -358
+        ],
+        [
+          -49.6,
+          70.13,
+          -358
+        ]
+      ],
+      "road_anchor": [
+        -50,
+        67.7111,
+        -373.3333
+      ],
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -54.0,
+            70.25,
+            -354.08
+          ]
+        }
+      ],
+      "foundation_top": 69.85
+    },
+    {
+      "id": "SUMMIT_TEA",
+      "name": "云间茶寮",
+      "center": [
+        -20,
+        71.1,
+        -396
+      ],
+      "size": [
+        14,
+        10
+      ],
+      "floors": [
+        71.1
+      ],
+      "door": [
+        -20.0,
+        71.1,
+        -390.6
+      ],
+      "door_yaw": 0,
+      "role": "tea",
+      "private": false,
+      "owner": "",
+      "layout": "tea",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -15.8,
+            71.22,
+            -393.2
+          ]
+        }
+      ],
+      "foundation_top": 70.82
+    },
+    {
+      "id": "LIGHTHOUSE",
+      "name": "东岬灯塔",
+      "center": [
+        360,
+        9.6,
+        383
+      ],
+      "size": [
+        7,
+        7
+      ],
+      "floors": [
+        9.6,
+        17.6
+      ],
+      "door": [
+        360.0,
+        9.6,
+        386.9
+      ],
+      "door_yaw": 0,
+      "role": "lighthouse",
+      "private": false,
+      "owner": "",
+      "layout": "lighthouse",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            362.1,
+            9.719999999999999,
+            384.96
+          ]
+        },
+        {
+          "name": "2F",
+          "point": [
+            362.1,
+            17.720000000000002,
+            384.96
+          ]
+        }
+      ],
+      "foundation_top": 9.32
+    },
+    {
+      "id": "CREEK_TEA",
+      "name": "溪岸水车茶座",
+      "center": [
+        -194,
+        3.3,
+        -190
+      ],
+      "size": [
+        8,
+        7
+      ],
+      "floors": [
+        3.3
+      ],
+      "door": [
+        -194.0,
+        3.3,
+        -186.1
+      ],
+      "door_yaw": 0,
+      "role": "tea",
+      "private": false,
+      "owner": "",
+      "layout": "tea",
+      "legacy": false,
+      "floor_entries": [
+        {
+          "name": "1F",
+          "point": [
+            -191.6,
+            3.42,
+            -188.04
+          ]
+        }
+      ],
+      "foundation_top": 3.0199999999999996
+    }
+  ],
+  "legacy_theme_rooms": [
+    {
+      "id": "THEME_EVERYDAY",
+      "name": "海风唱片间",
+      "work": "每一天",
+      "owner": "B03",
+      "center": [
+        -100,
+        6,
+        171
+      ],
+      "size": [
+        12,
+        10
+      ],
+      "tone": "c9b89a",
+      "program": "dual_everyday"
+    },
+    {
+      "id": "THEME_WAITING",
+      "name": "街角留声间",
+      "work": "等不到你",
+      "owner": "B02",
+      "center": [
+        -110,
+        7,
+        272
+      ],
+      "size": [
+        12,
+        10
+      ],
+      "tone": "90a89c",
+      "program": "dual_waiting"
+    },
+    {
+      "id": "THEME_POEM",
+      "name": "星夜手札间",
+      "work": "孤独与诗",
+      "owner": "B07",
+      "center": [
+        217,
+        28,
+        -285
+      ],
+      "size": [
+        14,
+        10
+      ],
+      "tone": "a9b8d0",
+      "program": "dual_poem"
+    },
+    {
+      "id": "THEME_FROST",
+      "name": "霜月小舞台",
+      "work": "醉飞霜",
+      "owner": "B10",
+      "center": [
+        -316,
+        11,
+        6
+      ],
+      "size": [
+        14,
+        14
+      ],
+      "tone": "a4b9c9",
+      "program": "dual_frost"
+    },
+    {
+      "id": "THEME_BLOSSOM",
+      "name": "花影寻物间",
+      "work": "花间令",
+      "owner": "B06",
+      "center": [
+        287,
+        18,
+        -231
+      ],
+      "size": [
+        14,
+        12
+      ],
+      "tone": "d7b6c6",
+      "program": "dual_blossom"
+    },
+    {
+      "id": "THEME_DAILY",
+      "name": "日常摄影间",
+      "work": "日常与幕后",
+      "owner": "B13",
+      "center": [
+        86,
+        6.5,
+        92
+      ],
+      "size": [
+        12,
+        10
+      ],
+      "tone": "d4bc88",
+      "program": "dual_studio"
+    }
+  ]
+}

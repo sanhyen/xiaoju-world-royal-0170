@@ -1,0 +1,146 @@
+[
+  {
+    "name": "stage_front",
+    "anchor": [
+      -227,
+      114
+    ],
+    "eye": [
+      0,
+      2.0,
+      23
+    ],
+    "target": [
+      0,
+      2.2,
+      0
+    ],
+    "time": 0
+  },
+  {
+    "name": "stage_side",
+    "anchor": [
+      -227,
+      114
+    ],
+    "eye": [
+      -16,
+      3.0,
+      12
+    ],
+    "target": [
+      0,
+      2.3,
+      0
+    ],
+    "time": 0
+  },
+  {
+    "name": "stage_roof",
+    "anchor": [
+      -227,
+      114
+    ],
+    "eye": [
+      0,
+      2.4,
+      2
+    ],
+    "target": [
+      0,
+      4.8,
+      -2
+    ],
+    "time": 0
+  },
+  {
+    "name": "stage_night",
+    "anchor": [
+      -227,
+      114
+    ],
+    "eye": [
+      0,
+      2.0,
+      23
+    ],
+    "target": [
+      0,
+      2.2,
+      0
+    ],
+    "time": 2
+  },
+  {
+    "name": "court_arrival",
+    "anchor": [
+      185,
+      -112
+    ],
+    "eye": [
+      16,
+      2.0,
+      12
+    ],
+    "target": [
+      -1,
+      1.8,
+      0
+    ],
+    "time": 0
+  },
+  {
+    "name": "court_frame",
+    "anchor": [
+      185,
+      -112
+    ],
+    "eye": [
+      0,
+      1.8,
+      9
+    ],
+    "target": [
+      0,
+      1.8,
+      -2
+    ],
+    "time": 0
+  },
+  {
+    "name": "court_corridor",
+    "anchor": [
+      185,
+      -112
+    ],
+    "eye": [
+      -15,
+      1.8,
+      -3
+    ],
+    "target": [
+      8,
+      1.8,
+      -3
+    ],
+    "time": 0
+  },
+  {
+    "name": "court_night",
+    "anchor": [
+      185,
+      -112
+    ],
+    "eye": [
+      16,
+      2.0,
+      12
+    ],
+    "target": [
+      -1,
+      1.8,
+      0
+    ],
+    "time": 2
+  }
+]

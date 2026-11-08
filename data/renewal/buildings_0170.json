@@ -1,0 +1,652 @@
+{
+ "version": 1,
+ "buildings": [
+  {
+   "id": "B02",
+   "name": "海边咖啡馆",
+   "theme": "地中海拱廊咖啡屋",
+   "archetype": "arcade",
+   "interior": "cafe_bar",
+   "center": [
+    -110.0,
+    4.6,
+    248.0
+   ],
+   "w": 18.0,
+   "d": 16.0,
+   "h": 8.0,
+   "floor_y": 4.6,
+   "floors": [
+    4.6,
+    8.4
+   ],
+   "palette": {
+    "wall": "EDE3CE",
+    "roof": "B8664A",
+    "accent": "2E6E8E",
+    "frame": "C9BBA0",
+    "glass": "BFD8E2"
+   },
+   "door": [
+    -110.0,
+    4.6,
+    257.25
+   ],
+   "source": "building_bounds"
+  },
+  {
+   "id": "B03",
+   "name": "花音唱片",
+   "theme": "黑胶与爵士街屋",
+   "archetype": "jazz",
+   "interior": "record_wall",
+   "center": [
+    -100.0,
+    3.6,
+    197.0
+   ],
+   "w": 18.0,
+   "d": 13.0,
+   "h": 7.2,
+   "floor_y": 3.6,
+   "floors": [
+    3.6,
+    7.4,
+    7.6
+   ],
+   "palette": {
+    "wall": "6B3B33",
+    "roof": "2E2622",
+    "accent": "C8A24A",
+    "frame": "B9863F",
+    "glass": "CFD8DA"
+   },
+   "door": [
+    -100.0,
+    3.6,
+    204.75
+   ],
+   "source": "building_bounds"
+  },
+  {
+   "id": "B04",
+   "name": "花间花店",
+   "theme": "维多利亚玻璃花房",
+   "archetype": "greenhouse",
+   "interior": "flower_beds",
+   "center": [
+    -215.0,
+    17.6,
+    -215.0
+   ],
+   "w": 13.0,
+   "d": 10.0,
+   "h": 4.4,
+   "floor_y": 17.6,
+   "floors": [
+    17.6
+   ],
+   "palette": {
+    "wall": "DCD6C2",
+    "roof": "8FA8A2",
+    "accent": "3F6B52",
+    "frame": "3A4A42",
+    "glass": "CFE3DD"
+   },
+   "door": [
+    -215.0,
+    17.6,
+    -208.75
+   ],
+   "source": "building_bounds"
+  },
+  {
+   "id": "B05",
+   "name": "光影画廊",
+   "theme": "哥特式光影展馆",
+   "archetype": "gothic",
+   "interior": "gallery",
+   "center": [
+    188.0,
+    20.6,
+    -225.0
+   ],
+   "w": 22.0,
+   "d": 16.0,
+   "h": 5.8,
+   "floor_y": 20.6,
+   "floors": [
+    20.6
+   ],
+   "palette": {
+    "wall": "DAD2C4",
+    "roof": "4A4A58",
+    "accent": "8C5A6E",
+    "frame": "6C6152",
+    "glass": "C6A7C9"
+   },
+   "door": [
+    188.0,
+    20.6,
+    -215.75
+   ],
+   "source": "building_bounds"
+  },
+  {
+   "id": "B06",
+   "name": "星幕影院",
+   "theme": "装饰艺术风格影院",
+   "archetype": "artdeco",
+   "interior": "cinema",
+   "center": [
+    252.0,
+    15.6,
+    -206.0
+   ],
+   "w": 28.0,
+   "d": 23.0,
+   "h": 9.0,
+   "floor_y": 15.6,
+   "floors": [
+    15.6
+   ],
+   "palette": {
+    "wall": "2C3448",
+    "roof": "1B2130",
+    "accent": "C9A45C",
+    "frame": "8C919E",
+    "glass": "AFC4D8"
+   },
+   "door": [
+    252.0,
+    15.6,
+    -193.25
+   ],
+   "source": "building_bounds"
+  },
+  {
+   "id": "B08",
+   "name": "律动排练馆",
+   "theme": "舞蹈节奏折板馆",
+   "archetype": "folded",
+   "interior": "studio",
+   "center": [
+    -240.0,
+    11.6,
+    -72.0
+   ],
+   "w": 20.0,
+   "d": 15.0,
+   "h": 6.0,
+   "floor_y": 11.6,
+   "floors": [
+    11.6,
+    14.7
+   ],
+   "palette": {
+    "wall": "C8BCA6",
+    "roof": "4E5A50",
+    "accent": "B4673E",
+    "frame": "7A6650",
+    "glass": "D6DEDA"
+   },
+   "door": [
+    -240.0,
+    11.6,
+    -63.25
+   ],
+   "source": "building_bounds"
+  },
+  {
+   "id": "B09",
+   "name": "回声工作室",
+   "theme": "吉他共鸣工作室",
+   "archetype": "guitar",
+   "interior": "workshop",
+   "center": [
+    -230.0,
+    10.6,
+    -8.0
+   ],
+   "w": 17.0,
+   "d": 13.0,
+   "h": 4.8,
+   "floor_y": 10.6,
+   "floors": [
+    10.6
+   ],
+   "palette": {
+    "wall": "A97442",
+    "roof": "4A3226",
+    "accent": "D8B45C",
+    "frame": "6B4A32",
+    "glass": "DCE6E2"
+   },
+   "door": [
+    -230.0,
+    10.6,
+    -0.25
+   ],
+   "source": "building_bounds"
+  },
+  {
+   "id": "B10",
+   "name": "星光演艺厅",
+   "theme": "巴洛克小剧院",
+   "archetype": "baroque",
+   "interior": "theatre",
+   "center": [
+    -287.0,
+    8.6,
+    8.0
+   ],
+   "w": 34.0,
+   "d": 28.0,
+   "h": 12.0,
+   "floor_y": 8.6,
+   "floors": [
+    8.6
+   ],
+   "palette": {
+    "wall": "E7DCC6",
+    "roof": "3A3D4A",
+    "accent": "C4A05A",
+    "frame": "D3C3A4",
+    "glass": "D8E0E4"
+   },
+   "door": [
+    -287.0,
+    8.6,
+    23.25
+   ],
+   "source": "building_bounds"
+  },
+  {
+   "id": "B11",
+   "name": "星笺纪念品",
+   "theme": "江南青石黛瓦铺",
+   "archetype": "jiangnan",
+   "interior": "souvenir",
+   "center": [
+    -60.0,
+    5.6,
+    153.0
+   ],
+   "w": 13.0,
+   "d": 11.0,
+   "h": 4.5,
+   "floor_y": 5.6,
+   "floors": [
+    5.6,
+    9.6
+   ],
+   "palette": {
+    "wall": "F0ECE0",
+    "roof": "434A4A",
+    "accent": "6B5B45",
+    "frame": "5B4A38",
+    "glass": "D6E1DE"
+   },
+   "door": [
+    -60.0,
+    5.6,
+    159.75
+   ],
+   "source": "building_bounds"
+  },
+  {
+   "id": "H01",
+   "name": "田园烘焙与麦香晒台屋",
+   "theme": "都铎木构烘焙屋",
+   "archetype": "tudor",
+   "interior": "bakery",
+   "center": [
+    -238.0,
+    4.4,
+    224.0
+   ],
+   "w": 14.0,
+   "d": 12.0,
+   "h": 6.2,
+   "floor_y": 4.4,
+   "floors": [
+    4.4,
+    7.8
+   ],
+   "palette": {
+    "wall": "E8DCC2",
+    "roof": "8A3F32",
+    "accent": "4A3226",
+    "frame": "4A3226",
+    "glass": "D9E2D8"
+   },
+   "door": [
+    -238.0,
+    4.4,
+    231.25
+   ],
+   "source": "living_houses"
+  },
+  {
+   "id": "H03",
+   "name": "牧场写生与画框装裱屋",
+   "theme": "北欧画家工作屋",
+   "archetype": "nordic",
+   "interior": "atelier",
+   "center": [
+    -312.0,
+    4.300000000000001,
+    220.0
+   ],
+   "w": 14.0,
+   "d": 12.0,
+   "h": 6.2,
+   "floor_y": 4.300000000000001,
+   "floors": [
+    4.3,
+    7.7
+   ],
+   "palette": {
+    "wall": "A85B46",
+    "roof": "3E4247",
+    "accent": "EFE7D6",
+    "frame": "E3DCCB",
+    "glass": "C9DDE8"
+   },
+   "door": [
+    -312.0,
+    4.3,
+    227.25
+   ],
+   "source": "living_houses"
+  },
+  {
+   "id": "H07",
+   "name": "松果壁炉与木雕小憩屋",
+   "theme": "阿尔卑斯木屋",
+   "archetype": "alpine",
+   "interior": "fireplace",
+   "center": [
+    -183.0,
+    8.1,
+    35.0
+   ],
+   "w": 14.0,
+   "d": 14.0,
+   "h": 4.6,
+   "floor_y": 8.1,
+   "floors": [
+    8.1
+   ],
+   "palette": {
+    "wall": "8A5A38",
+    "roof": "4A3A2C",
+    "accent": "C9B48C",
+    "frame": "6B4A30",
+    "glass": "D8E2E0"
+   },
+   "door": [
+    -183.0,
+    8.1,
+    43.25
+   ],
+   "source": "living_houses"
+  },
+  {
+   "id": "H08",
+   "name": "溪谷植物图鉴与标本阁楼",
+   "theme": "溪谷植物研究屋",
+   "archetype": "research",
+   "interior": "herbarium",
+   "center": [
+    95.0,
+    5.6,
+    26.0
+   ],
+   "w": 14.0,
+   "d": 12.0,
+   "h": 6.2,
+   "floor_y": 5.6,
+   "floors": [
+    5.6,
+    9.0
+   ],
+   "palette": {
+    "wall": "D8D2BC",
+    "roof": "6B7A62",
+    "accent": "8A6A42",
+    "frame": "6E6450",
+    "glass": "D2E4DC"
+   },
+   "door": [
+    95.0,
+    5.6,
+    33.25
+   ],
+   "source": "living_houses"
+  },
+  {
+   "id": "H11",
+   "name": "八音盒与木偶小剧场屋",
+   "theme": "童话机械剧场",
+   "archetype": "toytheatre",
+   "interior": "musicbox",
+   "center": [
+    -63.0,
+    4.0,
+    212.0
+   ],
+   "w": 10.0,
+   "d": 10.0,
+   "h": 4.6,
+   "floor_y": 4.0,
+   "floors": [
+    4.0
+   ],
+   "palette": {
+    "wall": "D6A96A",
+    "roof": "7A4A3A",
+    "accent": "C6A24A",
+    "frame": "6B4A32",
+    "glass": "E0E8E2"
+   },
+   "door": [
+    -63.0,
+    4.0,
+    218.25
+   ],
+   "source": "living_houses"
+  },
+  {
+   "id": "H12",
+   "name": "复古暗房与明信片屋",
+   "theme": "红砖摄影工作屋",
+   "archetype": "brick",
+   "interior": "darkroom",
+   "center": [
+    -139.0,
+    4.4,
+    208.0
+   ],
+   "w": 14.0,
+   "d": 12.0,
+   "h": 4.6,
+   "floor_y": 4.4,
+   "floors": [
+    4.4
+   ],
+   "palette": {
+    "wall": "9A4B3A",
+    "roof": "33383A",
+    "accent": "B7A070",
+    "frame": "2E3336",
+    "glass": "CFDAD8"
+   },
+   "door": [
+    -139.0,
+    4.4,
+    215.25
+   ],
+   "source": "living_houses"
+  },
+  {
+   "id": "Z09_B2",
+   "name": "叠台矿彩陶艺工坊",
+   "theme": "嵌岩矿彩工坊",
+   "archetype": "cliff",
+   "interior": "kiln",
+   "center": [
+    326.0,
+    5.5,
+    59.0
+   ],
+   "w": 14.0,
+   "d": 12.0,
+   "h": 5.0,
+   "floor_y": 5.5,
+   "floors": [
+    5.5,
+    10.5
+   ],
+   "palette": {
+    "wall": "B7A98E",
+    "roof": "7A5A48",
+    "accent": "4E7C86",
+    "frame": "6B5C48",
+    "glass": "D6DDD8"
+   },
+   "door": [
+    326.0,
+    5.5,
+    66.25
+   ],
+   "source": "building_bounds"
+  },
+  {
+   "id": "Z09_B3",
+   "name": "半山嵌岩茶室",
+   "theme": "江南山水书院茶室",
+   "archetype": "courtyard",
+   "interior": "teahouse",
+   "center": [
+    282.0,
+    14.5,
+    -10.0
+   ],
+   "w": 17.0,
+   "d": 12.0,
+   "h": 4.5,
+   "floor_y": 14.5,
+   "floors": [
+    14.5
+   ],
+   "palette": {
+    "wall": "EEEAE0",
+    "roof": "454B49",
+    "accent": "7A6A52",
+    "frame": "61513E",
+    "glass": "D6E0DC"
+   },
+   "door": [
+    282.0,
+    14.5,
+    -2.75
+   ],
+   "source": "building_bounds"
+  },
+  {
+   "id": "Z09_B6",
+   "name": "悬崖日落观景阁",
+   "theme": "地中海山崖观景廊",
+   "archetype": "terrace",
+   "interior": "belvedere",
+   "center": [
+    250.0,
+    19.5,
+    22.0
+   ],
+   "w": 15.0,
+   "d": 10.0,
+   "h": 4.5,
+   "floor_y": 19.5,
+   "floors": [
+    18.0,
+    19.5
+   ],
+   "palette": {
+    "wall": "E4D6BE",
+    "roof": "9A6A50",
+    "accent": "3E6E86",
+    "frame": "C4B092",
+    "glass": "CFDEE4"
+   },
+   "door": [
+    250.0,
+    19.5,
+    28.25
+   ],
+   "source": "building_bounds"
+  },
+  {
+   "id": "SUMMIT_TEA",
+   "name": "云间茶寮",
+   "theme": "山顶唐风茶寮",
+   "archetype": "tang",
+   "interior": "teahouse",
+   "center": [
+    -20.0,
+    71.1,
+    -396.0
+   ],
+   "w": 16.0,
+   "d": 12.0,
+   "h": 5.4,
+   "floor_y": 71.1,
+   "floors": [
+    71.1
+   ],
+   "palette": {
+    "wall": "E6DBC2",
+    "roof": "3F4A42",
+    "accent": "8A4A38",
+    "frame": "6B4A32",
+    "glass": "D8E2DC"
+   },
+   "door": [
+    -20.0,
+    71.1,
+    -389.75
+   ],
+   "source": "estimated"
+  },
+  {
+   "id": "AZURE_VIEW",
+   "name": "蓝穹观景塔",
+   "theme": "海风天文观测塔",
+   "archetype": "observatory",
+   "interior": "telescope",
+   "center": [
+    193.0,
+    29.2,
+    -35.0
+   ],
+   "w": 11.0,
+   "d": 11.0,
+   "h": 11.0,
+   "floor_y": 29.2,
+   "floors": [
+    29.3,
+    33.7
+   ],
+   "palette": {
+    "wall": "C9C4B4",
+    "roof": "3E5A72",
+    "accent": "C8A45A",
+    "frame": "8A9298",
+    "glass": "C4DCE8"
+   },
+   "door": null,
+   "source": "estimated"
+  }
+ ]
+}

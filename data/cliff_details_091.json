@@ -1,0 +1,11 @@
+{
+  "seed": 129091,
+  "pockets": [
+    {"id":"western_inner_face","center":[-310,-246],"radius":[16,12]},
+    {"id":"home_forest_edge","center":[-286,-218],"radius":[16,14]},
+    {"id":"western_rest_face","center":[-118,-306],"radius":[16,12]},
+    {"id":"western_turn_face","center":[-141,-284],"radius":[14,12]},
+    {"id":"eastern_rest_face","center":[119,-283],"radius":[14,14]},
+    {"id":"upper_creek_face","center":[352,-270],"radius":[12,14]}
+  ]
+}

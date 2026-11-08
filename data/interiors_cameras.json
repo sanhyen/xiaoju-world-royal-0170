@@ -1,0 +1,19 @@
+[
+  {"name":"cinema_front","building":"B06","eye":[0,2,30],"target":[0,4,0],"time":0},
+  {"name":"cinema_lobby","building":"B06","eye":[0,1.8,10.0],"target":[0,1.9,6.1],"time":0},
+  {"name":"cinema_desk","building":"B06","eye":[-5,1.8,10.8],"target":[-9,1.65,8.9],"time":0},
+  {"name":"cinema_exit","building":"B06","eye":[11.2,2.8,0.5],"target":[11.5,2.2,7.0],"time":0},
+  {"name":"cinema_inside","building":"B06","eye":[11.5,2.8,4],"target":[-3,3.2,-7],"time":0},
+  {"name":"studio_front","building":"B09","eye":[0,2,22],"target":[0,2.4,0],"time":0},
+  {"name":"studio_inside","building":"B09","eye":[0,2.0,4.7],"target":[-2,1.8,-3.5],"time":0},
+  {"name":"studio_window","building":"B09","eye":[-3.9,1.9,0],"target":[-4.5,1.6,-4.5],"time":0},
+  {"name":"studio_booth","building":"B09","eye":[-2.3,1.7,-3.5],"target":[-5,1.7,-4.7],"time":0},
+  {"name":"home_interior","building":"B12","eye":[0,2.0,3.9],"target":[0,1.8,-3.7],"time":0},
+  {"name":"home_collection","building":"B12","eye":[0,1.8,-1.4],"target":[0,2,-5.1],"time":0},
+  {"name":"home_desk","building":"B12","eye":[3.0,1.7,-0.9],"target":[4.7,1.2,-3.0],"time":0},
+  {"name":"visitor_front","building":"B13","eye":[0,2.0,20],"target":[0,2.7,0],"time":0},
+  {"name":"visitor_inside","building":"B13","eye":[0,2.0,3.5],"target":[0,1.8,-3],"time":0},
+  {"name":"visitor_counter","building":"B13","eye":[-2,1.8,1.2],"target":[-3,1.4,-1.5],"time":0},
+  {"name":"visitor_leaflets","building":"B13","eye":[-1.8,1.7,3.6],"target":[-4,1.25,2.2],"time":0},
+  {"name":"visitor_dusk","building":"B13","eye":[-14,2.5,17],"target":[0,2.5,0],"time":1}
+]

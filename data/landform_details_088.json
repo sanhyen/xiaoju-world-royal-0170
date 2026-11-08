@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "seed": 128088,
+  "shoulder_spacing_m": 14.0,
+  "forest_pockets": [
+    {"id":"home_woodland_edge","zone":"Z07","center":[-279,-215],"radii":[10,8],"count":24},
+    {"id":"western_woodland","zone":"Z08","center":[-305,-246],"radii":[16,11],"count":30},
+    {"id":"western_ascent","zone":"Z08","center":[-143,-251],"radii":[14,9],"count":26},
+    {"id":"western_rest_backdrop","zone":"Z08","center":[-122,-302],"radii":[12,9],"count":22},
+    {"id":"summit_sparse_talus","zone":"Z08","center":[-31,-367],"radii":[11,7],"count":14},
+    {"id":"eastern_ascent","zone":"Z08","center":[142,-267],"radii":[15,10],"count":26},
+    {"id":"eastern_woodland","zone":"Z08","center":[200,-241],"radii":[13,10],"count":24}
+  ],
+  "riparian_pockets": [
+    {"id":"upper_creek_west","zone":"Z08","z":-250,"side":-1,"length":17,"count":18},
+    {"id":"middle_creek_east","zone":"Z08","z":-198,"side":1,"length":17,"count":18},
+    {"id":"reading_garden_bank","zone":"Z06","z":-131,"side":1,"length":19,"count":20},
+    {"id":"river_walk_north","zone":"Z06","z":-24,"side":-1,"length":18,"count":18},
+    {"id":"river_walk_south","zone":"Z01","z":72,"side":1,"length":17,"count":18},
+    {"id":"arrival_riverbank","zone":"Z01","z":212,"side":-1,"length":19,"count":20}
+  ],
+  "scope": "Authored forest and riparian pockets plus small talus at existing mountain-road shoulders. No terrain height, road, tree, building, interaction, collision or media replacement."
+}

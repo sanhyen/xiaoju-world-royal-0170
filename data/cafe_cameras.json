@@ -1,0 +1,8 @@
+[
+  {"name":"west_approach","eye":[-92,2.16000008583069,300],"target":[-80,3.02800011634827,281]},
+  {"name":"front","eye":[-49,3.3,316],"target":[-65,3.8,287]},
+  {"name":"reading_to_sea","eye":[-69,5.55,288.5],"target":[-66,4.9,330]},
+  {"name":"ground","eye":[-65,2.2,292],"target":[-70,1.7,282]},
+  {"name":"west_reading_window","eye":[-70.8,5.55,288.7],"target":[-92,5.2,284]},
+  {"name":"stair_landing","eye":[-60,5.55,293.2],"target":[-71,5.4,281.8]}
+]
