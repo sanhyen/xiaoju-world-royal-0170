@@ -25,9 +25,21 @@ git lfs pull
 
 `scripts/renewal/qa/build_pack.gd` 是用于保留原版编译脚本和导入资源的兼容打包脚本。普通导出可能遗漏原版二进制场景或映射资源。执行打包前应先确认 Godot 版本，并确保目标目录可写。
 
+在 Windows PowerShell 中，可以从仓库根目录运行：
+
+```powershell
+$godot = 'C:\path\to\Godot_v4.7.2-stable_win64_console.exe'
+New-Item -ItemType Directory -Force build | Out-Null
+& $godot --headless --path . --script res://scripts/renewal/qa/build_pack.gd -- build/XiaojuWorld.pck
+```
+
+请将 `$godot` 改为本机引擎路径。此命令生成 PCK；仓库不附带 Windows 游戏启动程序。
+
 ## 已知边界
 
 2026 年 11 月 8 日的正式包曾通过道路支撑、碰撞、地图、乘船、存档兼容和性能专项检查。自动化检查覆盖有限；画面风格和操作手感仍需玩家确认。
+
+发布前，从工程快照重新打包，并与当时的正式包逐项比较。正式包的 4,555 个资源条目均存在且内容一致。使用独立目录、隔离存档和本机游戏启动程序运行了 40 项移动检查，结果全部通过。
 
 ## 许可证
 
